@@ -1,0 +1,438 @@
+,taxID,genus,epithet,entry_UIDs,count,outgroup
+0,2592612,Hemileccinum,subglabripes,"['1783626405', '1783626407', '1783626409']",3,False
+1,2528269,Neoboletus,tomentulosus,"['1095783605', '1095783607']",2,False
+3,2338527,Spongispora,temasekensis,"['1477502629', '1477503447']",2,False
+4,2316095,Rhizopogon,subaustralis,['1593541958'],1,False
+5,2108296,Exsudoporus,floridanus,['1783626381'],1,False
+7,2057779,Rubroboletus,esculentus,"['1316069883', '1316069886']",2,False
+8,2050028,Aureoboletus,quercus-spinosae,"['1273279054', '1273279056', '1273279058', '1273279060']",4,False
+10,2029454,Afroboletus,multijugus,"['1375422455', '1375422457', '1375422459', '1275509062', '1275509064', '1275509066']",6,False
+11,1987365,Xerocomus,sp. ABM-2017a,"['1407918558', '1407919262']",2,False
+12,1979803,Suillus,phylopictus,"['1181244718', '1181244720', '1181244722']",3,False
+14,1968697,Suillus,sp. RZ-2017a,"['1181244541', '1181244543']",2,False
+15,1968696,Suillus,salmonicolor,"['1593541966', '1159182380']",2,False
+17,1935359,Rhizopogon,sp.,"['1593541954', '1593541956', '1593541960', '1593541964']",4,False
+18,1930190,Suillus,alpinus,"['1181244624', '1181244626']",2,False
+19,1930189,Suillus,aurihymenius,['1181244622'],1,False
+20,1928356,Suillus,sp.,"['1181244535', '1181244539', '1181244561', '1181244567', '1181244634', '1181244636', '1181244638', '1181244640', '1181244652', '1181244654', '1181244656', '1181244692', '1181244704', '1181244730', '1181244732', '1159182378']",16,False
+21,1918494,Singerocomus,inundabilis,"['814935189', '814935194', '814935199']",3,False
+22,1916381,Strobilomyces,sp.,"['1783626539', '1430401585', '1430401587', '1375422467', '1370767415', '1370767417', '1275509128', '1275509130', '1275509132', '1275509134', '1275509136', '1275509138', '1275509140', '1275509142', '1275509144', '1275509146', '1275509148', '1275509150', '1275509152', '1275509154', '1275509156', '1275509158', '1275509160', '1275509162', '1275509164', '1275509166', '1275509168', '1275509170', '1275509172', '1275509174', '1275509176', '1275509178', '1275509180', '1275509182', '1275509184', '1275509186', '1275509188', '1275509190', '1275509192', '1275509194', '1275509196', '1275509198', '1275509200', '1275509202', '1275509204', '1275509206', '1275509208', '1275509210', '1275509212', '1275509218', '1275509220']",51,False
+23,1914392,Sutorius,sp. HKAS 58724,['1095467807'],1,False
+24,1914391,Sutorius,sp. HKAS 59443,['1095467805'],1,False
+28,1914218,Tengioboletus,sp. HKAS 77869,['1095783681'],1,False
+29,1914216,Tengioboletus,reticulatus,"['1095783677', '1095783679']",2,False
+30,1914215,Tengioboletus,glutinosus,['1095783675'],1,False
+31,1914213,Chiua,virens,"['1370767369', '1095783501', '613808601']",3,False
+32,1914212,Tylocinum,griseolum,"['1095783491', '613808475']",2,False
+33,1914186,Boletellus,sp. HKAS 74907,['1095783461'],1,False
+34,1914185,Butyriboletus,sp. MHHNU 7456,['1095783471'],1,False
+35,1914181,Harrya,sp. HKAS 90194,['1095783721'],1,False
+36,1914180,Harrya,sp. HKAS 50526,['1095783711'],1,False
+37,1914179,Harrya,sp. HKAS 51181,['1095783567'],1,False
+38,1914178,Hemileccinum,sp. HKAS 59445,['1095783543'],1,False
+39,1914177,Leccinellum,sp. HKAS 53410,['1095783557'],1,False
+40,1914172,Pulveroboletus,sp. HKAS 52615,['1095783623'],1,False
+41,1914167,Tylopilus,sp. HKAS 90202,['1095783629'],1,False
+42,1914166,Tylopilus,sp. HKAS 50211,['1095783493'],1,False
+43,1914164,Neoboletus,ferrugineus,"['1095783575', '1095783577']",2,False
+44,1914158,Chiua,olivaceoreticulata,['1095783571'],1,False
+47,1914106,Xerocomus,subparvus,"['1095783697', '1095783707']",2,False
+52,1914100,Xerocomellus,communis,"['1095783703', '1095783705']",2,False
+53,1914099,Xerocomellus,corneri,"['1095783699', '1095783701']",2,False
+54,1914098,Xanthoconium,sinense,"['1213565107', '1213565156', '1213565162', '1095783691', '1095783693', '1095783695']",6,False
+55,1914097,Xanthoconium,porophyllum,['1095783689'],1,False
+56,1914096,Tylopilus,violaceobrunneus,['1095783723'],1,False
+57,1914092,Tylopilus,brunneirubens,"['1095783729', '613808391']",2,False
+58,1914089,Tylopilus,alpinus,['613808389'],1,False
+59,1914088,Tylopilus,aff. virens,['1095783499'],1,False
+60,1914086,Suillellus,subamygdalinus,"['1095783671', '1095783673']",2,False
+61,1914085,Strobilomyces,atrosquamosus,"['1275508980', '1275508982', '1275508984', '1275508986', '1275508988', '1095783655', '1095783667']",7,False
+62,1914084,Royoungia,reticulata,"['1095783569', '1095783573']",2,False
+64,1914082,Royoungia,coccineinana,['1095783409'],1,False
+65,1914080,Pulveroboletus,macrosporus,"['1211069824', '1211069826', '1095783619', '1095783621']",4,False
+66,1914079,Pulveroboletus,aff. ravenelii,['1095783617'],1,False
+67,1914078,Porphyrellus,orientifumosipes,['1095783637'],1,False
+68,1914077,Porphyrellus,castaneus,"['1370767397', '1095783487', '1095783719']",3,False
+70,1914075,Neoboletus,venenatus,['1095783611'],1,False
+71,1914074,Neoboletus,squamulistipes,['1095783609'],1,False
+72,1914073,Neoboletus,sanguineus,"['1095783599', '1095783601', '1095783603']",3,False
+73,1914072,Neoboletus,sanguineoides,"['1095783595', '1095783597']",2,False
+74,1914071,Neoboletus,rubriporus,"['1095783589', '1095783591', '1095783593']",3,False
+75,1914070,Neoboletus,obscureumbrinus,"['1694830684', '1579200711', '1579200713', '1579200715', '1095783581', '1095783583', '1095783585', '1095783587']",8,False
+76,1914069,Neoboletus,hainanensis,"['1095783579', '1095783613', '1095783615']",3,False
+77,1914066,Leccinellum,cremeum,['1095783555'],1,False
+78,1914065,Hortiboletus,subpaludosus,"['1095783549', '1095783551']",2,False
+79,1914064,Hortiboletus,amygdalinus,"['1095783545', '1095783547']",2,False
+80,1914062,Hemileccinum,rugosum,"['1095783537', '1095783539', '1095783541']",3,False
+81,1914060,Harrya,subalpina,['1095783717'],1,False
+82,1914058,Harrya,moniliformis,['1095783715'],1,False
+83,1914057,Harrya,atrogrisea,['1095783713'],1,False
+84,1914056,Harrya,alpina,['1095783641'],1,False
+85,1914054,Cyanoboletus,brunneoruber,"['1370767371', '1095783517', '1095783519']",3,False
+86,1914051,Butyriboletus,subsplendidus,['1095783473'],1,False
+87,1914049,Butyriboletus,pseudospeciosus,"['1095783475', '1095783477']",2,False
+88,1914047,Boletus,botryoides,['1095783465'],1,False
+89,1914045,Boletellus,indistinctus,"['1095783451', '1095783453', '1095783455', '1095783457']",4,False
+90,1914042,Aureoboletus,zangii,"['1095783439', '1095783441']",2,False
+91,1914041,Aureoboletus,yunnanensis,['1095783437'],1,False
+92,1914039,Aureoboletus,nephrosporus,"['1095783429', '1095783431']",2,False
+93,1914038,Aureoboletus,tomentosus,"['1095783419', '1095783421', '1095783423', '1095783425']",4,False
+94,1914037,Aureoboletus,duplicatoporus,"['1095783415', '1095783417', '613808523']",3,False
+95,1914036,Aureoboletus,catenarius,"['1095783411', '1095783413']",2,False
+96,1913000,Porphyrellus,nigropurpureus,"['1095783633', '1095783635']",2,False
+97,1912939,Suillus,fuscotomentosus,"['1181244644', '1181244646', '1181244648', '1181244650']",4,False
+99,1816307,Phylloporus,attenuatus,"['1007653573', '1007653575']",2,False
+100,1775971,Retiboletus,kauffmanii,"['1370767401', '1095783645', '971493039']",3,False
+101,1775115,Retiboletus,sinensis,['1095783643'],1,False
+102,1775113,Retiboletus,fuscus,"['1370767399', '1095783647', '1095783649']",3,False
+104,1748411,Costatisporus,cyanescens,['820687740'],1,False
+106,1748404,Guyanaporus,albipodus,['814935184'],1,False
+108,1728933,Rubroboletus,legaliae,"['1316069879', '939468941']",2,False
+109,1708621,Cyanoboletus,pulverulentus,"['1783626395', '939468931', '924658929']",3,False
+110,1708620,Cupreoboletus,poikilochromus,"['924658925', '924658927']",2,False
+111,1704548,Nigroboletus,roseonigrescens,['922059800'],1,False
+112,1688478,Strobilomyces,pteroreticulosporus,"['1375422465', '1275509072', '1275509074', '1275509076', '1275509078']",5,False
+113,1665470,Strobilomyces,sp. NY0075256,['831436811'],1,False
+114,1665469,Strobilomyces,sp. NY0075253,['831436809'],1,False
+115,1661727,Aureoboletus,projectellus,"['1783626349', '55584693']",2,False
+116,1661726,Aureoboletus,mirabilis,['613808501'],1,False
+118,1611992,Rubroboletus,sinicus,"['756652058', '613808337']",2,False
+119,1611991,Rubroboletus,latisporus,"['756652052', '756652054']",2,False
+120,1611890,Afroboletus,luteolus,"['1430401511', '1375422449', '1375422451', '1375422453', '1275509044', '1275509046', '1275509048']",7,False
+121,1611281,Hourangia,nigropunctata,"['756402486', '756402488', '756402490', '756402498', '756402502']",5,False
+122,1611265,Hourangia,cheoi,"['756402484', '756402492', '756402494', '756402496', '756402500', '756402504']",6,False
+129,1603062,Lanmaoa,asiatica,"['1430401569', '1095783553', '756154667', '756154669', '756154671']",5,False
+130,1603061,Lanmaoa,angustispora,"['756154673', '756154675']",2,False
+131,1603060,Rugiboletus,extremiorientalis,"['1370767409', '1095783653', '756154659']",3,False
+132,1603059,Rugiboletus,brunneiporus,"['756154655', '756154657', '756154661']",3,False
+133,1603058,Parvixerocomus,pseudoaokii,"['1370767393', '756154679', '756154681']",3,False
+134,1603057,Neoboletus,brunneissimus,"['1370767389', '756154663', '756154665', '613808315']",4,False
+135,1581022,Austroboletus,sp. 8 GB-2014,"['745739982', '745740062']",2,False
+136,1581021,Austroboletus,sp. 7 GB-2014,"['745739966', '745740024', '745740026']",3,False
+137,1581020,Austroboletus,sp. 6 GB-2014,"['745739976', '745739996', '745740006', '745740022', '745740036', '745740038']",6,False
+138,1581019,Austroboletus,sp. 5 GB-2014,['745740050'],1,False
+139,1581018,Austroboletus,sp. 4 GB-2014,"['745739972', '745739978']",2,False
+140,1581017,Austroboletus,sp. 3 GB-2014,"['745739974', '745739984', '745739986', '745739994', '745739998', '745740000', '745740002']",7,False
+141,1581016,Austroboletus,sp. 2 GB-2014,"['745739970', '745739980', '745740010', '745740012', '745740014', '745740040', '745740042', '745740044', '745740052']",9,False
+142,1581015,Austroboletus,sp. 1 GB-2014,"['745739968', '745740016', '745740046', '745740048']",4,False
+143,1581013,Austroboletus,mutabilis,"['745739988', '745739990', '745739992', '745740004', '745740008', '745740028', '745740030', '745740032', '745740034']",9,False
+144,1545766,Boletellus,cf. paradoxus BLT-136,['886839087'],1,False
+145,1545765,Boletellus,aurocontextus,"['886839031', '886839037', '886839039', '886839043', '886839051', '886839053', '886839055', '886839057', '886839059', '886839061', '886839063', '886839065', '886839071', '886839073', '886839075', '886839079', '886839083']",17,False
+146,1545764,Boletellus,areolatus,"['886839025', '886839027', '886839077', '886839085']",4,False
+147,1522523,Crocinoboletus,laetissimus,['613808437'],1,False
+148,1487349,Xerocomus,punctilifer,"['613808559', '613808561']",2,False
+149,1487348,Xerocomellus,cisalpinus,"['939468891', '613808387']",2,False
+150,1487347,Tylopilus,otsuensis,['613808609'],1,False
+151,1487346,Tylopilus,microsporus,['613808611'],1,False
+152,1487343,Mucilopilus,castaneiceps,"['1095783485', '1095783497', '613808485']",3,False
+153,1487341,Heimioporus,japonicus,"['1446499771', '1095783531', '939468913', '613808627']",4,False
+154,1487333,Boletus,sinensis,['613808317'],1,False
+155,1487332,Crocinoboletus,rufoaureus,"['613808433', '613808435']",2,False
+157,1487329,Heimioporus,sp. HKAS 53451,['613808625'],1,False
+158,1487328,Heimioporus,aff. japonicus HKAS 52236,['613808629'],1,False
+159,1487323,Xerocomus,sp. HKAS 76853,['613808581'],1,False
+160,1487322,Xerocomus,sp. HKAS 76666,['613808593'],1,False
+161,1487321,Xerocomus,sp. HKAS 76657,['613808563'],1,False
+162,1487318,Xerocomus,sp. HKAS 74712,['613808427'],1,False
+163,1487316,Xerocomus,sp. HKAS 53387,['613808591'],1,False
+164,1487314,Xerocomus,sp. HKAS 52575,['613808579'],1,False
+165,1487313,Xerocomus,sp. HKAS 52557,['613808429'],1,False
+166,1487312,Xerocomus,aff. subtomentosus HKAS 58865,['613808583'],1,False
+167,1487311,Xerocomus,aff. macrobbii HKAS 56280,['613808431'],1,False
+168,1487310,Xerocomellus,sp. HKAS 76673,['613808401'],1,False
+169,1487309,Xerocomellus,sp. HKAS 59608,['613808407'],1,False
+170,1487308,Xerocomellus,sp. HKAS 56311,['613808383'],1,False
+171,1487307,Xerocomellus,sp. HKAS 51292,['613808399'],1,False
+172,1487305,Xerocomellus,sp. HKAS 50466,['613808403'],1,False
+173,1487304,Xerocomellus,aff. rubellus HKAS 51239,['613808405'],1,False
+174,1487303,Veloporphyrellus,aff. velatus HKAS 57490,['613808481'],1,False
+175,1487302,Tylopilus,sp. HKAS 74928,['613808603'],1,False
+176,1487301,Tylopilus,sp. HKAS 74925,['613808493'],1,False
+177,1487299,Tylopilus,sp. HKAS 53590,['613808483'],1,False
+178,1487297,Tylopilus,sp. HKAS 53367,['613808595'],1,False
+179,1487295,Tylopilus,sp. HKAS 50229,['613808553'],1,False
+180,1487294,Tylopilus,sp. HKAS 46334,['613808605'],1,False
+181,1487292,Tylopilus,aff. balloui HKAS 59700,['613808495'],1,False
+182,1487291,Sutorius,aff. eximius HKAS 56291,['613808621'],1,False
+183,1487290,Sutorius,aff. eximius HKAS 52672,['613808619'],1,False
+184,1487289,Suillus,aff. luteus HKAS 57748,['613808663'],1,False
+185,1487288,Suillus,aff. granulatus HKAS 57622,['613808661'],1,False
+186,1487287,Strobilomyces,sp. HKAS 74911,['613808633'],1,False
+187,1487286,Strobilomyces,sp. HKAS 74865,['613808639'],1,False
+188,1487285,Strobilomyces,sp. HKAS 74809,['613808631'],1,False
+190,1487282,Strobilomyces,sp. HKAS 59420,['613808635'],1,False
+191,1487281,Strobilomyces,sp. HKAS 53348,['613808637'],1,False
+192,1487280,Strobilomyces,aff. verruculosus HKAS 55389,['613808641'],1,False
+193,1487279,Strobilomyces,aff. seminudus HKAS 59461,['613808645'],1,False
+194,1487277,Retiboletus,aff. ornatipes HKAS 63548,['613808393'],1,False
+195,1487276,Pulveroboletus,sp. HKAS 74933,['613808441'],1,False
+196,1487275,Pulveroboletus,sp. HKAS 58860,['613808443'],1,False
+197,1487274,Pulveroboletus,sp. HKAS 57665,['613808445'],1,False
+198,1487273,Pulveroboletus,aff. ravenelii HKAS 53351,['613808439'],1,False
+199,1487270,Porphyrellus,sp. HKAS 53366,['613808447'],1,False
+200,1487269,Porphyrellus,holophaeus,['1095783727'],1,False
+201,1487268,Phylloporus,sp. HKAS 63001,['613808589'],1,False
+202,1487267,Phylloporus,sp. HKAS 53422,['613808569'],1,False
+203,1487266,Phlebopus,aff. portentosus HKAS 52855,['613808659'],1,False
+204,1487265,Leccinum,sp. HKAS 57592,['613808467'],1,False
+205,1487264,Leccinum,sp. HKAS 52538,['613808457'],1,False
+206,1487263,Leccinum,aff. scabrum HKAS 57266,['613808459'],1,False
+207,1487262,Leccinum,aff. extremiorientale HKAS 68586,['613808453'],1,False
+208,1487260,Leccinellum,sp. HKAS 53427,['613808469'],1,False
+209,1487259,Leccinellum,aff. crocipodium HKAS 76658,['613808471'],1,False
+210,1487258,Gyroporus,sp. HKAS 63505,['613808667'],1,False
+211,1487256,Gyrodon,sp. HKAS 59448,['613808651'],1,False
+212,1487255,Gyrodon,sp. HKAS 57588,['613808649'],1,False
+213,1487254,Gastroboletus,sp. HKAS 57093,['613808325'],1,False
+214,1487251,Boletus,sp. HKAS 76850,['613808409'],1,False
+215,1487249,Boletus,sp. HKAS 76660,['613808477'],1,False
+216,1487248,Boletus,sp. HKAS 75081,['613808371'],1,False
+217,1487247,Boletus,sp. HKAS 75054,['613808513'],1,False
+218,1487246,Boletus,sp. HKAS 74864,['613808373'],1,False
+219,1487245,Boletus,sp. HKAS 74765,['613808375'],1,False
+220,1487244,Boletus,sp. HKAS 68679,['613808339'],1,False
+221,1487243,Boletus,sp. HKAS 68587,['613808329'],1,False
+222,1487242,Boletus,sp. HKAS 67896,['613808515'],1,False
+223,1487241,Boletus,sp. HKAS 63607,['613808369'],1,False
+224,1487240,Boletus,sp. HKAS 63598,['613808341'],1,False
+225,1487239,Boletus,sp. HKAS 63528,['613808361'],1,False
+226,1487238,Boletus,sp. HKAS 63504,['613808419'],1,False
+227,1487235,Boletus,sp. HKAS 59814,['613808413'],1,False
+228,1487233,Boletus,sp. HKAS 59660,['613808343'],1,False
+229,1487232,Boletus,sp. HKAS 59609,['613808415'],1,False
+230,1487231,Boletus,sp. HKAS 59554,['613808411'],1,False
+231,1487230,Boletus,sp. HKAS 59469,['613808353'],1,False
+232,1487229,Boletus,sp. HKAS 57774,['613808355'],1,False
+233,1487228,Boletus,sp. HKAS 57512,['613808327'],1,False
+235,1487225,Boletus,sp. HKAS 55444,['613808347'],1,False
+236,1487224,Boletus,sp. HKAS 55413,['613808363'],1,False
+237,1487223,Boletus,sp. HKAS 55373,['613808623'],1,False
+238,1487222,Boletus,sp. HKAS 53426,['613808671'],1,False
+239,1487221,Boletus,sp. HKAS 53425,['613808615'],1,False
+240,1487220,Boletus,sp. HKAS 53421,['613808517'],1,False
+241,1487219,Boletus,sp. HKAS 53369,['613808333'],1,False
+242,1487218,Boletus,sp. HKAS 53353,['613808351'],1,False
+243,1487217,Boletus,sp. HKAS 52661,['613808367'],1,False
+244,1487216,Boletus,sp. HKAS 52639,['613808417'],1,False
+245,1487215,Boletus,sp. HKAS 52601,['613808479'],1,False
+246,1487214,Boletus,sp. HKAS 52525,['613808357'],1,False
+247,1487213,Boletus,sp. HKAS 52518,['613808381'],1,False
+248,1487212,Boletus,sp. HKAS 52235,['613808425'],1,False
+249,1487211,Boletus,sp. HKAS 50351,['613808331'],1,False
+250,1487207,Boletus,aff. speciosus HKAS 59467,['613808359'],1,False
+251,1487206,Boletus,aff. erythropus HKAS 55440,['613808319'],1,False
+252,1487205,Lanmaoa,aff. carminipes HKAS 54094,['613808379'],1,False
+253,1487204,Boletus,aff. calopus HKAS 74739,['613808349'],1,False
+254,1487203,Parvixerocomus,aff. aokii HKAS 52633,['613808487'],1,False
+255,1487202,Suillellus,aff. amygdalinus HKAS 57262,['613808335'],1,False
+256,1487201,Boletellus,sp. HKAS 74888,['613808509'],1,False
+257,1487200,Boletellus,sp. HKAS 74783,['613808557'],1,False
+258,1487199,Boletellus,sp. HKAS 59536,['613808531'],1,False
+259,1487198,Boletellus,sp. HKAS 58713,['613808533'],1,False
+260,1487197,Boletellus,sp. HKAS 53376,['613808503'],1,False
+261,1487196,Boletellus,sp. HKAS 53375,['613808511'],1,False
+262,1487194,Boletellus,aff. emodensis HKAS 52678,['613808529'],1,False
+263,1487192,Austroboletus,sp. HKAS 59624,['613808545'],1,False
+264,1487191,Austroboletus,sp. HKAS 57756,['613808543'],1,False
+265,1487190,Austroboletus,aff. mutabilis HKAS 53450,['613808551'],1,False
+266,1487189,Austroboletus,aff. fusisporus HKAS 53461,['613808549'],1,False
+267,1487188,Austroboletus,aff. fusisporus HKAS 52683,['613808547'],1,False
+268,1487187,Aureoboletus,sp. HKAS 57581,['613808507'],1,False
+269,1487186,Aureoboletus,sp. HKAS 53458,['613808499'],1,False
+270,1485230,Suillus,marginielevatus,['1181244734'],1,False
+274,1398506,Imleria,subalpina,"['548918294', '610845703']",2,False
+275,1398505,Imleria,obscurebrunnea,"['1430401567', '548918285', '548918297']",3,False
+276,1398504,Imleria,parva,"['548918290', '548918292']",2,False
+277,1391648,Aureoboletus,tenuis,"['1095783433', '961589964']",2,False
+279,1355219,Leccinellum,crocipodium,"['1783626429', '939468947']",2,False
+282,1354920,Xerocomellus,chrysenteron,"['1783626553', '1783626555', '610845701', '939468939', '613808385']",5,False
+284,1354916,Leccinellum,corsicum,['1783626427'],1,False
+285,1354912,Baorangia,rufomaculata,['1487704501'],1,False
+289,1354897,Aureoboletus,roxanae,['1783626351'],1,False
+290,1354896,Aureoboletus,moravicus,"['1370767345', '613808505']",2,False
+292,1325616,Butyriboletus,roseoflavus,"['1246764057', '612064534']",2,False
+293,1325514,Harrya,chromapes,"['1783626399', '1783626401', '613808599']",3,False
+296,1297042,Boletus,roseopurpureus,['1487704507'],1,False
+297,1288706,Phylloporus,imbricatus,['613808587'],1,False
+298,1288704,Phylloporus,luxiensis,['613808585'],1,False
+299,1282272,Caloboletus,firmus,['1783626383'],1,False
+300,1278234,Strobilomyces,echinocephalus,"['1375422461', '1370767413', '1275509008', '1275509010', '1275509012', '1275509014']",6,False
+301,1278228,Tylopilus,balloui,['1095783565'],1,False
+302,1269243,Tylopilus,griseipurpureus,"['1095783631', '592962501', '592962503', '592962505', '592962507']",5,False
+303,1263940,Strobilomyces,hongoi,"['347582350', '347582354', '347582366', '347582374', '347582390', '347582394', '347582396', '347582416']",8,False
+305,1256248,Retiboletus,aff. nigerrimus HKAS 59699,['442557405'],1,False
+306,1256247,Retiboletus,aff. griseus HKAS 59460,['442557401'],1,False
+307,1256246,Leccinum,aff. aurantiacum HKAS 57390,['442557403'],1,False
+309,1256133,Borofutus,dhakanus,"['1430401525', '1370767355', '1370767357', '1370767359', '1370767361', '442557391', '442557393', '442557395']",8,False
+310,1217839,Suillus,ponderosus,['1181244752'],1,False
+311,1195726,Xerocomus,magniporus,"['613808577', '392507311']",2,False
+316,1173595,Lanmaoa,carminipes,['1487704509'],1,False
+317,1089193,Zangia,roseola,['442557407'],1,False
+318,1089190,Zangia,erythrocephala,['613808597'],1,False
+319,1089185,Tylopilus,violatinctus,['613808613'],1,False
+320,925758,Xanthoconium,purpureum,['1783626551'],1,False
+322,925644,Retiboletus,griseus,"['1783626527', '939468899', '613808397']",3,False
+323,925643,Lanmaoa,pallidorosea,['1487704505'],1,False
+332,889443,Retiboletus,nigerrimus,"['1095783639', '939468905', '347582420']",3,False
+333,889441,Strobilomyces,aff. strobilaceus ST10-1,['347582408'],1,False
+334,889440,Strobilomyces,aff. confusus SC1-5,['347582388'],1,False
+335,889439,Strobilomyces,aff. confusus SC2-5,['347582386'],1,False
+336,889438,Strobilomyces,aff. confusus SC2-4,['347582384'],1,False
+337,889437,Strobilomyces,aff. strobilaceus ST9-1,['347582382'],1,False
+338,889436,Strobilomyces,aff. confusus SC1-4,['347582380'],1,False
+339,889435,Strobilomyces,aff. confusus SC2-3,['347582378'],1,False
+340,889434,Strobilomyces,aff. confusus SC2-2,['347582376'],1,False
+341,889433,Strobilomyces,aff. confusus SC2-1,['347582372'],1,False
+342,889432,Strobilomyces,aff. confusus SC1-3,['347582370'],1,False
+343,889431,Strobilomyces,aff. strobilaceus ST5-4,['347582368'],1,False
+344,889430,Strobilomyces,aff. confusus SC1-2,['347582364'],1,False
+345,889429,Strobilomyces,sp. SU-1,['347582358'],1,False
+346,889428,Strobilomyces,aff. strobilaceus ST8-1,['347582356'],1,False
+347,889427,Strobilomyces,aff. strobilaceus ST7-1,['347582352'],1,False
+348,889425,Strobilomyces,aff. strobilaceus ST5-3,['347582344'],1,False
+349,889424,Strobilomyces,aff. strobilaceus ST5-2,['347582342'],1,False
+350,889423,Strobilomyces,aff. strobilaceus ST6-3,['347582340'],1,False
+351,889422,Strobilomyces,aff. strobilaceus ST6-2,['347582338'],1,False
+352,889421,Strobilomyces,aff. strobilaceus ST6-1,['347582336'],1,False
+353,889420,Strobilomyces,aff. strobilaceus ST5-1,['347582334'],1,False
+354,889419,Strobilomyces,aff. strobilaceus ST4-1,['347582332'],1,False
+355,889418,Strobilomyces,aff. strobilaceus ST3-1,['347582330'],1,False
+356,889417,Strobilomyces,aff. confusus SC1-1,['347582328'],1,False
+357,889416,Strobilomyces,aff. strobilaceus ST2-1,['347582326'],1,False
+358,889415,Strobilomyces,foveatus,"['1275509016', '1275509018', '347582314', '347582320', '347582322', '347582324', '347582410', '347582412', '347582414']",9,False
+359,889414,Strobilomyces,annulatus,"['347582312', '347582316', '347582318']",3,False
+360,889413,Strobilomyces,aff. strobilaceus ST1-1,['347582310'],1,False
+361,860684,Coniophora,cerebella,['300394685'],1,False
+366,693316,Rhizopogon,nigrescens,['300394745'],1,False
+367,693315,Pseudomerulius,curtisii,['300394725'],1,False
+368,693305,Coniophora,sp. Braz-6,['300394701'],1,False
+369,676142,Buchwaldoboletus,lignicola,"['1430401527', '1095783469', '613808653']",3,False
+370,654445,Aureoboletus,longicollis,"['1095783427', '1095783443', '613808525']",3,False
+372,634911,Calostoma,sarasinii,['224223825'],1,False
+373,627136,Suillus,quiescens,"['1181244523', '1181244525']",2,False
+374,610362,Gyroporus,sp. AWW-2009a,['224223841'],1,False
+375,595539,Gyroporus,sp. Arora 00-429,['224223847'],1,False
+376,555544,Scleroderma,sp. AWW311,['224223883'],1,False
+377,555543,Scleroderma,sp. AWW260,['224223881'],1,False
+378,555542,Scleroderma,meridionale,['224223873'],1,False
+379,555539,Pisolithus,sp. ECV3205,['224223859'],1,False
+380,555538,Phlebopus,sp. REH8795,['224223855'],1,False
+381,555537,Phlebopus,marginatus,['224223851'],1,False
+382,555536,Gyroporus,subalbellus,"['1474741476', '1474741478', '1474741480', '1474741482', '224223849']",5,False
+383,555534,Gyroporus,sp. REH8799,['224223845'],1,False
+384,555531,Gyroporus,aff. cyanescens REH8821,['224223839'],1,False
+385,555524,Calostoma,sp. HKAS38139,['224223829'],1,False
+386,555520,Calostoma,japonicum,['224223819'],1,False
+387,555519,Calostoma,fuscum,['224223815'],1,False
+388,555518,Calostoma,berkeleyi,['224223813'],1,False
+389,554319,Spongiforma,thailandica,['1370767411'],1,False
+390,554049,Astraeus,asiaticus,['224223811'],1,False
+391,537024,Exsudoporus,frostii,"['756652050', '613808365']",2,False
+392,526941,Gyroporus,purpurinus,"['1474741472', '224223843']",2,False
+393,519976,Tylopilus,porphyrosporus,"['1095783479', '1095783481', '613808451', '300394733']",4,False
+394,509538,Boletellus,emodensis,"['886839023', '886839029', '886839033', '886839035', '886839041', '886839045', '886839047', '886839049', '886839067', '886839069', '886839081']",11,False
+395,509537,Austroboletus,subvirens,"['745740020', '745740054', '745740056', '745740058', '745740060']",5,False
+396,509536,Baorangia,pseudocalopus,['756154677'],1,False
+397,509535,Strobilomyces,verruculosus,"['1275509120', '1275509122', '1275509124', '1275509126', '1095783665', '347582348']",6,False
+399,495285,Boletus,reticuloceps,"['1275509228', '1095783467', '613808421']",3,False
+402,459207,Strobilomyces,strobilaceus,"['1275509092', '1275509094', '1275509096', '1275509098', '1275509100', '1095783661', '1095783663']",7,False
+404,418297,Strobilomyces,mirandus,"['1375422463', '1275509050', '1275509052', '1275509054', '939468915', '347582360']",6,False
+416,411561,Leucogyrophana,lichenicola,['300394711'],1,False
+417,405850,Suillellus,amygdalinus,"['1095783669', '1095783683']",2,False
+418,394190,Scleroderma,polyrhizum,['224223877'],1,False
+419,391321,Scleroderma,bermudense,['224223869'],1,False
+422,388870,Tremellogaster,surinamensis,['224223885'],1,False
+424,388859,Hydnomerulius,pinastri,['300394707'],1,False
+427,388837,Aureoboletus,gentilis,"['939468893', '613808497']",2,False
+429,374766,Tylopilus,plumbeoviolaceoides,['613808491'],1,False
+430,374763,Strobilomyces,seminudus,"['1275509080', '1275509082', '1275509084', '1275509086', '1275509088', '1275509090', '1095783657', '1095783659', '347582346', '347582362', '347582392', '347582398', '347582400', '347582402', '347582404', '347582406', '195182671', '195182673', '195182675', '195182678', '195182680', '195182682', '195182684', '195182687', '195182689', '195182691', '195182694']",27,False
+431,374762,Strobilomyces,confusus,"['1783626537', '1275508998', '1275509000', '195182650', '195182652', '195182654', '195182656', '195182659', '195182661', '195182664', '195182666', '195182668']",12,False
+432,374759,Neoboletus,magnificus,"['613808321', '613808323']",2,False
+433,287845,Butyriboletus,pseudoregius,['1370767365'],1,False
+434,285024,Aureoboletus,thibetanus,"['1095783445', '1095783447', '961589966', '961589968', '613808519', '86559340']",6,False
+435,283656,Boletellus,shichianus,"['613808527', '86559342']",2,False
+437,273862,Leccinum,monticola,"['1783626457', '1783626459', '613808461']",3,False
+438,265030,Gyrodontium,sacchari,['300394661'],1,False
+439,265028,Serpula,similis,['300394757'],1,False
+440,222705,Suillus,pictus,['55583705'],1,False
+441,217297,Pseudomerulius,aureus,['300394731'],1,False
+442,196695,Leccinum,quercinum,['613808463'],1,False
+443,188927,Pisolithus,aurantioscabrosus,['224223857'],1,False
+445,182792,Boletus,violaceofuscus,['613808539'],1,False
+447,182790,Boletus,separans,['1783626377'],1,False
+448,182636,Phylloporus,pelletieri,['1591645704'],1,False
+449,182632,Boletus,reticulatus,['347582418'],1,False
+450,182627,Butyriboletus,appendiculatus,['1370767363'],1,False
+451,182626,Boletus,aereus,['1370767349'],1,False
+452,178529,Leccinum,extremiorientale,['613808455'],1,False
+453,178459,Suillus,bellinii,['1181244521'],1,False
+454,178457,Rubroboletus,rhodoxanthus,['1095783651'],1,False
+455,178449,Coniophora,prasinoides,['300394703'],1,False
+457,157263,Coniophora,marmorata,['300394693'],1,False
+458,150864,Gyroporus,castaneus,"['1474741462', '1474741464', '1474741466', '1474741468', '1474741470', '1474741474', '613808669', '224223831', '224223833', '224223835']",10,False
+459,150802,Scleroderma,sinnamariense,['224223879'],1,False
+460,150797,Scleroderma,bovista,['224223867'],1,False
+461,150796,Scleroderma,areolatum,"['224223863', '224223865']",2,False
+462,150782,Astraeus,hygrometricus,"['224223807', '224223809']",2,False
+463,145387,Chalciporus,piperatus,"['1430401533', '1095783509']",2,False
+464,132918,Gomphidius,roseus,['300394769'],1,False
+465,121052,Leccinum,variicolor,"['1370767387', '613808465']",2,False
+466,121051,Leccinum,scabrum,"['1095783559', '1095783561', '939468929']",3,False
+467,121045,Xerocomus,impolitus,"['1370767383', '1095783535']",2,False
+468,121037,Sutorius,eximius,"['1783626545', '1783626573', '1370767421', '1095783489', '1095783725']",5,False
+469,116602,Suillus,fluryi,"['1181244529', '1181244531', '1181244533']",3,False
+470,101661,Leucogyrophana,olivascens,['300394713'],1,False
+471,98230,Tylopilus,felleus,"['1783626547', '1095783483', '939468945', '613808489']",4,False
+473,90004,Rhizopogon,roseolus,['1593541962'],1,False
+474,85998,Suillus,viscidus,"['1181244630', '1181244632', '1181244768']",3,False
+475,85982,Serpula,lacrymans,['300394751'],1,False
+476,85981,Leucogyrophana,romellii,['300394721'],1,False
+477,85980,Leucogyrophana,mollusca,"['300394723', '300394767']",2,False
+478,85979,Leucogyrophana,arizonica,['300394717'],1,False
+481,85971,Gyrodon,lividus,['300394705'],1,False
+482,83217,Calostoma,ravenelii,['224223821'],1,False
+483,83216,Calostoma,cinnabarinum,['55273994'],1,False
+484,80670,Strobilomyces,floccopus,"['939468927', '55583703']",2,False
+485,80668,Pulveroboletus,ravenelii,['1024252120'],1,False
+486,80664,Pisolithus,arhizus,['300394729'],1,False
+487,80661,Phlebopus,portentosus,"['300394735', '224223853']",2,False
+488,80648,Gyroporus,cyanescens,"['1474741440', '1474741442', '1474741444', '224223837']",4,False
+489,80646,Boletinellus,merulioides,['86559344'],1,False
+490,80637,Coniophora,puteana,"['300394687', '300394689']",2,False
+491,80636,Coniophora,arida,"['300394683', '86559346']",2,False
+492,80609,Xerocomus,subtomentosus,['1370767429'],1,False
+495,80602,Serpula,himantioides,"['925717641', '925717643', '735997316', '300394749', '300394755', '86559348']",6,False
+496,80580,Xanthoconium,affine,['1095783687'],1,False
+498,80578,Boletellus,ananas,"['1783626365', '1430401523']",2,False
+500,72124,Hygrophoropsis,aurantiaca,"['735997269', '55583691']",2,False
+501,72122,Tapinella,atrotomentosa,"['300394759', '300394761']",2,False
+502,68788,Scleroderma,citrinum,"['735997315', '224223871']",2,False
+504,48590,Suillus,tridentinus,['1181244620'],1,False
+505,48589,Suillus,tomentosus,"['1181244658', '1181244660']",2,False
+506,48587,Suillus,subaureus,"['1181244710', '1181244712']",2,False
+507,48585,Suillus,spectabilis,"['1181244596', '1181244598', '1181244600', '1181244602']",4,False
+508,48584,Suillus,sibiricus,"['1181244696', '1181244698', '1181244700', '1181244708']",4,False
+509,48582,Suillus,pungens,"['1181244545', '1181244547']",2,False
+510,48580,Suillus,pseudobrevipes,"['1181244553', '1181244555', '1181244557']",3,False
+511,48579,Suillus,placidus,"['1181244726', '1181244728']",2,False
+512,48578,Suillus,paluster,['1181244742'],1,False
+513,48577,Suillus,ochraceoroseus,['1181244744'],1,False
+514,48574,Suillus,lakei,"['1593541950', '1593541952', '1181244748', '1181244754']",4,False
+515,48573,Suillus,intermedius,['1181244694'],1,False
+516,48572,Suillus,grisellus,['1181244628'],1,False
+517,48570,Suillus,glandulosipes,['1181244549'],1,False
+518,48566,Suillus,caerulescens,"['1181244746', '1181244750']",2,False
+519,48565,Suillus,brevipes,['1181244551'],1,False
+520,48564,Suillus,bresadolae,['300394753'],1,False
+521,48563,Suillus,bovinus,['1181244642'],1,False
+522,48562,Suillus,asiaticus,"['1181244738', '1181244740']",2,False
+523,48561,Suillus,americanus,['1181244702'],1,False
+524,37468,Pisolithus,tinctorius,['224223861'],1,False
+525,36058,Xerocomus,badius,"['1783626415', '1783626417', '548918287', '939468937', '756421100']",5,False
+526,36056,Boletus,edulis,"['1370767351', '735997241', '613808423', '300394681']",4,False
+527,5384,Suillus,luteus,"['1181244559', '1181244563', '1181244565', '1181244569']",4,False
+528,5383,Suillus,spraguei,"['1181244714', '1181244716']",2,False
+529,5382,Suillus,grevillei,"['1181244606', '1181244608', '1181244610', '1181244612', '1181244614', '1181244616', '1181244618', '1181244766', '735997322']",9,False
+530,5381,Suillus,sinuspaulianus,['1181244604'],1,False
+531,5380,Suillus,cavipes,['1181244736'],1,False
+532,5374,Phylloporus,rhodoxanthus,['1591645710'],1,False

@@ -1,0 +1,6 @@
+execute paup_block.nex;lset nthreads=1;
+
+set autoclose=yes;
+
+execute infile.nex;
+quit;

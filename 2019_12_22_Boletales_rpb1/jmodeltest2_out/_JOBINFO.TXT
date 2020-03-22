@@ -1,0 +1,14 @@
+Task\ label=REST v1_18
+Task\ ID=69786
+Tool=JMODELTEST2_XSEDE
+created\ on=2020-01-05 10:12:58.0
+JobHandle=NGBW-JOB-JMODELTEST2_XSEDE-B583AA6FCED448AD9AA4AF8D7B9F6FF6
+resource=comet
+User\ ID=1714
+User\ Name=biotomme
+email=thomas.huber@evobio.eu
+
+Output=(all_results,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=24
+JOBID=30688468

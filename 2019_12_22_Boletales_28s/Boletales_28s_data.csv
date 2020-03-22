@@ -1,0 +1,3215 @@
+,taxID,accession,length,date,organism,reference,gene_information,sampling_locality,outgroup,genus,epithet
+1_KF030303.1,2592612,KF030303.1,872,07-DEC-2017,Hemileccinum subglabripes,"location: [0:872]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],"['USA: Jefferson, NH']",False,Hemileccinum,subglabripes
+2_MH879691.1,2528269,MH879691.1,917,27-FEB-2019,Neoboletus tomentulosus,"location: [0:917]
+authors: Chai,H., Liang,Z.-Q., Xue,R., Jiang,S., Luo,S.-H., Wang,Y., Wu,L.-L., Tang,L.-P., Chen,Y., Hong,D. and Zeng,N.-K.
+title: New and noteworthy boletes from subtropical and tropical China
+journal: MycoKeys 46, 55-96 (2019)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China: Fujian Province'],False,Neoboletus,tomentulosus
+3_NG_064493.1,2338527,NG_064493.1,896,27-FEB-2019,Spongispora temasekensis,"location: [0:896]
+authors: Wu,G., Lee,S.M., Horak,E. and Yang,Z.L.
+title: Spongispora temasekensis, a new boletoid genus and species from Singapore
+journal: Mycologia (2018) In press
+medline id: 
+pubmed id: 30215573
+comment: Publication Status: Available-Online prior to print
+",['28S ribosomal RNA'],['Singapore'],False,Spongispora,temasekensis
+5_KY272129.1,2057779,KY272129.1,782,27-DEC-2017,Rubroboletus esculentus,"location: [0:782]
+authors: Zhao,K. and Shao,H.M.
+title: A new edible bolete, Rubroboletus esculentus, from southwestern China
+journal: Phytotaxa 303 (3), 243-252 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Rubroboletus,esculentus
+6_NG_057121.1,2050028,NG_057121.1,836,17-MAY-2018,Aureoboletus quercus-spinosae,"location: [0:836]
+authors: Zhang,M., Li,T.H., Nuhn,M.E., Tsering,T. and Song,B.
+title: Aureoboletus quercus-spinosae, a new species from Tibet of China
+journal: Mycoscience 58 (3), 192-196 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Aureoboletus,quercus-spinosae
+7_MH879702.1,2048560,MH879702.1,929,27-FEB-2019,Caloboletus xiangtoushanensis,"location: [0:929]
+authors: Chai,H., Liang,Z.-Q., Xue,R., Jiang,S., Luo,S.-H., Wang,Y., Wu,L.-L., Tang,L.-P., Chen,Y., Hong,D. and Zeng,N.-K.
+title: New and noteworthy boletes from subtropical and tropical China
+journal: MycoKeys 46, 55-96 (2019)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China: Fujian Province'],False,Caloboletus,xiangtoushanensis
+8_MF614166.1,1987365,MF614166.1,872,27-JUN-2018,Xerocomus sp. ABM-2017a,"location: [0:872]
+authors: Smith,M.E., Obase,K., Mujic,A.B., Kraisit,N., Hitchcock,H.C., Bessette,A.R. and Bessette,A.E.
+title: Xerocomus sclerotiorum sp. nov., a colorful new bolete species from the Eastern United States that forms hidden sclerotia in leaf litter and soil
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],"['USA: Tennessee, Anderson County, Oakridge']",False,Xerocomus,sp. ABM-2017a
+9_NG_059657.1,1979803,NG_059657.1,896,05-JUN-2018,Suillus phylopictus,"location: [0:896]
+authors: Zhang,R., Mueller,G.M., Shi,X.F. and Liu,P.G.
+title: Two new species in the Suillus spraguei complex from China
+journal: Mycologia 109 (2), 296-307 (2017)
+medline id: 
+pubmed id: 28463625
+comment: 
+",['28S ribosomal RNA'],"['China: Guangdong, Ruyuan County']",False,Suillus,phylopictus
+10_NG_059658.1,1979801,NG_059658.1,930,05-JUN-2018,Suillus kwangtungensis,"location: [0:930]
+authors: Zhang,R., Mueller,G.M., Shi,X.F. and Liu,P.G.
+title: Two new species in the Suillus spraguei complex from China
+journal: Mycologia 109 (2), 296-307 (2017)
+medline id: 
+pubmed id: 28463625
+comment: 
+",['28S ribosomal RNA'],"['China: Guangdong, Ruyuan County']",False,Suillus,kwangtungensis
+11_KU721332.1,1968697,KU721332.1,910,30-NOV-2017,Suillus sp. RZ-2017a,"location: [0:910]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['China: Qing Shui Tang Village, Baoshan, Yunnan province']",False,Suillus,sp. RZ-2017a
+12_KX170999.1,1968696,KX170999.1,905,30-NOV-2017,Suillus salmonicolor,"location: [0:905]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of the Evolutionary History of Ectomycorrhizal Fungi Revealed by Host Association Analysis in the Genus Suillus (Boletales, Basidiomycota)
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['Belize: Pine ridge mountains'],False,Suillus,salmonicolor
+13_KP859291.1,1935359,KP859291.1,915,08-AUG-2017,Rhizopogon sp.,"location: [0:915]
+authors: Gordon,M.
+title: Genetic information from rare species in the mycological collections of the Oregon State University Herbarium
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: OR, Deschutes County']",False,Rhizopogon,sp.
+14_KU663236.1,1930190,KU663236.1,895,05-APR-2018,Suillus alpinus,"location: [0:895]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['China: Gongbu Natural Conservatism, Langlu Zhen, Nyingchi, Tibet']",False,Suillus,alpinus
+15_KU663241.1,1930189,KU663241.1,856,05-APR-2018,Suillus aurihymenius,"location: [0:856]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"[""China: Huzhong Natural Conservatism, Huma, Daxing'anling, Heilongjiang province""]",False,Suillus,aurihymenius
+16_KU663209.1,1928356,KU663209.1,934,05-APR-2018,Suillus sp.,"location: [0:934]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['China: Baima Snow Mt., Diqing Xian, Yunnan province']",False,Suillus,sp.
+17_KT380015.1,1918494,KT380015.1,715,17-NOV-2016,Singerocomus inundabilis,"location: [0:715]
+authors: Henkel,T.W., Obase,K., Husbands,D., Uehling,J.K., Bonito,G., Aime,M.C. and Smith,M.E.
+title: New Boletaceae taxa from Guyana: Binderoboletus segoi gen. and sp. nov., Guyanaporus albipodus gen. and sp. nov., Singerocomus rubriflavus gen. and sp. nov., and a new combination for Xerocomus inundabilis
+journal: Mycologia 108 (1), 157-173 (2016)
+medline id: 
+pubmed id: 26490700
+comment: Erratum:[Mycologia. 2016 Mar;108(2):469. PMID: 27127214]
+",['28S ribosomal RNA'],['Guyana'],False,Singerocomus,inundabilis
+18_KU974140.1,1914392,KU974140.1,834,01-NOV-2017,Sutorius sp. HKAS 58724,"location: [0:834]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes in China
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Sutorius,sp. HKAS 58724
+19_KU974139.1,1914391,KU974139.1,834,01-NOV-2017,Sutorius sp. HKAS 59443,"location: [0:834]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes in China
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Sutorius,sp. HKAS 59443
+20_KT990676.1,1914360,KT990676.1,811,06-NOV-2016,Xerocomus sp. HKAS 67749,"location: [0:811]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,sp. HKAS 67749
+21_KT990675.1,1914359,KT990675.1,810,06-NOV-2016,Xerocomus sp. HKAS 57765,"location: [0:810]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,sp. HKAS 57765
+22_KT990674.1,1914358,KT990674.1,810,06-NOV-2016,Xerocomus sp. HKAS 57339,"location: [0:810]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,sp. HKAS 57339
+23_KT990658.1,1914218,KT990658.1,806,06-NOV-2016,Tengioboletus sp. HKAS 77869,"location: [0:806]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Tengioboletus,sp. HKAS 77869
+24_NG_059629.1,1914216,NG_059629.1,843,05-JUN-2018,Tengioboletus reticulatus,"location: [0:843]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Tengioboletus,reticulatus
+25_KT990655.1,1914215,KT990655.1,839,06-NOV-2016,Tengioboletus glutinosus,"location: [0:839]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Tengioboletus,glutinosus
+26_KX017299.1,1914213,KX017299.1,916,30-DEC-2016,Chiua virens,"location: [0:916]
+authors: Thongkantha,S., Thongklam,S., Lumyong,S. and Bussaban,B.
+title: Diversity and molecular phylogeny of boletes (emphasized on Boletaceae) from three highland forests in Chiang Mai, Thailand
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Chiua,virens
+27_KT990551.1,1914212,KT990551.1,820,06-NOV-2016,Tylocinum griseolum,"location: [0:820]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Tylocinum,griseolum
+28_KT990539.1,1914185,KT990539.1,825,06-NOV-2016,Butyriboletus sp. MHHNU 7456,"location: [0:825]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Butyriboletus,sp. MHHNU 7456
+29_KT990700.1,1914181,KT990700.1,844,06-NOV-2016,Harrya sp. HKAS 90194,"location: [0:844]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],,False,Harrya,sp. HKAS 90194
+30_KT990693.1,1914180,KT990693.1,843,06-NOV-2016,Harrya sp. HKAS 50526,"location: [0:843]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Harrya,sp. HKAS 50526
+31_KT990591.1,1914179,KT990591.1,843,06-NOV-2016,Harrya sp. HKAS 51181,"location: [0:843]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Harrya,sp. HKAS 51181
+32_KT990579.1,1914178,KT990579.1,841,06-NOV-2016,Hemileccinum sp. HKAS 59445,"location: [0:841]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Hemileccinum,sp. HKAS 59445
+33_KT990585.1,1914177,KT990585.1,845,06-NOV-2016,Leccinellum sp. HKAS 53410,"location: [0:845]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Leccinellum,sp. HKAS 53410
+34_KT990619.1,1914172,KT990619.1,840,06-NOV-2016,Pulveroboletus sp. HKAS 52615,"location: [0:840]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Pulveroboletus,sp. HKAS 52615
+35_KT990623.1,1914167,KT990623.1,827,06-NOV-2016,Tylopilus sp. HKAS 90202,"location: [0:827]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,sp. HKAS 90202
+36_KT990552.1,1914166,KT990552.1,839,06-NOV-2016,Tylopilus sp. HKAS 50211,"location: [0:839]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,sp. HKAS 50211
+37_KT990595.1,1914164,KT990595.1,757,06-NOV-2016,Sutorius ferrugineus,"location: [0:757]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Neoboletus,ferrugineus
+38_NG_058930.1,1914158,NG_058930.1,836,30-MAY-2018,Chiua olivaceoreticulata,"location: [0:836]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Chiua,olivaceoreticulata
+39_KT990690.1,1914108,KT990690.1,841,06-NOV-2016,Xerocomus yunnanensis,"location: [0:841]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,yunnanensis
+40_NG_059633.1,1914107,NG_059633.1,810,05-JUN-2018,Xerocomus velutinus,"location: [0:810]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Xerocomus,velutinus
+41_NG_059631.1,1914106,NG_059631.1,841,05-JUN-2018,Xerocomus subparvus,"location: [0:841]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Xerocomus,subparvus
+42_KT990686.1,1914105,KT990686.1,811,06-NOV-2016,Xerocomus rugosellus,"location: [0:811]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,rugosellus
+43_KT990684.1,1914104,KT990684.1,844,06-NOV-2016,Xerocomus piceicola,"location: [0:844]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,piceicola
+44_KT990679.1,1914102,KT990679.1,842,06-NOV-2016,Xerocomus microcapoides,"location: [0:842]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,microcapoides
+45_KT990672.1,1914101,KT990672.1,808,06-NOV-2016,Xerocomus fulvipes,"location: [0:808]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,fulvipes
+46_NG_059632.1,1914100,NG_059632.1,807,05-JUN-2018,Xerocomellus communis,"location: [0:807]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Xerocomellus,communis
+47_KT990668.1,1914099,KT990668.1,803,06-NOV-2016,Xerocomellus corneri,"location: [0:803]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomellus,corneri
+48_KY271030.1,1914098,KY271030.1,849,30-NOV-2018,Xanthoconium sinense,"location: [0:849]
+authors: Zeng,N.K.
+title: The genus Xanthoconium (Boletaceae, Boletales) in tropical China
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China: Hainan Province'],False,Xanthoconium,sinense
+49_KT990662.1,1914097,KT990662.1,804,06-NOV-2016,Xanthoconium porophyllum,"location: [0:804]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Xanthoconium,porophyllum
+50_NG_059637.1,1914096,NG_059637.1,838,05-JUN-2018,Tylopilus violaceobrunneus,"location: [0:838]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Tylopilus,violaceobrunneus
+51_KT990626.1,1914092,KT990626.1,838,06-NOV-2016,Tylopilus brunneirubens,"location: [0:838]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,brunneirubens
+52_KT990643.1,1914089,KT990643.1,800,06-NOV-2016,Tylopilus alpinus,"location: [0:800]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,alpinus
+53_KT990556.1,1914088,KT990556.1,675,06-NOV-2016,Tylopilus aff. virens,"location: [0:675]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,aff. virens
+54_NG_059628.1,1914086,NG_059628.1,834,05-JUN-2018,Suillellus subamygdalinus,"location: [0:834]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Suillellus,subamygdalinus
+55_KT990648.1,1914085,KT990648.1,828,06-NOV-2016,Strobilomyces atrosquamosus,"location: [0:828]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Strobilomyces,atrosquamosus
+56_NG_059623.1,1914084,NG_059623.1,838,05-JUN-2018,Royoungia reticulata,"location: [0:838]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Royoungia,reticulata
+57_NG_059620.1,1914083,NG_059620.1,806,05-JUN-2018,Royoungia grisea,"location: [0:806]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Royoungia,grisea
+58_KT990508.1,1914082,KT990508.1,853,06-NOV-2016,Royoungia coccineinana,"location: [0:853]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Royoungia,coccineinana
+59_NG_059624.1,1914080,NG_059624.1,792,05-JUN-2018,Pulveroboletus macrosporus,"location: [0:792]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Pulveroboletus,macrosporus
+60_KT990616.1,1914079,KT990616.1,838,06-NOV-2016,Pulveroboletus aff. ravenelii,"location: [0:838]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Pulveroboletus,aff. ravenelii
+61_NG_059626.1,1914078,NG_059626.1,833,05-JUN-2018,Porphyrellus orientifumosipes,"location: [0:833]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Porphyrellus,orientifumosipes
+62_NG_059636.1,1914077,NG_059636.1,837,05-JUN-2018,Porphyrellus castaneus,"location: [0:837]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Porphyrellus,castaneus
+63_KT990622.1,1914076,KT990622.1,851,06-NOV-2016,Porphyrellus aff. alboater,"location: [0:851]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Porphyrellus,aff. alboater
+64_KT990613.1,1914075,KT990613.1,833,06-NOV-2016,Neoboletus venenatus,"location: [0:833]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Neoboletus,venenatus
+65_KT990612.1,1914074,KT990612.1,835,06-NOV-2016,Neoboletus squamulistipes,"location: [0:835]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Neoboletus,squamulistipes
+66_KT990608.1,1914073,KT990608.1,782,06-NOV-2016,Neoboletus sanguineus,"location: [0:782]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Neoboletus,sanguineus
+67_KT990605.1,1914072,KT990605.1,834,06-NOV-2016,Neoboletus sanguineoides,"location: [0:834]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Neoboletus,sanguineoides
+68_KT990601.1,1914071,KT990601.1,830,06-NOV-2016,Neoboletus rubriporus,"location: [0:830]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Neoboletus,rubriporus
+69_MH879694.1,1914070,MH879694.1,837,27-FEB-2019,Neoboletus obscureumbrinus,"location: [0:837]
+authors: Chai,H., Liang,Z.-Q., Xue,R., Jiang,S., Luo,S.-H., Wang,Y., Wu,L.-L., Tang,L.-P., Chen,Y., Hong,D. and Zeng,N.-K.
+title: New and noteworthy boletes from subtropical and tropical China
+journal: MycoKeys 46, 55-96 (2019)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China: Hainan Province'],False,Neoboletus,obscureumbrinus
+70_MH879690.1,1914069,MH879690.1,905,27-FEB-2019,Neoboletus hainanensis,"location: [0:905]
+authors: Chai,H., Liang,Z.-Q., Xue,R., Jiang,S., Luo,S.-H., Wang,Y., Wu,L.-L., Tang,L.-P., Chen,Y., Hong,D. and Zeng,N.-K.
+title: New and noteworthy boletes from subtropical and tropical China
+journal: MycoKeys 46, 55-96 (2019)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China: Yunnan Province'],False,Neoboletus,hainanensis
+71_KT990582.1,1914065,KT990582.1,841,06-NOV-2016,Hortiboletus subpaludosus,"location: [0:841]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Hortiboletus,subpaludosus
+72_NG_059622.1,1914064,NG_059622.1,840,05-JUN-2018,Hortiboletus amygdalinus,"location: [0:840]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Hortiboletus,amygdalinus
+73_NG_059621.1,1914062,NG_059621.1,846,05-JUN-2018,Hemileccinum rugosum,"location: [0:846]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Hemileccinum,rugosum
+74_KT990692.1,1914060,KT990692.1,845,06-NOV-2016,Harrya subalpina,"location: [0:845]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Harrya,subalpina
+75_KT990695.1,1914058,KT990695.1,844,06-NOV-2016,Harrya moniliformis,"location: [0:844]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Harrya,moniliformis
+76_NG_059635.1,1914057,NG_059635.1,840,05-JUN-2018,Harrya atrogrisea,"location: [0:840]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Harrya,atrogrisea
+77_NG_059627.1,1914056,NG_059627.1,845,05-JUN-2018,Harrya alpina,"location: [0:845]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Harrya,alpina
+78_KT990568.1,1914054,KT990568.1,839,06-NOV-2016,Cyanoboletus brunneoruber,"location: [0:839]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Cyanoboletus,brunneoruber
+79_KT990540.1,1914051,KT990540.1,832,06-NOV-2016,Butyriboletus subsplendidus,"location: [0:832]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Butyriboletus,subsplendidus
+80_MH879687.1,1914049,MH879687.1,904,27-FEB-2019,Butyriboletus pseudospeciosus,"location: [0:904]
+authors: Chai,H., Liang,Z.-Q., Xue,R., Jiang,S., Luo,S.-H., Wang,Y., Wu,L.-L., Tang,L.-P., Chen,Y., Hong,D. and Zeng,N.-K.
+title: New and noteworthy boletes from subtropical and tropical China
+journal: MycoKeys 46, 55-96 (2019)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China: Yunnan Province'],False,Butyriboletus,pseudospeciosus
+82_NG_058689.1,1914045,NG_058689.1,765,30-MAY-2018,Boletellus indistinctus,"location: [0:765]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Boletellus,indistinctus
+83_KT990521.1,1914042,KT990521.1,848,06-NOV-2016,Aureoboletus zangii,"location: [0:848]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Aureoboletus,zangii
+84_KT990520.1,1914041,KT990520.1,835,06-NOV-2016,Aureoboletus yunnanensis,"location: [0:835]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Aureoboletus,yunnanensis
+85_NG_057094.1,1914039,NG_057094.1,837,17-MAY-2018,Aureoboletus nephrosporus,"location: [0:837]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Aureoboletus,nephrosporus
+86_KT990513.1,1914038,KT990513.1,847,06-NOV-2016,Aureoboletus tomentosus,"location: [0:847]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Aureoboletus,tomentosus
+87_KT990511.1,1914037,KT990511.1,850,06-NOV-2016,Aureoboletus duplicatoporus,"location: [0:850]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Aureoboletus,duplicatoporus
+88_NG_057093.1,1914036,NG_057093.1,837,17-MAY-2018,Aureoboletus catenarius,"location: [0:837]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Aureoboletus,catenarius
+89_KT990627.1,1913000,KT990627.1,724,06-NOV-2016,Porphyrellus nigropurpureus,"location: [0:724]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Porphyrellus,nigropurpureus
+90_KU721307.1,1912939,KU721307.1,962,30-NOV-2017,Suillus fuscotomentosus,"location: [0:962]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: 1100 Kings Mountain Rd, Huddart Park, Woodside Co., CA']",False,Suillus,fuscotomentosus
+91_NG_059568.1,1816308,NG_059568.1,866,05-JUN-2018,Phylloporus catenulatus,"location: [0:866]
+authors: Hosen,M.I. and Li,T.-H.
+title: Two new species of Phylloporus from Bangladesh, with morphological and molecular evidence
+journal: Mycologia 109 (2), 277-286 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['Bangladesh'],False,Phylloporus,catenulatus
+92_NG_059569.1,1816307,NG_059569.1,874,05-JUN-2018,Phylloporus attenuatus,"location: [0:874]
+authors: Hosen,M.I. and Li,T.-H.
+title: Two new species of Phylloporus from Bangladesh, with morphological and molecular evidence
+journal: Mycologia 109 (2), 277-286 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['Bangladesh: Tangail'],False,Phylloporus,attenuatus
+93_KT990634.1,1775971,KT990634.1,822,06-NOV-2016,Retiboletus kauffmanii,"location: [0:822]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Retiboletus,kauffmanii
+94_NG_059551.1,1775115,NG_059551.1,911,05-JUN-2018,Retiboletus sinensis,"location: [0:911]
+authors: Zeng,N.K., Liang,Z.Q., Wu,G., Li,Y.C. and Yang,Z.L.
+title: The genus Retiboletus (Boletaceae, Boletales) in China based on morphological and molecular evidence
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China: Fujian Province'],False,Retiboletus,sinensis
+95_KT990635.1,1775113,KT990635.1,840,06-NOV-2016,Retiboletus fuscus,"location: [0:840]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Retiboletus,fuscus
+96_NG_057069.1,1755204,NG_057069.1,860,17-MAY-2018,Aureoboletus clavatus,"location: [0:860]
+authors: Zeng,N.K., Zhang,M. and Liang,Z.Q.
+title: A new species and a new combination in the genus Aureoboletus (Boletales, Boletaceae) from southern China
+journal: Phytotaxa 222 (2), 129-137 (2015)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China: Hainan Province'],False,Aureoboletus,clavatus
+98_KP941572.1,1748405,KP941572.1,886,08-NOV-2015,Singerocomus rubriflavus,"location: [0:886]
+authors: Henkel,T.W., Obase,K., Husbands,D.R., Uehling,J.K., Bonito,G., Aime,M.C. and Smith,M.E.
+title: New Boletaceae taxa from Guyana: Binderoboletus segoi gen. et sp. nov., Guyanaporus albipodus gen. et sp. nov., Singerocomus rubriflavus gen. et sp. nov., and a new combination for Xerocomus inundabilis
+journal: Mycologia (2015) In press
+medline id: 
+pubmed id: 26490700
+comment: Publication Status: Available-Online prior to print
+",['28S ribosomal RNA'],['Guyana'],False,Singerocomus,rubriflavus
+99_NG_060631.1,1748404,NG_060631.1,829,02-JUL-2018,Guyanaporus albipodus,"location: [0:829]
+authors: Dentinger,B.T., Ammirati,J.F., Both,E.E., Desjardin,D.E., Halling,R.E., Henkel,T.W., Moreau,P.A., Nagasawa,E., Soytong,K., Taylor,A.F., Watling,R., Moncalvo,J.M. and McLaughlin,D.J.
+title: Molecular phylogenetics of porcini mushrooms (Boletus section Boletus)
+journal: Mol. Phylogenet. Evol. 57 (3), 1276-1292 (2010)
+medline id: 
+pubmed id: 20970511
+comment: 
+",['28S ribosomal RNA'],['Guyana'],False,Guyanaporus,albipodus
+101_KY272128.1,1728933,KY272128.1,831,27-DEC-2017,Rubroboletus legaliae,"location: [0:831]
+authors: Zhao,K. and Shao,H.M.
+title: A new edible bolete, Rubroboletus esculentus, from southwestern China
+journal: Phytotaxa 303 (3), 243-252 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['Germany'],False,Rubroboletus,legaliae
+102_KT157062.1,1708621,KT157062.1,911,08-SEP-2015,Cyanoboletus pulverulentus,"location: [0:911]
+authors: Gelardi,M., Simonini,G., Ercole,E., Davoli,P. and Vizzini,A.
+title: Cupreoboletus (Boletaceae, Boletineae), a new monotypic genus segregated from Boletus sect. Luridi to reassign the Mediterranean species B. poikilochromus
+journal: Mycologia (2015) In press
+medline id: 
+pubmed id: 26297785
+comment: Publication Status: Available-Online prior to print
+",['28S ribosomal RNA'],['Italy'],False,Cyanoboletus,pulverulentus
+103_KT157056.1,1708620,KT157056.1,732,08-SEP-2015,Cupreoboletus poikilochromus,"location: [0:732]
+authors: Gelardi,M., Simonini,G., Ercole,E., Davoli,P. and Vizzini,A.
+title: Cupreoboletus (Boletaceae, Boletineae), a new monotypic genus segregated from Boletus sect. Luridi to reassign the Mediterranean species B. poikilochromus
+journal: Mycologia (2015) In press
+medline id: 
+pubmed id: 26297785
+comment: Publication Status: Available-Online prior to print
+",['28S ribosomal RNA'],['Italy'],False,Cupreoboletus,poikilochromus
+104_NG_059586.1,1704548,NG_059586.1,895,05-JUN-2018,Nigroboletus roseonigrescens,"location: [0:895]
+authors: Gelardi,M., Vizzini,A., Ercole,E., Horak,E., Ming,Z. and Li,T.H.
+title: Circumscription and Taxonomic Arrangement of Nigroboletus roseonigrescens Gen. Et Sp. Nov., a New Member of Boletaceae from Tropical South-Eastern China
+journal: PLoS ONE 10 (8), E0134295 (2015)
+medline id: 
+pubmed id: 26263180
+comment: Publication Status: Online-Only
+",['28S ribosomal RNA'],['China'],False,Nigroboletus,roseonigrescens
+107_KP327622.1,1661727,KP327622.1,962,29-SEP-2017,Aureoboletus projectellus,"location: [0:962]
+authors: Halling,R.E., Fechner,N., Nuhn,M.E., Osmundson,T., Soytong,K., Arora,D., Binder,M. and Hibbett,D.
+title: Evolutionary relationships of Heimioporus and Boletellus (Boletales), with an emphasis on Australian taxa including new species and new combinations in Aureoboletus, Hemileccinum and Xerocomus
+journal: Aust. Syst. Bot. 28, 1-22 (2015)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],"['USA: Noth Collins, New York']",False,Aureoboletus,projectellus
+108_KP327661.1,1661726,KP327661.1,946,29-SEP-2017,Aureoboletus mirabilis,"location: [0:946]
+authors: Halling,R.E., Fechner,N., Nuhn,M.E., Osmundson,T., Soytong,K., Arora,D., Binder,M. and Hibbett,D.
+title: Evolutionary relationships of Heimioporus and Boletellus (Boletales), with an emphasis on Australian taxa including new species and new combinations in Aureoboletus, Hemileccinum and Xerocomus
+journal: Aust. Syst. Bot. 28, 1-22 (2015)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],"['USA: Mendocino, California']",False,Aureoboletus,mirabilis
+109_NG_059562.1,1653766,NG_059562.1,874,05-JUN-2018,Phylloporus gajari,"location: [0:874]
+authors: Hosen,M.I. and Li,T.-H.
+title: Phylloporus gajari, a new species of the family Boletaceae from Bangladesh
+journal: Mycoscience 56 (6), 584-589 (2015)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['Bangladesh'],False,Phylloporus,gajari
+110_KY418896.1,1611992,KY418896.1,957,01-OCT-2017,Rubroboletus sinicus,"location: [0:957]
+authors: Zhao,R.-L., Li,G.-J., Sanchez-Ramirez,S., Stata,M., Yang,Z.-L., Wu,G., Dai,Y.-C., He,S.-H., Cui,B.-K., Zhou,J.-L., Wu,F., He,M.-Q., Moncalvo,J.-M. and Hyde,K.D.
+title: A six-gene phylogenetic overview of Basidiomycota and allied phyla with estimated divergence times of higher taxa and a phyloproteomics perspective
+journal: Fungal Divers. 84 (1), 43-74 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Rubroboletus,sinicus
+111_NG_059540.1,1611991,NG_059540.1,884,05-JUN-2018,Rubroboletus latisporus,"location: [0:884]
+authors: Zhao,K., Wu,G. and Yang,Z.L.
+title: A new genus, Rubroboletus, to accommodate Boletus sinicus and its allies
+journal: Phytotaxa 188 (2), 61-77 (2014)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Rubroboletus,latisporus
+112_KF030238.1,1611890,KF030238.1,881,07-DEC-2017,Afroboletus luteolus,"location: [0:881]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],,False,Afroboletus,luteolus
+114_KX911874.1,1611265,KX911874.1,828,05-MAR-2018,Hourangia cheoi,"location: [0:828]
+authors: Gelardi,M., Vizzini,A. and Ercole,E.
+title: A record of Hourangia cheoi (Boletaceae, Boletales) from Yunnan Province, south-western China
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Hourangia,cheoi
+116_NG_058652.1,1609115,NG_058652.1,908,30-MAY-2018,Boletus umbrinipileus,"location: [0:908]
+authors: Feng,B., Xu,J., Wu,G., Zeng,N.K., Li,Y.C., Tolgor,B., Kost,G.W. and Yang,Z.L.
+title: DNA sequence analyses reveal abundant diversity, endemism and evidence for asian origin of the porcini mushrooms
+journal: PLoS ONE 7 (5), E37567 (2012)
+medline id: 
+pubmed id: 22629418
+comment: Publication Status: Online-Only
+",['28S ribosomal RNA'],,False,Boletus,umbrinipileus
+120_JN563844.1,1609111,JN563844.1,775,23-JUN-2012,Boletus monilifer,"location: [0:775]
+authors: Feng,B., Xu,J., Wu,G., Zeng,N.K., Li,Y.C., Tolgor,B., Kost,G.W. and Yang,Z.L.
+title: DNA sequence analyses reveal abundant diversity, endemism and evidence for asian origin of the porcini mushrooms
+journal: PLoS ONE 7 (5), E37567 (2012)
+medline id: 
+pubmed id: 22629418
+comment: Publication Status: Online-Only
+",['28S large subunit ribosomal RNA'],,False,Boletus,monilifer
+121_KY418894.1,1603062,KY418894.1,974,01-OCT-2017,Lanmaoa asiatica,"location: [0:974]
+authors: Zhao,R.-L., Li,G.-J., Sanchez-Ramirez,S., Stata,M., Yang,Z.-L., Wu,G., Dai,Y.-C., He,S.-H., Cui,B.-K., Zhou,J.-L., Wu,F., He,M.-Q., Moncalvo,J.-M. and Hyde,K.D.
+title: A six-gene phylogenetic overview of Basidiomycota and allied phyla with estimated divergence times of higher taxa and a phyloproteomics perspective
+journal: Fungal Divers. 84 (1), 43-74 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Lanmaoa,asiatica
+122_NG_059537.1,1603061,NG_059537.1,877,05-JUN-2018,Lanmaoa angustispora,"location: [0:877]
+authors: Wu,G., Zhao,K., Li,Y.-C., Zeng,N.-K., Feng,B., Halling,R.E. and Yang,Z.-L.
+title: Four new genera of the fungal family Boletaceae
+journal: Fungal Divers. (2015) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S ribosomal RNA'],['China'],False,Lanmaoa,angustispora
+123_KT990638.1,1603060,KT990638.1,837,06-NOV-2016,Rugiboletus extremiorientalis,"location: [0:837]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Rugiboletus,extremiorientalis
+124_KM605132.1,1603059,KM605132.1,879,16-MAR-2015,Rugiboletus brunneiporus,"location: [0:879]
+authors: Wu,G., Zhao,K., Li,Y.-C., Zeng,N.-K., Feng,B., Halling,R.E. and Yang,Z.-L.
+title: Four new genera of the fungal family Boletaceae
+journal: Fungal Divers. (2015) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Rugiboletus,brunneiporus
+125_NG_059543.1,1603058,NG_059543.1,801,05-JUN-2018,Parvixerocomus pseudoaokii,"location: [0:801]
+authors: Wu,G., Zhao,K., Li,Y.-C., Zeng,N.-K., Feng,B., Halling,R.E. and Yang,Z.-L.
+title: Four new genera of the fungal family Boletaceae
+journal: Fungal Divers. (2015) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S ribosomal RNA'],['China'],False,Parvixerocomus,pseudoaokii
+126_KM605137.1,1603057,KM605137.1,877,16-MAR-2015,Neoboletus brunneissimus,"location: [0:877]
+authors: Wu,G., Zhao,K., Li,Y.-C., Zeng,N.-K., Feng,B., Halling,R.E. and Yang,Z.-L.
+title: Four new genera of the fungal family Boletaceae
+journal: Fungal Divers. (2015) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Neoboletus,brunneissimus
+129_KT990567.1,1522523,KT990567.1,836,06-NOV-2016,Crocinoboletus laetissimus,"location: [0:836]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Crocinoboletus,laetissimus
+130_KF112384.1,1487349,KF112384.1,833,11-AUG-2014,Xerocomus punctilifer,"location: [0:833]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,punctilifer
+131_KF030274.1,1487348,KF030274.1,877,07-DEC-2017,Xerocomellus cisalpinus,"location: [0:877]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],['Germany'],False,Xerocomellus,cisalpinus
+132_KT990553.1,1487347,KT990553.1,839,06-NOV-2016,Tylopilus otsuensis,"location: [0:839]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,otsuensis
+133_NG_059538.1,1487346,NG_059538.1,961,05-JUN-2018,Tylopilus microsporus,"location: [0:961]
+authors: Gelardi,M., Vizzini,A., Ercole,E., Taneyama,Y., Lid,T.-H., Zhang,M., Yan,W.-J. and Wang,W.-J.
+title: New collection, iconography and molecular evidence for Tylopilus neofelleus (Boletaceae, Boletoideae) from southwestern China and the taxonomic status of T. plumbeoviolaceoides and T. microsporus
+journal: Mycoscience (2015) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S ribosomal RNA'],['China'],False,Tylopilus,microsporus
+134_KT990547.1,1487343,KT990547.1,845,06-NOV-2016,Mucilopilus castaneiceps,"location: [0:845]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Mucilopilus,castaneiceps
+135_KF112347.1,1487341,KF112347.1,835,11-AUG-2014,Heimioporus japonicus,"location: [0:835]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Heimioporus,japonicus
+136_KF112321.1,1487333,KF112321.1,834,11-AUG-2014,Boletus sinensis,"location: [0:834]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],,False,Boletus,sinensis
+137_KF112434.1,1487332,KF112434.1,839,11-AUG-2014,Crocinoboletus rufoaureus,"location: [0:839]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Crocinoboletus,rufoaureus
+138_KF112378.1,1487330,KF112378.1,833,11-AUG-2014,Parvixerocomus aokii,"location: [0:833]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Parvixerocomus,aokii
+139_KF112345.1,1487329,KF112345.1,835,11-AUG-2014,Heimioporus sp. HKAS 53451,"location: [0:835]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Heimioporus,sp. HKAS 53451
+140_KF112346.1,1487328,KF112346.1,835,11-AUG-2014,Heimioporus aff. japonicus HKAS 52236,"location: [0:835]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Heimioporus,aff. japonicus HKAS 52236
+141_KF112394.1,1487323,KF112394.1,843,11-AUG-2014,Xerocomus sp. HKAS 76853,"location: [0:843]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,sp. HKAS 76853
+142_KF112390.1,1487322,KF112390.1,842,11-AUG-2014,Xerocomus sp. HKAS 76666,"location: [0:842]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,sp. HKAS 76666
+143_KF112388.1,1487321,KF112388.1,833,11-AUG-2014,Xerocomus sp. HKAS 76657,"location: [0:833]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,sp. HKAS 76657
+144_KF112373.1,1487318,KF112373.1,835,11-AUG-2014,Xerocomus sp. HKAS 74712,"location: [0:835]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,sp. HKAS 74712
+145_KF112397.1,1487316,KF112397.1,841,11-AUG-2014,Xerocomus sp. HKAS 53387,"location: [0:841]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,sp. HKAS 53387
+146_KF112393.1,1487314,KF112393.1,841,11-AUG-2014,Xerocomus sp. HKAS 52575,"location: [0:841]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,sp. HKAS 52575
+147_KF112374.1,1487313,KF112374.1,835,11-AUG-2014,Xerocomus sp. HKAS 52557,"location: [0:835]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,sp. HKAS 52557
+148_KF112389.1,1487312,KF112389.1,812,11-AUG-2014,Xerocomus aff. subtomentosus HKAS 58865,"location: [0:812]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,aff. subtomentosus HKAS 58865
+149_KF112418.1,1487311,KF112418.1,855,11-AUG-2014,Xerocomus aff. macrobbii HKAS 56280,"location: [0:855]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,aff. macrobbii HKAS 56280
+150_KF112370.1,1487310,KF112370.1,840,11-AUG-2014,Xerocomellus sp. HKAS 76673,"location: [0:840]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomellus,sp. HKAS 76673
+151_KF112371.1,1487309,KF112371.1,841,11-AUG-2014,Xerocomellus sp. HKAS 59608,"location: [0:841]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomellus,sp. HKAS 59608
+152_KF112340.1,1487308,KF112340.1,838,11-AUG-2014,Xerocomellus sp. HKAS 56311,"location: [0:838]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomellus,sp. HKAS 56311
+153_KF112369.1,1487307,KF112369.1,839,11-AUG-2014,Xerocomellus sp. HKAS 51292,"location: [0:839]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomellus,sp. HKAS 51292
+154_KF112372.1,1487305,KF112372.1,839,11-AUG-2014,Xerocomellus sp. HKAS 50466,"location: [0:839]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomellus,sp. HKAS 50466
+155_KF112425.1,1487304,KF112425.1,796,11-AUG-2014,Xerocomellus aff. rubellus HKAS 51239,"location: [0:796]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomellus,aff. rubellus HKAS 51239
+156_KF112380.1,1487303,KF112380.1,796,11-AUG-2014,Veloporphyrellus aff. velatus HKAS 57490,"location: [0:796]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Veloporphyrellus,aff. velatus HKAS 57490
+157_KF112483.1,1487302,KF112483.1,821,11-AUG-2014,Tylopilus sp. HKAS 74928,"location: [0:821]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,sp. HKAS 74928
+158_KF112473.1,1487301,KF112473.1,836,11-AUG-2014,Tylopilus sp. HKAS 74925,"location: [0:836]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,sp. HKAS 74925
+159_KF112381.1,1487299,KF112381.1,835,11-AUG-2014,Tylopilus sp. HKAS 53590,"location: [0:835]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,sp. HKAS 53590
+160_KF112439.1,1487297,KF112439.1,838,11-AUG-2014,Tylopilus sp. HKAS 53367,"location: [0:838]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,sp. HKAS 53367
+161_KF112423.1,1487295,KF112423.1,837,11-AUG-2014,Tylopilus sp. HKAS 50229,"location: [0:837]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,sp. HKAS 50229
+162_KF112471.1,1487294,KF112471.1,883,11-AUG-2014,Tylopilus sp. HKAS 46334,"location: [0:883]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,sp. HKAS 46334
+163_KF112458.1,1487292,KF112458.1,846,11-AUG-2014,Tylopilus aff. balloui HKAS 59700,"location: [0:846]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,aff. balloui HKAS 59700
+164_KF112400.1,1487291,KF112400.1,838,11-AUG-2014,Sutorius aff. eximius HKAS 56291,"location: [0:838]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Sutorius,aff. eximius HKAS 56291
+165_KF112399.1,1487290,KF112399.1,839,11-AUG-2014,Sutorius aff. eximius HKAS 52672,"location: [0:839]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Sutorius,aff. eximius HKAS 52672
+166_KF112430.1,1487289,KF112430.1,859,11-AUG-2014,Suillus aff. luteus HKAS 57748,"location: [0:859]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Suillus,aff. luteus HKAS 57748
+167_KF112429.1,1487288,KF112429.1,860,11-AUG-2014,Suillus aff. granulatus HKAS 57622,"location: [0:860]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Suillus,aff. granulatus HKAS 57622
+168_KF112460.1,1487287,KF112460.1,840,11-AUG-2014,Strobilomyces sp. HKAS 74911,"location: [0:840]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Strobilomyces,sp. HKAS 74911
+169_KF112467.1,1487286,KF112467.1,831,11-AUG-2014,Strobilomyces sp. HKAS 74865,"location: [0:831]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Strobilomyces,sp. HKAS 74865
+170_KF112459.1,1487285,KF112459.1,856,11-AUG-2014,Strobilomyces sp. HKAS 74809,"location: [0:856]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Strobilomyces,sp. HKAS 74809
+171_KF112464.1,1487283,KF112464.1,824,11-AUG-2014,Strobilomyces sp. HKAS 59435,"location: [0:824]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Strobilomyces,sp. HKAS 59435
+172_KF112463.1,1487282,KF112463.1,843,11-AUG-2014,Strobilomyces sp. HKAS 59420,"location: [0:843]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Strobilomyces,sp. HKAS 59420
+173_KF112462.1,1487281,KF112462.1,832,11-AUG-2014,Strobilomyces sp. HKAS 53348,"location: [0:832]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Strobilomyces,sp. HKAS 53348
+174_KF112461.1,1487280,KF112461.1,812,11-AUG-2014,Strobilomyces aff. verruculosus HKAS 55389,"location: [0:812]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Strobilomyces,aff. verruculosus HKAS 55389
+175_KF112479.1,1487279,KF112479.1,825,11-AUG-2014,Strobilomyces aff. seminudus HKAS 59461,"location: [0:825]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Strobilomyces,aff. seminudus HKAS 59461
+176_KF112416.1,1487277,KF112416.1,833,11-AUG-2014,Retiboletus aff. ornatipes HKAS 63548,"location: [0:833]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Retiboletus,aff. ornatipes HKAS 63548
+177_KF112407.1,1487276,KF112407.1,840,11-AUG-2014,Pulveroboletus sp. HKAS 74933,"location: [0:840]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Pulveroboletus,sp. HKAS 74933
+178_KF112408.1,1487275,KF112408.1,852,11-AUG-2014,Pulveroboletus sp. HKAS 58860,"location: [0:852]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Pulveroboletus,sp. HKAS 58860
+179_KF112409.1,1487274,KF112409.1,852,11-AUG-2014,Pulveroboletus sp. HKAS 57665,"location: [0:852]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Pulveroboletus,sp. HKAS 57665
+180_KF112406.1,1487273,KF112406.1,838,11-AUG-2014,Pulveroboletus aff. ravenelii HKAS 53351,"location: [0:838]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Pulveroboletus,aff. ravenelii HKAS 53351
+181_KF112480.1,1487270,KF112480.1,844,11-AUG-2014,Porphyrellus sp. HKAS 53366,"location: [0:844]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Porphyrellus,sp. HKAS 53366
+182_KT990708.1,1487269,KT990708.1,855,06-NOV-2016,Porphyrellus holophaeus,"location: [0:855]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Porphyrellus,holophaeus
+183_KF112396.1,1487268,KF112396.1,837,11-AUG-2014,Phylloporus sp. HKAS 63001,"location: [0:837]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Phylloporus,sp. HKAS 63001
+184_KF112386.1,1487267,KF112386.1,840,11-AUG-2014,Phylloporus sp. HKAS 53422,"location: [0:840]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Phylloporus,sp. HKAS 53422
+185_KF112446.1,1487265,KF112446.1,836,11-AUG-2014,Leccinum sp. HKAS 57592,"location: [0:836]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Leccinum,sp. HKAS 57592
+186_KF112441.1,1487264,KF112441.1,825,11-AUG-2014,Leccinum sp. HKAS 52538,"location: [0:825]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Leccinum,sp. HKAS 52538
+187_KF112442.1,1487263,KF112442.1,818,11-AUG-2014,Leccinum aff. scabrum HKAS 57266,"location: [0:818]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Leccinum,aff. scabrum HKAS 57266
+188_KF112402.1,1487262,KF112402.1,773,11-AUG-2014,Leccinum aff. extremiorientale HKAS 68586,"location: [0:773]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Leccinum,aff. extremiorientale HKAS 68586
+189_KF112488.1,1487260,KF112488.1,844,11-AUG-2014,Leccinellum sp. HKAS 53427,"location: [0:844]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Leccinellum,sp. HKAS 53427
+190_KF112447.1,1487259,KF112447.1,837,11-AUG-2014,Leccinellum aff. crocipodium HKAS 76658,"location: [0:837]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Leccinellum,aff. crocipodium HKAS 76658
+191_KF112476.1,1487258,KF112476.1,888,11-AUG-2014,Gyroporus sp. HKAS 63505,"location: [0:888]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Gyroporus,sp. HKAS 63505
+192_KF112349.1,1487256,KF112349.1,858,11-AUG-2014,Gyrodon sp. HKAS 59448,"location: [0:858]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Gyrodon,sp. HKAS 59448
+193_KF112348.1,1487255,KF112348.1,857,11-AUG-2014,Gyrodon sp. HKAS 57588,"location: [0:857]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Gyrodon,sp. HKAS 57588
+194_KF112326.1,1487254,KF112326.1,793,11-AUG-2014,Gastroboletus sp. HKAS 57093,"location: [0:793]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Gastroboletus,sp. HKAS 57093
+195_KF112343.1,1487251,KF112343.1,834,11-AUG-2014,Boletus sp. HKAS 76850,"location: [0:834]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 76850
+196_KF112328.1,1487249,KF112328.1,833,11-AUG-2014,Boletus sp. HKAS 76660,"location: [0:833]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 76660
+197_KF112356.1,1487248,KF112356.1,837,11-AUG-2014,Boletus sp. HKAS 75081,"location: [0:837]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 75081
+198_KF112377.1,1487247,KF112377.1,826,11-AUG-2014,Boletus sp. HKAS 75054,"location: [0:826]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 75054
+199_KF112415.1,1487246,KF112415.1,838,11-AUG-2014,Boletus sp. HKAS 74864,"location: [0:838]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 74864
+200_KF112322.1,1487245,KF112322.1,800,11-AUG-2014,Boletus sp. HKAS 74765,"location: [0:800]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 74765
+201_KF112333.1,1487244,KF112333.1,837,11-AUG-2014,Boletus sp. HKAS 68679,"location: [0:837]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 68679
+202_KF112329.1,1487243,KF112329.1,833,11-AUG-2014,Boletus sp. HKAS 68587,"location: [0:833]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 68587
+203_KF112433.1,1487242,KF112433.1,841,11-AUG-2014,Boletus sp. HKAS 67896,"location: [0:841]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 67896
+204_KF112355.1,1487241,KF112355.1,836,11-AUG-2014,Boletus sp. HKAS 63607,"location: [0:836]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 63607
+205_KF112317.1,1487240,KF112317.1,834,11-AUG-2014,Boletus sp. HKAS 63598,"location: [0:834]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 63598
+206_KF112332.1,1487239,KF112332.1,834,11-AUG-2014,Boletus sp. HKAS 63528,"location: [0:834]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 63528
+207_KF112336.1,1487235,KF112336.1,838,11-AUG-2014,Boletus sp. HKAS 59814,"location: [0:838]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 59814
+208_KF112358.2,1487233,KF112358.2,907,11-AUG-2014,Boletus sp. HKAS 59660,"location: [0:907]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 59660
+209_KF112366.1,1487232,KF112366.1,835,11-AUG-2014,Boletus sp. HKAS 59609,"location: [0:835]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 59609
+210_KF112412.1,1487231,KF112412.1,840,11-AUG-2014,Boletus sp. HKAS 59554,"location: [0:840]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 59554
+211_KF112359.1,1487230,KF112359.1,834,11-AUG-2014,Boletus sp. HKAS 59469,"location: [0:834]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 59469
+212_KF112330.1,1487229,KF112330.1,835,11-AUG-2014,Boletus sp. HKAS 57774,"location: [0:835]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 57774
+213_KF112327.1,1487228,KF112327.1,834,11-AUG-2014,Boletus sp. HKAS 57512,"location: [0:834]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 57512
+214_KF112325.1,1487226,KF112325.1,796,11-AUG-2014,Boletus sp. HKAS 57489,"location: [0:796]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 57489
+215_KF112334.1,1487225,KF112334.1,833,11-AUG-2014,Boletus sp. HKAS 55444,"location: [0:833]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 55444
+216_KF112338.1,1487224,KF112338.1,834,11-AUG-2014,Boletus sp. HKAS 55413,"location: [0:834]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 55413
+217_KF112362.1,1487223,KF112362.1,838,11-AUG-2014,Boletus sp. HKAS 55373,"location: [0:838]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 55373
+218_KF112491.1,1487222,KF112491.1,843,11-AUG-2014,Boletus sp. HKAS 53426,"location: [0:843]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 53426
+219_KF112341.1,1487221,KF112341.1,839,11-AUG-2014,Boletus sp. HKAS 53425,"location: [0:839]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 53425
+220_KF112432.1,1487220,KF112432.1,840,11-AUG-2014,Boletus sp. HKAS 53421,"location: [0:840]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 53421
+221_KF112323.1,1487219,KF112323.1,835,11-AUG-2014,Boletus sp. HKAS 53369,"location: [0:835]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 53369
+222_KF112410.1,1487218,KF112410.1,843,11-AUG-2014,Boletus sp. HKAS 53353,"location: [0:843]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 53353
+223_KF112339.1,1487217,KF112339.1,832,11-AUG-2014,Boletus sp. HKAS 52661,"location: [0:832]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 52661
+224_KF112367.1,1487216,KF112367.1,834,11-AUG-2014,Boletus sp. HKAS 52639,"location: [0:834]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 52639
+225_KF112469.1,1487215,KF112469.1,861,11-AUG-2014,Boletus sp. HKAS 52601,"location: [0:861]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 52601
+226_KF112337.1,1487214,KF112337.1,833,11-AUG-2014,Boletus sp. HKAS 52525,"location: [0:833]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 52525
+227_KF112354.1,1487213,KF112354.1,799,11-AUG-2014,Boletus sp. HKAS 52518,"location: [0:799]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 52518
+228_KF112457.1,1487212,KF112457.1,845,11-AUG-2014,Boletus sp. HKAS 52235,"location: [0:845]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 52235
+229_KF112318.1,1487211,KF112318.1,833,11-AUG-2014,Boletus sp. HKAS 50351,"location: [0:833]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,sp. HKAS 50351
+230_KF112331.1,1487207,KF112331.1,833,11-AUG-2014,Boletus aff. speciosus HKAS 59467,"location: [0:833]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,aff. speciosus HKAS 59467
+231_KF112315.1,1487206,KF112315.1,834,11-AUG-2014,Boletus aff. erythropus HKAS 55440,"location: [0:834]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,aff. erythropus HKAS 55440
+232_KF112353.1,1487205,KF112353.1,839,11-AUG-2014,Lanmaoa aff. carminipes HKAS 54094,"location: [0:839]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Lanmaoa,aff. carminipes HKAS 54094
+233_KF112335.1,1487204,KF112335.1,833,11-AUG-2014,Boletus aff. calopus HKAS 74739,"location: [0:833]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,aff. calopus HKAS 74739
+234_KF112379.1,1487203,KF112379.1,834,11-AUG-2014,Parvixerocomus aff. aokii HKAS 52633,"location: [0:834]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Parvixerocomus,aff. aokii HKAS 52633
+235_KF112316.1,1487202,KF112316.1,834,11-AUG-2014,Suillellus aff. amygdalinus HKAS 57262,"location: [0:834]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Suillellus,aff. amygdalinus HKAS 57262
+236_KF112413.1,1487201,KF112413.1,834,11-AUG-2014,Boletellus sp. HKAS 74888,"location: [0:834]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletellus,sp. HKAS 74888
+237_KF112468.1,1487200,KF112468.1,837,11-AUG-2014,Boletellus sp. HKAS 74783,"location: [0:837]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletellus,sp. HKAS 74783
+238_KF112427.1,1487199,KF112427.1,840,11-AUG-2014,Boletellus sp. HKAS 59536,"location: [0:840]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletellus,sp. HKAS 59536
+239_KF112428.1,1487198,KF112428.1,843,11-AUG-2014,Boletellus sp. HKAS 58713,"location: [0:843]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletellus,sp. HKAS 58713
+240_KF112365.1,1487197,KF112365.1,837,11-AUG-2014,Boletellus sp. HKAS 53376,"location: [0:837]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletellus,sp. HKAS 53376
+241_KF112364.1,1487196,KF112364.1,836,11-AUG-2014,Boletellus sp. HKAS 53375,"location: [0:836]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletellus,sp. HKAS 53375
+242_KF112426.1,1487194,KF112426.1,841,11-AUG-2014,Boletellus aff. emodensis HKAS 52678,"location: [0:841]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletellus,aff. emodensis HKAS 52678
+243_KF112485.1,1487192,KF112485.1,852,11-AUG-2014,Austroboletus sp. HKAS 59624,"location: [0:852]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Austroboletus,sp. HKAS 59624
+244_KF112383.1,1487191,KF112383.1,842,11-AUG-2014,Austroboletus sp. HKAS 57756,"location: [0:842]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Austroboletus,sp. HKAS 57756
+245_KF112487.1,1487190,KF112487.1,838,11-AUG-2014,Austroboletus aff. mutabilis HKAS 53450,"location: [0:838]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Austroboletus,aff. mutabilis HKAS 53450
+246_KF112486.1,1487189,KF112486.1,845,11-AUG-2014,Austroboletus aff. fusisporus HKAS 53461,"location: [0:845]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Austroboletus,aff. fusisporus HKAS 53461
+247_KF112484.1,1487188,KF112484.1,844,11-AUG-2014,Austroboletus aff. fusisporus HKAS 52683,"location: [0:844]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Austroboletus,aff. fusisporus HKAS 52683
+248_KF112422.1,1487187,KF112422.1,835,11-AUG-2014,Aureoboletus sp. HKAS 57581,"location: [0:835]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Aureoboletus,sp. HKAS 57581
+249_KF112456.1,1487186,KF112456.1,837,11-AUG-2014,Aureoboletus sp. HKAS 53458,"location: [0:837]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Aureoboletus,sp. HKAS 53458
+250_KU721319.1,1485230,KU721319.1,909,30-NOV-2017,Suillus marginielevatus,"location: [0:909]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['China: Nixi, Shangri-la, Diqing, Yunnan province']",False,Suillus,marginielevatus
+253_KY418891.1,1453538,KY418891.1,930,01-OCT-2017,Boletus bainiugan,"location: [0:930]
+authors: Zhao,R.-L., Li,G.-J., Sanchez-Ramirez,S., Stata,M., Yang,Z.-L., Wu,G., Dai,Y.-C., He,S.-H., Cui,B.-K., Zhou,J.-L., Wu,F., He,M.-Q., Moncalvo,J.-M. and Hyde,K.D.
+title: A six-gene phylogenetic overview of Basidiomycota and allied phyla with estimated divergence times of higher taxa and a phyloproteomics perspective
+journal: Fungal Divers. 84 (1), 43-74 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Boletus,bainiugan
+254_KT990518.1,1391648,KT990518.1,841,06-NOV-2016,Aureoboletus tenuis,"location: [0:841]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Aureoboletus,tenuis
+256_AF139694.1,1355219,AF139694.1,894,26-JUL-2013,Leccinellum crocipodium,"location: [0:894]
+authors: Binder,M. and Besl,H.
+title: 28S rRNA sequence data and chemotaxonomical analyses on the generic concept of Leccinum (Boletales)
+journal: (in) ? (Ed.); MICOLOGIA: 71-82; A.M.B., Centro Studi Micologici, Italy (2000)
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],,False,Leccinellum,crocipodium
+257_KF030294.1,1355216,KF030294.1,883,07-DEC-2017,Xerocomellus cf. rubellus East Coast MB03-033,"location: [0:883]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],"['USA: Worcester, MA']",False,Xerocomellus,cf. rubellus East Coast MB03-033
+258_KF030340.1,1355149,KF030340.1,881,07-DEC-2017,Boletus subalpinus,"location: [0:881]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],,False,Boletus,subalpinus
+259_KF112357.1,1354920,KF112357.1,833,11-AUG-2014,Xerocomellus chrysenteron,"location: [0:833]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomellus,chrysenteron
+261_KF030347.1,1354916,KF030347.1,896,07-DEC-2017,Leccinellum corsicum,"location: [0:896]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],,False,Leccinellum,corsicum
+262_KF030248.1,1354912,KF030248.1,880,07-DEC-2017,Baorangia rufomaculata,"location: [0:880]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],"['USA: Chestnut Ridge Park, NY']",False,Baorangia,rufomaculata
+263_KT002615.1,1354909,KT002615.1,901,31-MAY-2016,Boletus pulchriceps,"location: [0:901]
+authors: Zhao,K., Wu,G. and Yang,Z.
+title: Three new combinations of of Butyriboletus (Boletaceae)s
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['USA'],False,Boletus,pulchriceps
+264_KF030251.1,1354903,KF030251.1,768,07-DEC-2017,Rubroboletus dupainii,"location: [0:768]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],"['USA: Butner, NY']",False,Rubroboletus,dupainii
+265_KF030302.1,1354898,KF030302.1,874,07-DEC-2017,Boletus abruptibulbus,"location: [0:874]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],"['USA: Cape San Blas, FL']",False,Boletus,abruptibulbus
+266_KF030311.1,1354897,KF030311.1,874,07-DEC-2017,Aureoboletus roxanae,"location: [0:874]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],"['USA: Chestnut Ridge Park, NY']",False,Aureoboletus,roxanae
+267_KF112421.1,1354896,KF112421.1,837,11-AUG-2014,Aureoboletus moravicus,"location: [0:837]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Aureoboletus,moravicus
+268_KU144799.1,1348652,KU144799.1,877,16-DEC-2016,Xerocomellus zelleri,"location: [0:877]
+authors: Frank,J.L., Schwarz,C.F. and Siegel,N.
+title: Xerocomellus in the Western United States 2
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],"['USA: Oregon, Lane Co.']",False,Xerocomellus,zelleri
+269_MH879686.1,1325616,MH879686.1,906,27-FEB-2019,Butyriboletus roseoflavus,"location: [0:906]
+authors: Chai,H., Liang,Z.-Q., Xue,R., Jiang,S., Luo,S.-H., Wang,Y., Wu,L.-L., Tang,L.-P., Chen,Y., Hong,D. and Zeng,N.-K.
+title: New and noteworthy boletes from subtropical and tropical China
+journal: MycoKeys 46, 55-96 (2019)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China: Yunnan Province'],False,Butyriboletus,roseoflavus
+270_KF112437.1,1325514,KF112437.1,836,11-AUG-2014,Harrya chromapes,"location: [0:836]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Harrya,chromapes
+271_KT002619.1,1297044,KT002619.1,1031,31-MAY-2016,Butyriboletus yicibus,"location: [0:1031]
+authors: Zhao,K., Wu,G. and Yang,Z.
+title: Three new combinations of of Butyriboletus (Boletaceae)s
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Butyriboletus,yicibus
+272_KT002611.1,1297043,KT002611.1,864,31-MAY-2016,Butyriboletus brunneus,"location: [0:864]
+authors: Zhao,K., Wu,G. and Yang,Z.
+title: Three new combinations of of Butyriboletus (Boletaceae)s
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['USA'],False,Butyriboletus,brunneus
+273_KT002617.1,1297042,KT002617.1,906,31-MAY-2016,Boletus roseopurpureus,"location: [0:906]
+authors: Zhao,K., Wu,G. and Yang,Z.
+title: Three new combinations of of Butyriboletus (Boletaceae)s
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['USA'],False,Boletus,roseopurpureus
+274_KF112398.1,1288706,KF112398.1,842,11-AUG-2014,Phylloporus imbricatus,"location: [0:842]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Phylloporus,imbricatus
+275_KF112490.1,1288704,KF112490.1,843,11-AUG-2014,Phylloporus luxiensis,"location: [0:843]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Phylloporus,luxiensis
+276_KF030278.1,1282272,KF030278.1,877,07-DEC-2017,Caloboletus firmus,"location: [0:877]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],"['USA: Chestnut Ridge Park, NY']",False,Caloboletus,firmus
+278_KX017295.1,1278228,KX017295.1,933,30-DEC-2016,Tylopilus balloui,"location: [0:933]
+authors: Thongkantha,S., Thongklam,S., Lumyong,S. and Bussaban,B.
+title: Diversity and molecular phylogeny of boletes (emphasized on Boletaceae) from three highland forests in Chiang Mai, Thailand
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Tylopilus,balloui
+279_KT990624.1,1269243,KT990624.1,846,06-NOV-2016,Tylopilus griseipurpureus,"location: [0:846]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,griseipurpureus
+281_JQ928624.1,1256250,JQ928624.1,858,20-JAN-2013,Leccinellum sp. HKAS 50221,"location: [0:858]
+authors: Hosen,M.I., Feng,B., Wu,G., Zhu,X.T., Li,Y.C. and Yang,Z.L.
+title: Borofutus, a new genus of Boletaceae from tropical Asia: phylogeny, morphology, and taxonomy
+journal: Fungal Divers. 58 (1), 215-226 (2013)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Leccinellum,sp. HKAS 50221
+282_JQ928627.1,1256248,JQ928627.1,852,20-JAN-2013,Retiboletus aff. nigerrimus HKAS 59699,"location: [0:852]
+authors: Hosen,M.I., Feng,B., Wu,G., Zhu,X.T., Li,Y.C. and Yang,Z.L.
+title: Borofutus, a new genus of Boletaceae from tropical Asia: phylogeny, morphology, and taxonomy
+journal: Fungal Divers. 58 (1), 215-226 (2013)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Retiboletus,aff. nigerrimus HKAS 59699
+283_JQ928626.1,1256247,JQ928626.1,940,20-JAN-2013,Retiboletus aff. griseus HKAS 59460,"location: [0:940]
+authors: Hosen,M.I., Feng,B., Wu,G., Zhu,X.T., Li,Y.C. and Yang,Z.L.
+title: Borofutus, a new genus of Boletaceae from tropical Asia: phylogeny, morphology, and taxonomy
+journal: Fungal Divers. 58 (1), 215-226 (2013)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Retiboletus,aff. griseus HKAS 59460
+284_JQ928625.1,1256246,JQ928625.1,897,20-JAN-2013,Leccinum aff. aurantiacum HKAS 57390,"location: [0:897]
+authors: Hosen,M.I., Feng,B., Wu,G., Zhu,X.T., Li,Y.C. and Yang,Z.L.
+title: Borofutus, a new genus of Boletaceae from tropical Asia: phylogeny, morphology, and taxonomy
+journal: Fungal Divers. 58 (1), 215-226 (2013)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Leccinum,aff. aurantiacum HKAS 57390
+285_JQ928621.1,1256245,JQ928621.1,851,20-JAN-2013,Chalciporus aff. piperatus HKAS 50214,"location: [0:851]
+authors: Hosen,M.I., Feng,B., Wu,G., Zhu,X.T., Li,Y.C. and Yang,Z.L.
+title: Borofutus, a new genus of Boletaceae from tropical Asia: phylogeny, morphology, and taxonomy
+journal: Fungal Divers. 58 (1), 215-226 (2013)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Chalciporus,aff. piperatus HKAS 50214
+286_KU168044.1,1256133,KU168044.1,910,30-JUN-2016,Borofutus dhakanus,"location: [0:910]
+authors: Thongkantha,S., Thongklam,S., Pathom-aree,W. and Bussaban,B.
+title: Borofutus dhakanus, a first record of Boletes (Boletaceae, Leccinoideae) in Thailand
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['Thailand'],False,Borofutus,dhakanus
+287_KU721364.1,1217839,KU721364.1,909,30-NOV-2017,Suillus ponderosus,"location: [0:909]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Huddart Park, Woodside Co., CA']",False,Suillus,ponderosus
+288_KF112392.1,1195726,KF112392.1,841,11-AUG-2014,Xerocomus magniporus,"location: [0:841]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Xerocomus,magniporus
+289_NG_058653.1,1194958,NG_058653.1,950,30-MAY-2018,Boletus fagacicola,"location: [0:950]
+authors: Feng,B., Xu,J., Wu,G., Zeng,N.K., Li,Y.C., Tolgor,B., Kost,G.W. and Yang,Z.L.
+title: DNA sequence analyses reveal abundant diversity, endemism and evidence for asian origin of the porcini mushrooms
+journal: PLoS ONE 7 (5), E37567 (2012)
+medline id: 
+pubmed id: 22629418
+comment: Publication Status: Online-Only
+",['28S ribosomal RNA'],,False,Boletus,fagacicola
+290_JN563926.1,1194957,JN563926.1,908,23-JUN-2012,Boletus sp. 8 ZLY-2012,"location: [0:908]
+authors: Feng,B., Xu,J., Wu,G., Zeng,N.K., Li,Y.C., Tolgor,B., Kost,G.W. and Yang,Z.L.
+title: DNA sequence analyses reveal abundant diversity, endemism and evidence for asian origin of the porcini mushrooms
+journal: PLoS ONE 7 (5), E37567 (2012)
+medline id: 
+pubmed id: 22629418
+comment: Publication Status: Online-Only
+",['28S large subunit ribosomal RNA'],,False,Boletus,sp. 8 ZLY-2012
+292_JN563861.1,1194947,JN563861.1,827,23-JUN-2012,Boletus sp. HKAS 52241,"location: [0:827]
+authors: Feng,B., Xu,J., Wu,G., Zeng,N.K., Li,Y.C., Tolgor,B., Kost,G.W. and Yang,Z.L.
+title: DNA sequence analyses reveal abundant diversity, endemism and evidence for asian origin of the porcini mushrooms
+journal: PLoS ONE 7 (5), E37567 (2012)
+medline id: 
+pubmed id: 22629418
+comment: Publication Status: Online-Only
+",['28S large subunit ribosomal RNA'],,False,Boletus,sp. HKAS 52241
+293_KF030259.1,1173595,KF030259.1,872,07-DEC-2017,Lanmaoa carminipes,"location: [0:872]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],"['USA: Berea, Cuyalioga Co, OH']",False,Lanmaoa,carminipes
+294_JQ928623.1,1089193,JQ928623.1,890,20-JAN-2013,Zangia roseola,"location: [0:890]
+authors: Hosen,M.I., Feng,B., Wu,G., Zhu,X.T., Li,Y.C. and Yang,Z.L.
+title: Borofutus, a new genus of Boletaceae from tropical Asia: phylogeny, morphology, and taxonomy
+journal: Fungal Divers. 58 (1), 215-226 (2013)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Zangia,roseola
+295_KF112414.1,1089190,KF112414.1,799,11-AUG-2014,Zangia erythrocephala,"location: [0:799]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Zangia,erythrocephala
+296_KF112472.1,1089185,KF112472.1,847,11-AUG-2014,Tylopilus violatinctus,"location: [0:847]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,violatinctus
+297_KT990663.1,925758,KT990663.1,823,06-NOV-2016,Xanthoconium purpureum,"location: [0:823]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['USA'],False,Xanthoconium,purpureum
+298_KF112417.1,925644,KF112417.1,841,11-AUG-2014,Retiboletus griseus,"location: [0:841]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Retiboletus,griseus
+299_KF030305.1,925643,KF030305.1,880,07-DEC-2017,Lanmaoa pallidorosea,"location: [0:880]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],"['USA: Suffolk Co, NY']",False,Lanmaoa,pallidorosea
+302_NG_058644.1,925637,NG_058644.1,882,30-MAY-2018,Boletus austroedulis,"location: [0:882]
+authors: Dentinger,B.T., Ammirati,J.F., Both,E.E., Desjardin,D.E., Halling,R.E., Henkel,T.W., Moreau,P.A., Nagasawa,E., Soytong,K., Taylor,A.F., Watling,R., Moncalvo,J.M. and McLaughlin,D.J.
+title: Molecular phylogenetics of porcini mushrooms (Boletus section Boletus)
+journal: Mol. Phylogenet. Evol. 57 (3), 1276-1292 (2010)
+medline id: 
+pubmed id: 20970511
+comment: 
+",['28S ribosomal RNA'],['Australia'],False,Boletus,austroedulis
+303_KT990630.1,889443,KT990630.1,750,06-NOV-2016,Retiboletus nigerrimus,"location: [0:750]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Retiboletus,nigerrimus
+306_KC111200.1,857007,KC111200.1,957,29-APR-2013,Butyriboletus subappendiculatus,"location: [0:957]
+authors: Li,H., Wei,H., Peng,H., Ding,H., Wang,L., He,L. and Fu,L.
+title: Boletus roseoflavus, a new species of Boletus in section Appendiculati from China
+journal: Mycol. Prog. (2013) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['Austria'],False,Butyriboletus,subappendiculatus
+307_EU232002.1,748101,EU232002.1,843,25-MAR-2010,Boletus nobilis,"location: [0:843]
+authors: Dentinger,B.T.M. and McLaughlin,D.J.
+title: The evolution of specialization in ectomycorrhizal fungi: an example from porcini
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: near gate #26, Duke Forest, Durham, North Carolina']",False,Boletus,nobilis
+308_EU232005.1,748099,EU232005.1,840,25-MAR-2010,Boletus rex-veris,"location: [0:840]
+authors: Dentinger,B.T.M. and McLaughlin,D.J.
+title: The evolution of specialization in ectomycorrhizal fungi: an example from porcini
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Hwy410, mile 84, Chinook Pass (1655 m elev.), Washington']",False,Boletus,rex-veris
+310_GU187594.1,693316,GU187594.1,941,14-JUL-2010,Rhizopogon nigrescens,"location: [0:941]
+authors: Binder,M., Larsson,K.H., Matheny,P.B. and Hibbett,D.S.
+title: Amylocorticiales ord. nov. and Jaapiales ord. nov.: early diverging clades of agaricomycetidae dominated by corticioid forms
+journal: Mycologia 102 (4), 865-880 (2010)
+medline id: 
+pubmed id: 20648753
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Massachusetts, Cape Cod, Wellfleet, Marconi Station Rd near Atlantic White Cedar Swamp']",False,Rhizopogon,nigrescens
+313_KT990538.1,676142,KT990538.1,752,06-NOV-2016,Buchwaldoboletus lignicola,"location: [0:752]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['Germany'],False,Buchwaldoboletus,lignicola
+314_KT990514.1,654445,KT990514.1,795,06-NOV-2016,Aureoboletus longicollis,"location: [0:795]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Aureoboletus,longicollis
+315_JX889720.1,654438,JX889720.1,839,20-JAN-2013,Austroboletus fusisporus,"location: [0:839]
+authors: Hosen,M.I., Feng,B., Wu,G., Zhu,X.T., Li,Y.C. and Yang,Z.L.
+title: Borofutus, a new genus of Boletaceae from tropical Asia: phylogeny, morphology, and taxonomy
+journal: Fungal Divers. 58 (1), 215-226 (2013)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Austroboletus,fusisporus
+316_KU721354.1,627136,KU721354.1,855,30-NOV-2017,Suillus quiescens,"location: [0:855]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: 1100 Kings Mountain Rd, Huddart Park, Woodside Co., CA']",False,Suillus,quiescens
+318_FJ153623.1,555538,FJ153623.1,967,27-SEP-2008,Phlebopus sp. REH8795,"location: [0:967]
+authors: Wilson,A.W., Binder,M. and Hibbett,D.S.
+title: Systematics of the Sclerodermatineae
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Phlebopus,sp. REH8795
+322_KT002612.1,537024,KT002612.1,884,31-MAY-2016,Exsudoporus frostii,"location: [0:884]
+authors: Zhao,K., Wu,G. and Yang,Z.
+title: Three new combinations of of Butyriboletus (Boletaceae)s
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['USA'],False,Exsudoporus,frostii
+323_KX685722.1,519976,KX685722.1,899,27-APR-2017,Tylopilus porphyrosporus,"location: [0:899]
+authors: Orihara,T. and Smith,M.E.
+title: Unique phylogenetic position of the African truffle-like fungus, Octaviania ivoryana (Boletaceae, Boletales), and the proposal of a new genus, Afrocastellanoa
+journal: Mycologia, 1-10 (2017) In press
+medline id: 
+pubmed id: 28418780
+comment: Publication Status: Available-Online prior to print
+",['28S ribosomal RNA'],['Japan'],False,Tylopilus,porphyrosporus
+325_JN378518.1,509537,JN378518.1,896,19-SEP-2016,Austroboletus subvirens,"location: [0:896]
+authors: Orihara,T., Smith,M.E., Shimomura,N., Iwase,K. and Maekawa,N.
+title: Diversity and systematics of the sequestrate genus Octaviania in Japan: two new subgenera and eleven new species
+journal: Persoonia 28, 85-112 (2012)
+medline id: 
+pubmed id: 23105156
+comment: 
+",['28S ribosomal RNA'],['Japan: Tottori Pref.'],False,Austroboletus,subvirens
+326_KY418895.1,509536,KY418895.1,964,01-OCT-2017,Baorangia pseudocalopus,"location: [0:964]
+authors: Zhao,R.-L., Li,G.-J., Sanchez-Ramirez,S., Stata,M., Yang,Z.-L., Wu,G., Dai,Y.-C., He,S.-H., Cui,B.-K., Zhou,J.-L., Wu,F., He,M.-Q., Moncalvo,J.-M. and Hyde,K.D.
+title: A six-gene phylogenetic overview of Basidiomycota and allied phyla with estimated divergence times of higher taxa and a phyloproteomics perspective
+journal: Fungal Divers. 84 (1), 43-74 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Baorangia,pseudocalopus
+327_KT990645.1,509535,KT990645.1,836,06-NOV-2016,Strobilomyces verruculosus,"location: [0:836]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Strobilomyces,verruculosus
+328_EU232000.1,495289,EU232000.1,837,25-MAR-2010,Xanthoconium separans,"location: [0:837]
+authors: Dentinger,B.T.M. and McLaughlin,D.J.
+title: The evolution of specialization in ectomycorrhizal fungi: an example from porcini
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: near gate #26, Duke Forest, Durham, North Carolina']",False,Xanthoconium,separans
+329_KT990537.1,495285,KT990537.1,845,06-NOV-2016,Boletus reticuloceps,"location: [0:845]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Boletus,reticuloceps
+330_EU232001.1,495284,EU232001.1,817,25-MAR-2010,Boletus quercophilus,"location: [0:817]
+authors: Dentinger,B.T.M. and McLaughlin,D.J.
+title: The evolution of specialization in ectomycorrhizal fungi: an example from porcini
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['Costa Rica: in cow pasture along Rio Savegre, San Gerardo de Dota, San Jose']",False,Boletus,quercophilus
+332_KT990644.1,459207,KT990644.1,842,06-NOV-2016,Strobilomyces strobilaceus,"location: [0:842]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Strobilomyces,strobilaceus
+334_KY713602.1,405850,KY713602.1,857,11-DEC-2019,Suillellus amygdalinus,"location: [0:857]
+authors: Arora,D., Siegel,N. and Frank,J.L.
+title: Boletaceae notes 2017
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],"['USA: California, Santa Barbara Co.']",False,Suillellus,amygdalinus
+335_DQ683000.1,394190,DQ683000.1,904,09-FEB-2007,Scleroderma polyrhizum,"location: [0:904]
+authors: Louzan,R., Wilson,A.W., Binder,M. and Hibbett,D.S.
+title: Phylogenetic placement of Diplocystis wrightii in the Sclerodermatineae (Boletales) based on nuclear ribosomal large subunit DNA sequences
+journal: Mycoscience 48 (1), 66-69 (2007)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Scleroderma,polyrhizum
+337_DQ867115.1,388887,DQ867115.1,960,26-JUL-2007,Bothia castanella,"location: [0:960]
+authors: Halling,R.E., Baroni,T.J. and Binder,M.
+title: A new genus of Boletaceae from eastern North America
+journal: Mycologia 99 (2), 310-316 (2007)
+medline id: 
+pubmed id: 17682784
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Massachusetts, Lincoln, de Cordova Museum']",False,Bothia,castanella
+338_DQ534629.1,388871,DQ534629.1,884,23-OCT-2007,Tylopilus rubrobrunneus,"location: [0:884]
+authors: Binder,M. and Hibbett,D.S.
+title: Molecular systematics and biological diversification of Boletales
+journal: Mycologia 98 (6), 971-981 (2006)
+medline id: 
+pubmed id: 17486973
+comment: 
+",['28S large subunit ribosomal RNA'],['USA: MA'],False,Tylopilus,rubrobrunneus
+339_DQ534664.1,388870,DQ534664.1,986,23-OCT-2007,Tremellogaster surinamensis,"location: [0:986]
+authors: Binder,M. and Hibbett,D.S.
+title: Molecular systematics and biological diversification of Boletales
+journal: Mycologia 98 (6), 971-981 (2006)
+medline id: 
+pubmed id: 17486973
+comment: 
+",['28S large subunit ribosomal RNA'],"['Guyana: upper Potaro River, Pakaraima Mountains']",False,Tremellogaster,surinamensis
+340_DQ534655.1,388867,DQ534655.1,880,23-OCT-2007,Pseudoboletus parasiticus,"location: [0:880]
+authors: Binder,M. and Hibbett,D.S.
+title: Molecular systematics and biological diversification of Boletales
+journal: Mycologia 98 (6), 971-981 (2006)
+medline id: 
+pubmed id: 17486973
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Blue Valley, Macon, NC']",False,Pseudoboletus,parasiticus
+342_KT002616.1,388852,KT002616.1,821,31-MAY-2016,Butyriboletus regius,"location: [0:821]
+authors: Zhao,K., Wu,G. and Yang,Z.
+title: Three new combinations of of Butyriboletus (Boletaceae)s
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['Germany'],False,Butyriboletus,regius
+343_DQ534624.1,388838,DQ534624.1,884,23-OCT-2007,Austroboletus gracilis,"location: [0:884]
+authors: Binder,M. and Hibbett,D.S.
+title: Molecular systematics and biological diversification of Boletales
+journal: Mycologia 98 (6), 971-981 (2006)
+medline id: 
+pubmed id: 17486973
+comment: 
+",['28S large subunit ribosomal RNA'],['USA: MA'],False,Austroboletus,gracilis
+344_KF112344.1,388837,KF112344.1,839,11-AUG-2014,Aureoboletus gentilis,"location: [0:839]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['Italy'],False,Aureoboletus,gentilis
+345_DQ534636.1,388835,DQ534636.1,879,23-OCT-2007,Aureoboletus auriporus,"location: [0:879]
+authors: Binder,M. and Hibbett,D.S.
+title: Molecular systematics and biological diversification of Boletales
+journal: Mycologia 98 (6), 971-981 (2006)
+medline id: 
+pubmed id: 17486973
+comment: 
+",['28S large subunit ribosomal RNA'],['USA: MA'],False,Aureoboletus,auriporus
+346_NG_059490.1,374766,NG_059490.1,912,05-JUN-2018,Tylopilus plumbeoviolaceoides,"location: [0:912]
+authors: Gelardi,M., Li,T., Yan,W. and Zhang,M.
+title: Tylopilus pinetorum (Boletaceae), a novel species in the T. plumbeoviolaceus consortium from southwestern China and notes on purplish-violet coloured allied taxa
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Tylopilus,plumbeoviolaceoides
+347_KT990646.1,374763,KT990646.1,825,06-NOV-2016,Strobilomyces seminudus,"location: [0:825]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Strobilomyces,seminudus
+349_KF112320.1,374759,KF112320.1,833,11-AUG-2014,Neoboletus magnificus,"location: [0:833]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Neoboletus,magnificus
+350_KT002613.1,287845,KT002613.1,666,31-MAY-2016,Butyriboletus pseudoregius,"location: [0:666]
+authors: Zhao,K., Wu,G. and Yang,Z.
+title: Three new combinations of of Butyriboletus (Boletaceae)s
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['Belgium'],False,Butyriboletus,pseudoregius
+351_KT990524.1,285024,KT990524.1,833,06-NOV-2016,Aureoboletus thibetanus,"location: [0:833]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Aureoboletus,thibetanus
+352_KF112419.1,283656,KF112419.1,843,11-AUG-2014,Boletellus shichianus,"location: [0:843]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Boletellus,shichianus
+353_KF030281.1,279508,KF030281.1,877,07-DEC-2017,Boletus inedulis,"location: [0:877]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],['USA: NY'],False,Boletus,inedulis
+354_KF112443.1,273862,KF112443.1,827,11-AUG-2014,Leccinum monticola,"location: [0:827]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Leccinum,monticola
+357_AY612830.1,222705,AY612830.1,991,26-JUL-2013,Suillus pictus,"location: [0:991]
+authors: James,T.Y., Drehmel,D., Moncalvo,J.-M. and Vilgalys,R.
+title: Molecular phylogeny and biodiversity of the boletes
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Suillus,pictus
+358_AY177258.1,217297,AY177258.1,852,21-JAN-2003,Pseudomerulius aureus,"location: [0:852]
+authors: Jarosch,M.
+title: 
+journal: (in) ZUR MOLEKULAREN SYSTEMATIK DER BOLETALES: CONIOPHORINEAE, PAXILLINEAE UND SUILLINEAE. J. Cramer (2001)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Pseudomerulius,aureus
+359_KF112444.1,196695,KF112444.1,828,11-AUG-2014,Leccinum quercinum,"location: [0:828]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Leccinum,quercinum
+361_KY432825.1,182793,KY432825.1,669,07-FEB-2017,Tylopilus plumbeoviolaceus,"location: [0:669]
+authors: Bomanz,B.
+title: Document the biodiversity of fungi found throughout the state of Missouri and surrounding region
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Tylopilus,plumbeoviolaceus
+362_JN563858.1,182792,JN563858.1,933,23-JUN-2012,Boletus violaceofuscus,"location: [0:933]
+authors: Feng,B., Xu,J., Wu,G., Zeng,N.K., Li,Y.C., Tolgor,B., Kost,G.W. and Yang,Z.L.
+title: DNA sequence analyses reveal abundant diversity, endemism and evidence for asian origin of the porcini mushrooms
+journal: PLoS ONE 7 (5), E37567 (2012)
+medline id: 
+pubmed id: 22629418
+comment: Publication Status: Online-Only
+",['28S large subunit ribosomal RNA'],,False,Boletus,violaceofuscus
+363_EU232003.1,182791,EU232003.1,831,25-MAR-2010,Boletus variipes,"location: [0:831]
+authors: Dentinger,B.T.M. and McLaughlin,D.J.
+title: The evolution of specialization in ectomycorrhizal fungi: an example from porcini
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Duke Forest, Durham, North Carolina']",False,Boletus,variipes
+364_KF030329.1,182790,KF030329.1,886,07-DEC-2017,Boletus separans,"location: [0:886]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],['USA: Texas'],False,Boletus,separans
+365_JQ967215.1,182636,JQ967215.1,909,19-MAR-2013,Phylloporus pelletieri,"location: [0:909]
+authors: Zeng,N.K., Tang,L.P., Li,Y.C., Tolgor,B., Zhu,X.T., Zhao,Q. and Yang,Z.L.
+title: The genus Phylloporus (Boletaceae, Boletales) from China: morphological and multilocus DNA sequence analyses
+journal: Fungal Divers. 58, 73-101 (2013)
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['United Kingdom: West Gloucestershire'],False,Phylloporus,pelletieri
+367_KT002609.1,182627,KT002609.1,902,31-MAY-2016,Butyriboletus appendiculatus,"location: [0:902]
+authors: Zhao,K., Wu,G. and Yang,Z.
+title: Three new combinations of of Butyriboletus (Boletaceae)s
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['Belgium'],False,Butyriboletus,appendiculatus
+368_KF030339.1,182626,KF030339.1,881,07-DEC-2017,Boletus aereus,"location: [0:881]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],"['USA: Redwood National Park, Humbolt Co., CA']",False,Boletus,aereus
+369_KF112403.1,178529,KF112403.1,838,11-AUG-2014,Leccinum extremiorientale,"location: [0:838]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Leccinum,extremiorientale
+370_KU721352.1,178459,KU721352.1,926,30-NOV-2017,Suillus bellinii,"location: [0:926]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['Italy: Aglientu, Sambucheddu, Sardegna (Sardinia)']",False,Suillus,bellinii
+371_KT990637.1,178457,KT990637.1,763,06-NOV-2016,Rubroboletus rhodoxanthus,"location: [0:763]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['Germany'],False,Rubroboletus,rhodoxanthus
+374_AF352038.1,157263,AF352038.1,869,10-JAN-2003,Coniophora marmorata,"location: [0:869]
+authors: Jarosch,M. and Besl,H.
+title: Leucogyrophana, a polyphyletic genus of the order Boletales (Basidiomycetes)
+journal: Plant Biol. 3, 443-448 (2001)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Coniophora,marmorata
+375_KY418898.1,150864,KY418898.1,964,01-OCT-2017,Gyroporus castaneus,"location: [0:964]
+authors: Zhao,R.-L., Li,G.-J., Sanchez-Ramirez,S., Stata,M., Yang,Z.-L., Wu,G., Dai,Y.-C., He,S.-H., Cui,B.-K., Zhou,J.-L., Wu,F., He,M.-Q., Moncalvo,J.-M. and Hyde,K.D.
+title: A six-gene phylogenetic overview of Basidiomycota and allied phyla with estimated divergence times of higher taxa and a phyloproteomics perspective
+journal: Fungal Divers. 84 (1), 43-74 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Gyroporus,castaneus
+376_KJ786558.1,150802,KJ786558.1,872,03-APR-2016,Scleroderma sinnamariense,"location: [0:872]
+authors: Roy,M., Hackel,J., Manzi,S., Louisanna,E., Iribar-Pelozuelo,A., Buffard,A., Frame,D., Gardes,M., Henkel,T., Decock,C., Moreau,P.-A., Courtecuisse,R. and Schimann,H.
+title: Are ectomycorrhizal fungi so rare in the Neotropics? Diversity of ectomycorrhizal symbioses in French Guiana
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['Guyana'],False,Scleroderma,sinnamariense
+377_AF336264.1,150797,AF336264.1,903,03-APR-2002,Scleroderma bovista,"location: [0:903]
+authors: Binder,M. and Bresinsky,A.
+title: Derivation of a polymorphic lineage of Gasteromycetes from boletoid ancestors
+journal: Mycologia 94 (1), 85-98 (2002)
+medline id: 
+pubmed id: 21156480
+comment: 
+",['28S ribosomal RNA'],,False,Scleroderma,bovista
+378_AF336263.1,150796,AF336263.1,904,03-APR-2002,Scleroderma areolatum,"location: [0:904]
+authors: Binder,M. and Bresinsky,A.
+title: Derivation of a polymorphic lineage of Gasteromycetes from boletoid ancestors
+journal: Mycologia 94 (1), 85-98 (2002)
+medline id: 
+pubmed id: 21156480
+comment: 
+",['28S ribosomal RNA'],,False,Scleroderma,areolatum
+379_DQ682996.1,150782,DQ682996.1,972,09-FEB-2007,Astraeus hygrometricus,"location: [0:972]
+authors: Louzan,R., Wilson,A.W., Binder,M. and Hibbett,D.S.
+title: Phylogenetic placement of Diplocystis wrightii in the Sclerodermatineae (Boletales) based on nuclear ribosomal large subunit DNA sequences
+journal: Mycoscience 48 (1), 66-69 (2007)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Astraeus,hygrometricus
+380_KT990562.1,145387,KT990562.1,725,06-NOV-2016,Chalciporus piperatus,"location: [0:725]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['Germany'],False,Chalciporus,piperatus
+382_KF112445.1,121052,KF112445.1,826,11-AUG-2014,Leccinum variicolor,"location: [0:826]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['China'],False,Leccinum,variicolor
+383_KT990586.1,121051,KT990586.1,818,06-NOV-2016,Leccinum scabrum,"location: [0:818]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Leccinum,scabrum
+384_KT990575.1,121045,KT990575.1,753,06-NOV-2016,Xerocomus impolitus,"location: [0:753]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['Germany'],False,Xerocomus,impolitus
+385_KT990549.1,121037,KT990549.1,839,06-NOV-2016,Sutorius eximius,"location: [0:839]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Sutorius,eximius
+386_KU721347.1,116602,KU721347.1,919,30-NOV-2017,Suillus fluryi,"location: [0:919]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['Australia: Sunshine, Ardoyne Street (N end), junction with Thyra Street, Victoria']",False,Suillus,fluryi
+387_AF352041.1,101661,AF352041.1,878,10-JAN-2003,Leucogyrophana olivascens,"location: [0:878]
+authors: Jarosch,M. and Besl,H.
+title: Leucogyrophana, a polyphyletic genus of the order Boletales (Basidiomycetes)
+journal: Plant Biol. 3, 443-448 (2001)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Leucogyrophana,olivascens
+388_KT990545.1,98230,KT990545.1,819,06-NOV-2016,Tylopilus felleus,"location: [0:819]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['China'],False,Tylopilus,felleus
+391_KU663206.1,85998,KU663206.1,856,05-APR-2018,Suillus viscidus,"location: [0:856]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Vally Co., McCall, Idaho']",False,Suillus,viscidus
+392_AB733323.1,85982,AB733323.1,659,13-JUL-2012,Serpula lacrymans,"authors: Horisawa,S., Sakuma,Y. and Doi,S.
+title: Phylogenetic analysis of wood rot fungi using ribosomal RNA gene
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Serpula,lacrymans
+393_AF098382.1,85981,AF098382.1,905,11-JUN-1999,Leucogyrophana romellii,"location: [0:905]
+authors: Bresinsky,A., Jarosch,M., Fischer,M., Schoenberger,I. and Wittmann-Bresinsky,B.
+title: Phylogenetic relationships within Paxillus s. l. (Basidiomycetes, Boletales): Separation of a south hemisphere genus
+journal: Plant Biol. 1, 327-333 (1999)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Leucogyrophana,romellii
+394_AY491676.1,85980,AY491676.1,894,08-MAR-2004,Leucogyrophana mollusca,"location: [0:894]
+authors: Carlier,F.-X., Bitew,A., Castillo,G. and Decock,C.
+title: Some Coniophoraceae (Basidiomycetes, Boletales) from the Ethiopian highlands: Coniophora bimacrospora sp. nov. and a note on the phylogenetic relationships of Serpula similis and Gyrodontium
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Leucogyrophana,mollusca
+395_AF098380.1,85979,AF098380.1,882,11-JUN-1999,Leucogyrophana arizonica,"location: [0:882]
+authors: Bresinsky,A., Jarosch,M., Fischer,M., Schoenberger,I. and Wittmann-Bresinsky,B.
+title: Phylogenetic relationships within Paxillus s. l. (Basidiomycetes, Boletales): Separation of a south hemisphere genus
+journal: Plant Biol. 1, 327-333 (1999)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Leucogyrophana,arizonica
+396_AF098376.1,85977,AF098376.1,881,11-JUN-1999,Coniophora olivacea,"location: [0:881]
+authors: Bresinsky,A., Jarosch,M., Fischer,M., Schoenberger,I. and Wittmann-Bresinsky,B.
+title: Phylogenetic relationships within Paxillus s. l. (Basidiomycetes, Boletales): Separation of a south hemisphere genus
+journal: Plant Biol. 1, 327-333 (1999)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Coniophora,olivacea
+397_AF098399.1,85976,AF098399.1,905,11-JUN-1999,Chroogomphus rutilus,"location: [0:905]
+authors: Bresinsky,A., Jarosch,M., Fischer,M., Schoenberger,I. and Wittmann-Bresinsky,B.
+title: Phylogenetic relationships within Paxillus s. l. (Basidiomycetes, Boletales): Separation of a south hemisphere genus
+journal: Plant Biol. 1, 327-333 (1999)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Chroogomphus,rutilus
+398_AF167677.1,85971,AF167677.1,876,18-OCT-1999,Gyrodon lividus,"location: [0:876]
+authors: Jarosch,M. and Bresinsky,A.
+title: Phylogenetic Relationships within Paxillus s. str.: Cryptic speciation within Paxillus involutus
+journal: Plant Biol. (1999) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Gyrodon,lividus
+399_DQ534666.1,83216,DQ534666.1,960,23-OCT-2007,Calostoma cinnabarinum,"location: [0:960]
+authors: Binder,M. and Hibbett,D.S.
+title: Molecular systematics and biological diversification of Boletales
+journal: Mycologia 98 (6), 971-981 (2006)
+medline id: 
+pubmed id: 17486973
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Blue Hills Reservation, MA']",False,Calostoma,cinnabarinum
+400_DQ534626.1,80670,DQ534626.1,881,23-OCT-2007,Strobilomyces floccopus,"location: [0:881]
+authors: Binder,M. and Hibbett,D.S.
+title: Molecular systematics and biological diversification of Boletales
+journal: Mycologia 98 (6), 971-981 (2006)
+medline id: 
+pubmed id: 17486973
+comment: 
+",['28S large subunit ribosomal RNA'],['Germany: Bavaria'],False,Strobilomyces,floccopus
+401_KF030306.1,80668,KF030306.1,881,07-DEC-2017,Pulveroboletus ravenelii,"location: [0:881]
+authors: Nuhn,M.E., Binder,M., Taylor,A.F., Halling,R.E. and Hibbett,D.S.
+title: Phylogenetic overview of the Boletineae
+journal: Fungal Biol 117 (7-8), 479-511 (2013)
+medline id: 
+pubmed id: 23931115
+comment: 
+",['28S ribosomal RNA'],['USA: MA'],False,Pulveroboletus,ravenelii
+402_AF336262.1,80664,AF336262.1,904,03-APR-2002,Pisolithus arhizus,"location: [0:904]
+authors: Binder,M. and Bresinsky,A.
+title: Derivation of a polymorphic lineage of Gasteromycetes from boletoid ancestors
+journal: Mycologia 94 (1), 85-98 (2002)
+medline id: 
+pubmed id: 21156480
+comment: 
+",['28S ribosomal RNA'],,False,Pisolithus,arhizus
+403_JQ928622.1,80661,JQ928622.1,903,20-JAN-2013,Phlebopus portentosus,"location: [0:903]
+authors: Hosen,M.I., Feng,B., Wu,G., Zhu,X.T., Li,Y.C. and Yang,Z.L.
+title: Borofutus, a new genus of Boletaceae from tropical Asia: phylogeny, morphology, and taxonomy
+journal: Fungal Divers. 58 (1), 215-226 (2013)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],False,Phlebopus,portentosus
+404_KY576811.1,80648,KY576811.1,907,22-JUN-2017,Gyroporus cyanescens,"location: [0:907]
+authors: Moreno,G., Carlavilla,J.R., Heykoop,M., Manjon,J.L. and Vizzini,A.
+title: Direct Submission
+journal: Submitted (07-FEB-2017) Life Science, University of Alcala, Crta. Madrid-Barcelona km 33, 500, Alcala de Henares, Madrid 28805, Spain
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],"['Spain: La Coruna, Berdoias, Vimianzo']",False,Gyroporus,cyanescens
+405_AY612807.1,80646,AY612807.1,1034,26-JUL-2013,Boletinellus merulioides,"location: [0:1034]
+authors: James,T.Y., Drehmel,D., Moncalvo,J.-M. and Vilgalys,R.
+title: Molecular phylogeny and biodiversity of the boletes
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Boletinellus,merulioides
+406_KT323293.1,80637,KT323293.1,641,22-DEC-2015,Coniophora puteana,"location: [0:641]
+authors: Martinez-Alvarez,P., Fernandez-Gonzalez,R.A., Sanz-Ros,A.V., Pando,V. and Diez,J.J.
+title: Two fungal endophytes reduce the severity of pitch canker disease on Pinus radiata seedlings
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Coniophora,puteana
+407_AF352037.1,80636,AF352037.1,871,10-JAN-2003,Coniophora arida,"location: [0:871]
+authors: Jarosch,M. and Besl,H.
+title: Leucogyrophana, a polyphyletic genus of the order Boletales (Basidiomycetes)
+journal: Plant Biol. 3, 443-448 (2001)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Coniophora,arida
+408_KT990688.1,80609,KT990688.1,817,06-NOV-2016,Xerocomus subtomentosus,"location: [0:817]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['United Kingdom: England'],False,Xerocomus,subtomentosus
+409_AY207267.1,80604,AY207267.1,1005,03-APR-2019,Tapinella panuoides,"location: [0:1005]
+authors: Walther,G., Garnica,S. and Weiss,M.
+title: The systematic relevance of conidiogenesis modes in the gilled Agaricales
+journal: Mycol. Res. 109 (PT 5), 525-544 (2005)
+medline id: 
+pubmed id: 16018308
+comment: 
+",['28S large subunit ribosomal RNA'],['Germany'],False,Tapinella,panuoides
+410_AF098401.1,80603,AF098401.1,901,11-JUN-1999,Serpula incrassata,"location: [0:901]
+authors: Bresinsky,A., Jarosch,M., Fischer,M., Schoenberger,I. and Wittmann-Bresinsky,B.
+title: Phylogenetic relationships within Paxillus s. l. (Basidiomycetes, Boletales): Separation of a south hemisphere genus
+journal: Plant Biol. 1, 327-333 (1999)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Serpula,incrassata
+411_AM076526.1,80602,AM076526.1,877,02-FEB-2006,Serpula himantioides,"authors: Kauserud,H., Stensrud,O., Decock,C., Shalchian-Tabrizi,K. and Schumacher,T.
+title: Multiple gene genealogies and AFLPs suggest cryptic speciation and long-distance dispersal in the basidiomycete Serpula himantioides (Boletales)
+journal: Mol. Ecol. 15 (2), 421-431 (2006)
+medline id: 
+pubmed id: 16448410
+comment: 
+",['28S rRNA'],,False,Serpula,himantioides
+412_KT990661.1,80580,KT990661.1,831,06-NOV-2016,Xanthoconium affine,"location: [0:831]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['USA'],False,Xanthoconium,affine
+413_KP327645.1,80579,KP327645.1,960,29-SEP-2017,Boletellus chrysenteroides,"location: [0:960]
+authors: Halling,R.E., Fechner,N., Nuhn,M.E., Osmundson,T., Soytong,K., Arora,D., Binder,M. and Hibbett,D.
+title: Evolutionary relationships of Heimioporus and Boletellus (Boletales), with an emphasis on Australian taxa including new species and new combinations in Aureoboletus, Hemileccinum and Xerocomus
+journal: Aust. Syst. Bot. 28, 1-22 (2015)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['USA: Pennsylvania'],False,Boletellus,chrysenteroides
+414_KP327618.1,80578,KP327618.1,942,29-SEP-2017,Boletellus ananas,"location: [0:942]
+authors: Halling,R.E., Fechner,N., Nuhn,M.E., Osmundson,T., Soytong,K., Arora,D., Binder,M. and Hibbett,D.
+title: Evolutionary relationships of Heimioporus and Boletellus (Boletales), with an emphasis on Australian taxa including new species and new combinations in Aureoboletus, Hemileccinum and Xerocomus
+journal: Aust. Syst. Bot. 28, 1-22 (2015)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],"['USA: Crooked River, Georgia']",False,Boletellus,ananas
+415_KP327625.1,73887,KP327625.1,967,29-SEP-2017,Boletellus russellii,"location: [0:967]
+authors: Halling,R.E., Fechner,N., Nuhn,M.E., Osmundson,T., Soytong,K., Arora,D., Binder,M. and Hibbett,D.
+title: Evolutionary relationships of Heimioporus and Boletellus (Boletales), with an emphasis on Australian taxa including new species and new combinations in Aureoboletus, Hemileccinum and Xerocomus
+journal: Aust. Syst. Bot. 28, 1-22 (2015)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],"['USA: Mount Wachusetts, Massachusetts']",False,Boletellus,russellii
+416_AY207210.1,72124,AY207210.1,1044,03-APR-2019,Hygrophoropsis aurantiaca,"location: [0:1044]
+authors: Walther,G., Garnica,S. and Weiss,M.
+title: The systematic relevance of conidiogenesis modes in the gilled Agaricales
+journal: Mycol. Res. 109 (PT 5), 525-544 (2005)
+medline id: 
+pubmed id: 16018308
+comment: 
+",['28S large subunit ribosomal RNA'],['Germany'],False,Hygrophoropsis,aurantiaca
+417_AY177259.1,72122,AY177259.1,839,21-JAN-2003,Tapinella atrotomentosa,"location: [0:839]
+authors: Jarosch,M.
+title: 
+journal: (in) ZUR MOLEKULAREN SYSTEMATIK DER BOLETALES: CONIOPHORINEAE, PAXILLINEAE UND SUILLINEAE. J. Cramer (2001)
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],,False,Tapinella,atrotomentosa
+418_AF336266.1,68788,AF336266.1,904,03-APR-2002,Scleroderma citrinum,"location: [0:904]
+authors: Binder,M. and Bresinsky,A.
+title: Derivation of a polymorphic lineage of Gasteromycetes from boletoid ancestors
+journal: Mycologia 94 (1), 85-98 (2002)
+medline id: 
+pubmed id: 21156480
+comment: 
+",['28S ribosomal RNA'],,False,Scleroderma,citrinum
+420_KU663244.1,48590,KU663244.1,891,05-APR-2018,Suillus tridentinus,"location: [0:891]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['Germany: West Germany'],False,Suillus,tridentinus
+421_KU721301.1,48589,KU721301.1,856,30-NOV-2017,Suillus tomentosus,"location: [0:856]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Vally Co., Idaho']",False,Suillus,tomentosus
+422_KU721365.1,48587,KU721365.1,796,30-NOV-2017,Suillus subaureus,"location: [0:796]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['USA'],False,Suillus,subaureus
+423_KU721414.1,48585,KU721414.1,938,30-NOV-2017,Suillus spectabilis,"location: [0:938]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"[""China: Huar Road, Huzhong Zhen, Daxing'anling Prefecture, Heilongjiang province""]",False,Suillus,spectabilis
+424_KT964642.1,48584,KT964642.1,970,31-OCT-2017,Suillus sibiricus,"location: [0:970]
+authors: Zhao,W.Q., Shi,X.F. and Liu,P.G.
+title: Genetic diversity and geographic distribution of Suillus cavipes complex (Suillaceae, Boletales)
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],"['China: Yunnan,nujiang']",False,Suillus,sibiricus
+425_KU721326.1,48582,KU721326.1,913,30-NOV-2017,Suillus pungens,"location: [0:913]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Strawberry Canyon, Alameda Co., CA']",False,Suillus,pungens
+426_KU721328.1,48580,KU721328.1,918,30-NOV-2017,Suillus pseudobrevipes,"location: [0:918]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Castle Creek, Colorado']",False,Suillus,pseudobrevipes
+427_KU721381.1,48579,KU721381.1,893,30-NOV-2017,Suillus placidus,"location: [0:893]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Marquette Co., Michigan']",False,Suillus,placidus
+428_KU721405.1,48578,KU721405.1,908,30-NOV-2017,Suillus paluster,"location: [0:908]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['China: Chang Bai Mt. western trail, Yanbian, Antu, Jiling province']",False,Suillus,paluster
+429_KU721404.1,48577,KU721404.1,890,30-NOV-2017,Suillus ochraceoroseus,"location: [0:890]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Idaho, Valley Co, McCall, Dr. Nokes property, Lick Creek Rd']",False,Suillus,ochraceoroseus
+430_KU721360.1,48574,KU721360.1,935,30-NOV-2017,Suillus lakei,"location: [0:935]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['Czech Republic: Dubnany (town centre), Moravia']",False,Suillus,lakei
+431_KU721372.1,48573,KU721372.1,856,30-NOV-2017,Suillus intermedius,"location: [0:856]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: cherokke national forest, Bald River Falls, Monroe Co., TENN']",False,Suillus,intermedius
+432_KU663234.1,48572,KU663234.1,808,05-APR-2018,Suillus grisellus,"location: [0:808]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['USA: Michigan'],False,Suillus,grisellus
+433_KU721324.1,48570,KU721324.1,894,30-NOV-2017,Suillus glandulosipes,"location: [0:894]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['USA: Michigan'],False,Suillus,glandulosipes
+434_KU721356.1,48566,KU721356.1,913,30-NOV-2017,Suillus caerulescens,"location: [0:913]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Randall Trailhead, Marin co., CA']",False,Suillus,caerulescens
+435_KU721322.1,48565,KU721322.1,914,30-NOV-2017,Suillus brevipes,"location: [0:914]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Pt. Reyes National Seashore, Marin co., CA']",False,Suillus,brevipes
+437_KU721290.1,48563,KU721290.1,929,30-NOV-2017,Suillus bovinus,"location: [0:929]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"[""China: Huar Road, Huzhong Zhen, Daxing'anling Prefecture, Heilongjiang province""]",False,Suillus,bovinus
+438_KU721403.1,48562,KU721403.1,893,30-NOV-2017,Suillus asiaticus,"location: [0:893]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['China: Chang Bai Mt., Yanbian, Antu, Jiling province']",False,Suillus,asiaticus
+439_KY489971.1,48561,KY489971.1,885,30-NOV-2017,Suillus americanus,"location: [0:885]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Infrageneric classification and new species of genus Suillus (Boletales, Suillineae, Suillaceae)
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: Michigan, Berrien, Warren Woods Ecology Field Station']",False,Suillus,americanus
+441_KJ806971.1,36058,KJ806971.1,886,29-NOV-2017,Xerocomus badius,"location: [0:886]
+authors: Zhu,X.-T., Li,Y.-C., Wu,G., Feng,B., Zhao,K., Gelardi,M., Kost,G.W. and Yang,Z.L.
+title: The genus Imleria (Boletaceae) in East Asia
+journal: Phytotaxa 191 (1), 81-98 (2014)
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['Sweden'],False,Xerocomus,badius
+442_KF112455.1,36056,KF112455.1,845,11-AUG-2014,Boletus edulis,"location: [0:845]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['28S large subunit ribosomal RNA'],['Russia'],False,Boletus,edulis
+443_KU721390.1,5384,KU721390.1,890,30-NOV-2017,Suillus luteus,"location: [0:890]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['Ecuador: Salinas'],False,Suillus,luteus
+444_KU721502.1,5383,KU721502.1,855,03-JUL-2017,Suillus spraguei,"location: [0:855]
+authors: Zhang,R., Mueller,G.M., Shi,X.F. and Liu,P.G.
+title: Two new species in the Suillus spraguei complex from China
+journal: Mycologia 109 (2), 296-307 (2017)
+medline id: 
+pubmed id: 28463625
+comment: 
+",['28S large subunit ribosomal RNA'],"['USA: North Carolina, Cocke county']",False,Suillus,spraguei
+445_KU663248.1,5382,KU663248.1,856,05-APR-2018,Suillus grevillei,"location: [0:856]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"['China: Maiji Mt., Tianshui City, Gansu province']",False,Suillus,grevillei
+446_KU721430.1,5381,KU721430.1,910,30-NOV-2017,Suillus sinuspaulianus,"location: [0:910]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],['Canada: Quebec'],False,Suillus,sinuspaulianus
+447_KU721411.1,5380,KU721411.1,909,30-NOV-2017,Suillus cavipes,"location: [0:909]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S large subunit ribosomal RNA'],"[""China: Dabai Mt., Daxing'anling, Heilongjiang province""]",False,Suillus,cavipes
+448_DQ534631.1,5374,DQ534631.1,886,23-OCT-2007,Phylloporus rhodoxanthus,"location: [0:886]
+authors: Binder,M. and Hibbett,D.S.
+title: Molecular systematics and biological diversification of Boletales
+journal: Mycologia 98 (6), 971-981 (2006)
+medline id: 
+pubmed id: 17486973
+comment: 
+",['28S large subunit ribosomal RNA'],['USA: MA'],False,Phylloporus,rhodoxanthus
+449_MH027960.1,1745197,MH027960.1,700,12-MAR-2019,Russula sp.,"location: [0:700]
+authors: Chen,B.
+title: Analysis of morphology and molecular phylogeny for a new species of Russula (Russulaceae)
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['China'],True,Russula,sp.
+450_KU973871.1,5341,KU973871.1,781,07-NOV-2016,Agaricus bisporus,"location: [0:781]
+authors: Ben Hassine Ben Ali,M.
+title: Assemblages of fungi associated with cork oak forests in Northwestern Tunisia
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['Tunisia'],True,Agaricus,bisporus
+451_KP986548.1,5217,KP986548.1,770,10-DEC-2015,Tremella mesenterica,"location: [0:770]
+authors: Malysheva,V.F., Malysheva,E.F. and Bulakh,E.M.
+title: The genus Tremella (Tremellales, Basidiomycota) in Russia with description of two new species and proposal of one nomenclatural combination
+journal: Phytotaxa (2015) In press
+medline id: 
+pubmed id: 
+comment: 
+",['28S ribosomal RNA'],['Russia'],True,Tremella,mesenterica

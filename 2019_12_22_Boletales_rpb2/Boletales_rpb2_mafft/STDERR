@@ -1,0 +1,4 @@
+CIPRES_THREADSPP=12
+CIPRES_NP=1
+running:
+mafft --progress /projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-MAFFT_TG-A8DFA3A6590F4EADB8F6076237923FD9/progress.mafft --thread 12 --inputorder --ep 0.0 --auto --adjustdirection input.fasta

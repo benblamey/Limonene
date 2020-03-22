@@ -1,0 +1,4 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    21    0    21    0     0    109      0 --:--:-- --:--:-- --:--:--   110
+slurmstepd: *** JOB 30688476 ON comet-13-69 CANCELLED AT 2020-01-05T15:15:47 DUE TO TIME LIMIT ***

@@ -1,0 +1,17 @@
+,taxID,accession,length,date,organism,reference,gene_information,sampling_locality,outgroup,genus,epithet
+332,150864,MF818216.1,653,06-DEC-2018,Gyroporus castaneus,"location: [0:653]
+authors: Davoodian,N., Bergemann,S.E., Hosaka,K., Raspe,O., Bougher,N.L., Fechner,N.A., Henkel,T.W., Gelardi,M., Soytong,K., Naseer,A., Ortiz-Santana,B., Baroni,T.J., Nagasawa,E., Smith,M.E. and Halling,R.E.
+title: A global view of Gyroporus: molecular phylogenetics, diversity patterns, and new species
+journal: Mycologia 110 (5), 985-995 (2018)
+medline id: 
+pubmed id: 30303458
+comment: 
+",['rpb2'],,False,Gyroporus,castaneus
+344,85980,GU187795.1,950,14-JUL-2010,Leucogyrophana mollusca,"location: [0:950]
+authors: Binder,M., Larsson,K.H., Matheny,P.B. and Hibbett,D.S.
+title: Amylocorticiales ord. nov. and Jaapiales ord. nov.: early diverging clades of agaricomycetidae dominated by corticioid forms
+journal: Mycologia 102 (4), 865-880 (2010)
+medline id: 
+pubmed id: 20648753
+comment: 
+",['rpb2'],"['USA: Idaho, Granite Creek, Kaniksu National Forest']",False,Leucogyrophana,mollusca

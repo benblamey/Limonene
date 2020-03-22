@@ -1,0 +1,14 @@
+Task\ label=REST v1_16
+Task\ ID=73769
+Tool=RAXMLHPC8_REST_XSEDE
+created\ on=2020-03-21 10:49:34.0
+JobHandle=NGBW-JOB-RAXMLHPC8_REST_XSEDE-FC0199960DD0469E83CF2332F6E5DD38
+resource=comet
+User\ ID=1714
+User\ Name=biotomme
+email=thomas.huber@evobio.eu
+
+Output=(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=12
+JOBID=32215189

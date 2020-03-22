@@ -1,0 +1,8 @@
+srun: error: unpackmem: Buffer to be unpacked is too large (1802069306 > 67108864)
+srun: error: unpack error in io_init_msg_unpack
+srun: error: Invalid IO init header version
+srun: Job step aborted: Waiting up to 302 seconds for job step to finish.
+slurmstepd: *** STEP 30702797.0 ON comet-05-06 CANCELLED AT 2020-01-07T04:19:07 DUE TO TIME LIMIT ***
+srun: got SIGCONT
+srun: forcing job termination
+srun: error: comet-05-06: task 0: Terminated

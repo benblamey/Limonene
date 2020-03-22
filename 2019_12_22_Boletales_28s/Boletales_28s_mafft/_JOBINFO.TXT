@@ -1,0 +1,14 @@
+Task\ label=REST v1_6
+Task\ ID=73732
+Tool=MAFFT_TG
+created\ on=2020-03-20 07:43:48.0
+JobHandle=NGBW-JOB-MAFFT_TG-C0979AE21AD74C4C8F5A6419C4D8223A
+resource=comet
+User\ ID=1714
+User\ Name=biotomme
+email=thomas.huber@evobio.eu
+
+Output=(outputfile,output.mafft,UNKNOWN,UNKNOWN,UNKNOWN),(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=12
+JOBID=32201125

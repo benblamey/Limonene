@@ -1,0 +1,17 @@
+,taxID,accession,length,date,organism,reference,gene_information,sampling_locality,outgroup,genus,epithet
+1,2488100,MK165980.1,799,20-SEP-2019,Heimioporus sp. MZ-2018a,"location: [0:799]
+authors: Chen,X.-N., Zhang,M., Li,T.-H. and Zeng,N.-K.
+title: A new species of Heimioporus (Boletaceae) from southern China
+journal: Phytotaxa 415 (4), 179-188 (2019)
+medline id: 
+pubmed id: 
+comment: 
+",['rpb1'],['China'],False,Heimioporus,sp. MZ-2018a
+380,1745197,KX441997.1,1094,31-DEC-2018,Russula sp.,"location: [0:1094]
+authors: Li,G.J., Sanchez-Ramirez,S., Wen,H.A. and Zhao,R.L.
+title: Muti-locus phylogeny and divergence time analyses unveil the endemism and diversity of Russula from China
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb1'],['China'],True,Russula,sp.

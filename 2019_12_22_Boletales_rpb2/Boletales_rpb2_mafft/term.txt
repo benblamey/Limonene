@@ -1,0 +1,5 @@
+1584715447 Fri Mar 20 07:44:07 PDT 2020
+Fri Mar 20 07:44:07 2020
+             JOBID PARTITION     NAME     USER    STATE       TIME TIME_LIMI  NODES NODELIST(REASON)
+          32201124    shared NGBW-JOB   cipres  RUNNING       0:08      6:00      1 comet-01-13
+This file created by srun of: ./_batch_command.cmdline

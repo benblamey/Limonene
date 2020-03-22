@@ -1,0 +1,7 @@
+[MPI] Testing MPI environment... (comet-13-69.sdsc.edu)
+[MPI] Proceed without MPI
+srun: Job step aborted: Waiting up to 302 seconds for job step to finish.
+slurmstepd: *** STEP 30688476.0 ON comet-13-69 CANCELLED AT 2020-01-05T15:15:47 DUE TO TIME LIMIT ***
+srun: got SIGCONT
+srun: forcing job termination
+srun: error: comet-13-69: task 0: Terminated

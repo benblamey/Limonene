@@ -1,0 +1,3019 @@
+,taxID,accession,length,date,organism,reference,gene_information,sampling_locality,outgroup,genus,epithet
+1_MK766299.1,2592612,MK766299.1,771,18-DEC-2019,Hemileccinum subglabripes,"location: [0:771]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['USA: Illionois'],False,Hemileccinum,subglabripes
+2_KT990445.1,2528269,KT990445.1,694,06-NOV-2016,Neoboletus tomentulosus,"location: [0:694]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Neoboletus,tomentulosus
+3_MG674378.1,2338527,MG674378.1,791,24-SEP-2018,Spongispora temasekensis,"location: [0:791]
+authors: Wu,G., Lee,S.M., Horak,E. and Yang,Z.L.
+title: Spongispora temasekensis, a new boletoid genus and species from Singapore
+journal: Mycologia (2018) In press
+medline id: 
+pubmed id: 30215573
+comment: Publication Status: Available-Online prior to print
+",['rpb2'],['Singapore'],False,Spongispora,temasekensis
+4_MH890581.1,2316095,MH890581.1,774,23-MAR-2019,Rhizopogon subaustralis,"location: [0:774]
+authors: Mujic,A.B., Zheng,N., Kim,K., Spatafora,J.W., Castellano,M.A. and Smith,M.E.
+title: The Cedrus-associated truffle Trappeindia himalayensis is a morphologically unique and phylogenetically divergent species of Rhizopogon
+journal: Mycologia, 1-10 (2019) In press
+medline id: 
+pubmed id: 30753119
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['USA'],False,Rhizopogon,subaustralis
+5_MK766287.1,2108296,MK766287.1,768,18-DEC-2019,Exsudoporus floridanus,"location: [0:768]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Belize'],False,Exsudoporus,floridanus
+6_KY272135.1,2057779,KY272135.1,733,27-DEC-2017,Rubroboletus esculentus,"location: [0:733]
+authors: Zhao,K. and Shao,H.M.
+title: A new edible bolete, Rubroboletus esculentus, from southwestern China
+journal: Phytotaxa 303 (3), 243-252 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Rubroboletus,esculentus
+7_KY039957.1,2050028,KY039957.1,793,07-NOV-2017,Aureoboletus quercus-spinosae,"location: [0:793]
+authors: Zhang,M., Li,T.H., Nuhn,M.E., Tsering,T. and Song,B.
+title: Aureoboletus quercus-spinosae, a new species from Tibet of China
+journal: Mycoscience 58 (3), 192-196 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],False,Aureoboletus,quercus-spinosae
+8_KY553126.1,2029454,KY553126.1,642,11-APR-2018,Afroboletus multijugus,"location: [0:642]
+authors: Han,L.H., Buyck,B., Yourou,N.S., Halling,R.E. and Yang,Z.L.
+title: Afroboletus sequestratus (Boletales), the first species with sequestrate basidioma in the genus
+journal: Phytotaxa 305 (1), 11-20 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],,False,Afroboletus,multijugus
+9_MF614164.1,1987365,MF614164.1,620,27-JUN-2018,Xerocomus sp. ABM-2017a,"location: [0:620]
+authors: Smith,M.E., Obase,K., Mujic,A.B., Kraisit,N., Hitchcock,H.C., Bessette,A.R. and Bessette,A.E.
+title: Xerocomus sclerotiorum sp. nov., a colorful new bolete species from the Eastern United States that forms hidden sclerotia in leaf litter and soil
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],"['USA: Tennessee, Anderson County, Oakridge']",False,Xerocomus,sp. ABM-2017a
+10_KU852359.1,1979803,KU852359.1,749,30-NOV-2017,Suillus phylopictus,"location: [0:749]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['China: Yunnan, Dali']",False,Suillus,phylopictus
+11_KU852297.1,1968697,KU852297.1,785,30-NOV-2017,Suillus sp. RZ-2017a,"location: [0:785]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['China: Daqing Shan Forest, Huili, Sichuan province']",False,Suillus,sp. RZ-2017a
+13_MH890579.1,1935359,MH890579.1,694,23-MAR-2019,Rhizopogon sp.,"location: [0:694]
+authors: Mujic,A.B., Zheng,N., Kim,K., Spatafora,J.W., Castellano,M.A. and Smith,M.E.
+title: The Cedrus-associated truffle Trappeindia himalayensis is a morphologically unique and phylogenetically divergent species of Rhizopogon
+journal: Mycologia, 1-10 (2019) In press
+medline id: 
+pubmed id: 30753119
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['USA'],False,Rhizopogon,sp.
+14_KU852327.1,1930190,KU852327.1,745,30-NOV-2017,Suillus alpinus,"location: [0:745]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['China: Gongbu Natural Conservatism, Langlu Zhen, Nyingchi, Tibet']",False,Suillus,alpinus
+15_KU852326.1,1930189,KU852326.1,703,30-NOV-2017,Suillus aurihymenius,"location: [0:703]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['China: Genhe City, Inner Mongolia']",False,Suillus,aurihymenius
+16_KU852294.1,1928356,KU852294.1,685,30-NOV-2017,Suillus sp.,"location: [0:685]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['China: Lijiang, Yunnan province']",False,Suillus,sp.
+17_LC043086.1,1918494,LC043086.1,795,19-JAN-2017,Singerocomus inundabilis,"authors: Henkel,T.W., Obase,K., Husbands,D., Uehling,J.K., Bonito,G., Aime,M.C. and Smith,M.E.
+title: New Boletaceae taxa from Guyana: Binderoboletus segoi gen. and sp. nov., Guyanaporus albipodus gen. and sp. nov., Singerocomus rubriflavus gen. and sp. nov., and a new combination for Xerocomus inundabilis
+journal: Mycologia 108 (1), 157-173 (2016)
+medline id: 
+pubmed id: 26490700
+comment: Erratum:[Mycologia. 2016 Mar;108(2):469. PMID: 27127214]
+",['rpb2'],['Guyana'],False,Singerocomus,inundabilis
+18_MK766366.1,1916381,MK766366.1,770,18-DEC-2019,Strobilomyces sp.,"location: [0:770]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Dominican Republic'],False,Strobilomyces,sp.
+19_KU974145.1,1914392,KU974145.1,705,01-NOV-2017,Sutorius sp. HKAS 58724,"location: [0:705]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes in China
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],False,Sutorius,sp. HKAS 58724
+20_KU974144.1,1914391,KU974144.1,705,01-NOV-2017,Sutorius sp. HKAS 59443,"location: [0:705]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes in China
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],False,Sutorius,sp. HKAS 59443
+22_KT990481.1,1914216,KT990481.1,705,06-NOV-2016,Tengioboletus reticulatus,"location: [0:705]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Tengioboletus,reticulatus
+23_KT990480.1,1914215,KT990480.1,705,06-NOV-2016,Tengioboletus glutinosus,"location: [0:705]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Tengioboletus,glutinosus
+24_MG212627.1,1914213,MG212627.1,770,02-MAY-2019,Chiua virens,"location: [0:770]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['China'],False,Chiua,virens
+25_KT990388.1,1914212,KT990388.1,597,06-NOV-2016,Tylocinum griseolum,"location: [0:597]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Tylocinum,griseolum
+26_KT990373.1,1914186,KT990373.1,702,06-NOV-2016,Boletellus sp. HKAS 74907,"location: [0:702]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Boletellus,sp. HKAS 74907
+27_KT990378.1,1914185,KT990378.1,702,06-NOV-2016,Butyriboletus sp. MHHNU 7456,"location: [0:702]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Butyriboletus,sp. MHHNU 7456
+28_KT990503.1,1914181,KT990503.1,580,06-NOV-2016,Harrya sp. HKAS 90194,"location: [0:580]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Harrya,sp. HKAS 90194
+29_KT990498.1,1914180,KT990498.1,583,06-NOV-2016,Harrya sp. HKAS 50526,"location: [0:583]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Harrya,sp. HKAS 50526
+30_KT990426.1,1914179,KT990426.1,592,06-NOV-2016,Harrya sp. HKAS 51181,"location: [0:592]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Harrya,sp. HKAS 51181
+31_KT990414.1,1914178,KT990414.1,704,06-NOV-2016,Hemileccinum sp. HKAS 59445,"location: [0:704]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Hemileccinum,sp. HKAS 59445
+32_KT990421.1,1914177,KT990421.1,705,06-NOV-2016,Leccinellum sp. HKAS 53410,"location: [0:705]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Leccinellum,sp. HKAS 53410
+33_KT990454.1,1914172,KT990454.1,703,06-NOV-2016,Pulveroboletus sp. HKAS 52615,"location: [0:703]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Pulveroboletus,sp. HKAS 52615
+34_KT990457.1,1914167,KT990457.1,597,06-NOV-2016,Tylopilus sp. HKAS 90202,"location: [0:597]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Tylopilus,sp. HKAS 90202
+35_KT990389.1,1914166,KT990389.1,597,06-NOV-2016,Tylopilus sp. HKAS 50211,"location: [0:597]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Tylopilus,sp. HKAS 50211
+36_KT990430.1,1914164,KT990430.1,703,06-NOV-2016,Sutorius ferrugineus,"location: [0:703]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Neoboletus,ferrugineus
+37_KT990428.1,1914158,KT990428.1,584,06-NOV-2016,Chiua olivaceoreticulata,"location: [0:584]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Chiua,olivaceoreticulata
+38_KT990491.1,1914106,KT990491.1,693,06-NOV-2016,Xerocomus subparvus,"location: [0:693]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Xerocomus,subparvus
+39_KT990494.1,1914100,KT990494.1,692,06-NOV-2016,Xerocomellus communis,"location: [0:692]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Xerocomellus,communis
+40_KT990492.1,1914099,KT990492.1,693,06-NOV-2016,Xerocomellus corneri,"location: [0:693]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Xerocomellus,corneri
+41_KY271047.1,1914098,KY271047.1,692,30-NOV-2018,Xanthoconium sinense,"location: [0:692]
+authors: Liang,Z.Q., Chai,H., Jiang,S., Ye,Z.K. and Zeng,N.K.
+title: The genus Xanthoconium (Boletaceae, Boletales) in tropical China
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China: Hainan Province'],False,Xanthoconium,sinense
+42_KT990487.1,1914097,KT990487.1,704,06-NOV-2016,Xanthoconium porophyllum,"location: [0:704]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Xanthoconium,porophyllum
+43_KT990504.1,1914096,KT990504.1,597,06-NOV-2016,Tylopilus violaceobrunneus,"location: [0:597]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Tylopilus,violaceobrunneus
+44_KT990507.1,1914092,KT990507.1,572,06-NOV-2016,Tylopilus brunneirubens,"location: [0:572]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Tylopilus,brunneirubens
+45_KF112687.1,1914089,KF112687.1,706,23-APR-2014,Tylopilus alpinus,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Tylopilus,alpinus
+47_KT990478.1,1914086,KT990478.1,704,06-NOV-2016,Suillellus subamygdalinus,"location: [0:704]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Suillellus,subamygdalinus
+48_KX869384.1,1914085,KX869384.1,662,14-NOV-2017,Strobilomyces atrosquamosus,"location: [0:662]
+authors: Han,L.H., Feng,B., Wu,G., Roy,E.H., Bart,B., Nourou,S.Y., Sydney,T.N.E. and Zhu,L.Y.
+title: African origin and global distribution patterns: Evidence inferred from phylogenetic and biogeographical analyses of ectomycorrhizal fungal genus Strobilomyces
+journal: J. Biogeogr. (2018) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print DOI: 10.1111/jbi.13094
+",['rpb2'],,False,Strobilomyces,atrosquamosus
+49_KT990427.1,1914084,KT990427.1,601,06-NOV-2016,Royoungia reticulata,"location: [0:601]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Royoungia,reticulata
+50_KT990347.1,1914082,KT990347.1,586,06-NOV-2016,Royoungia coccineinana,"location: [0:586]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Royoungia,coccineinana
+51_KX453839.1,1914080,KX453839.1,696,02-JUL-2017,Pulveroboletus macrosporus,"location: [0:696]
+authors: Zeng,N.K., Liang,Z.Q., Tang,L.P., Li,Y.C. and Yang,Z.L.
+title: The genus Pulveroboletus (Boletaceae, Boletales) in China
+journal: Mycologia, 1-21 (2017) In press
+medline id: 
+pubmed id: 28636496
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China: Yunnan Province'],False,Pulveroboletus,macrosporus
+52_KT990451.1,1914079,KT990451.1,703,06-NOV-2016,Pulveroboletus aff. ravenelii,"location: [0:703]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Pulveroboletus,aff. ravenelii
+53_KT990461.1,1914078,KT990461.1,597,06-NOV-2016,Porphyrellus orientifumosipes,"location: [0:597]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Porphyrellus,orientifumosipes
+54_MG212641.1,1914077,MG212641.1,766,02-MAY-2019,Porphyrellus castaneus,"location: [0:766]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['China'],False,Porphyrellus,castaneus
+55_KT990448.1,1914075,KT990448.1,706,06-NOV-2016,Neoboletus venenatus,"location: [0:706]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Neoboletus,venenatus
+57_KT990443.1,1914073,KT990443.1,622,06-NOV-2016,Neoboletus sanguineus,"location: [0:622]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Neoboletus,sanguineus
+58_KT990440.1,1914072,KT990440.1,706,06-NOV-2016,Neoboletus sanguineoides,"location: [0:706]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Neoboletus,sanguineoides
+59_KT990437.1,1914071,KT990437.1,706,06-NOV-2016,Neoboletus rubriporus,"location: [0:706]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Neoboletus,rubriporus
+60_MK372294.1,1914070,MK372294.1,765,03-JUL-2019,Neoboletus obscureumbrinus,"location: [0:765]
+authors: Vadthanarat,S., Lumyong,S. and Raspe,O.
+title: Cacaoporus, a new Boletaceae genus, with two new species from Thailand
+journal: MycoKeys 54, 1-29 (2019)
+medline id: 
+pubmed id: 31231163
+comment: Publication Status: Online-Only
+",['rpb2'],['Thailand'],False,Neoboletus,obscureumbrinus
+61_KT990432.1,1914069,KT990432.1,706,06-NOV-2016,Neoboletus hainanensis,"location: [0:706]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Neoboletus,hainanensis
+62_KT990420.1,1914066,KT990420.1,702,06-NOV-2016,Leccinellum cremeum,"location: [0:702]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Leccinellum,cremeum
+63_KT990417.1,1914065,KT990417.1,704,06-NOV-2016,Hortiboletus subpaludosus,"location: [0:704]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Hortiboletus,subpaludosus
+64_KT990415.1,1914064,KT990415.1,704,06-NOV-2016,Hortiboletus amygdalinus,"location: [0:704]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Hortiboletus,amygdalinus
+65_KT990411.1,1914062,KT990411.1,705,06-NOV-2016,Hemileccinum rugosum,"location: [0:705]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Hemileccinum,rugosum
+66_KT990501.1,1914060,KT990501.1,592,06-NOV-2016,Harrya subalpina,"location: [0:592]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Harrya,subalpina
+67_KT990500.1,1914058,KT990500.1,601,06-NOV-2016,Harrya moniliformis,"location: [0:601]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Harrya,moniliformis
+68_KT990499.1,1914057,KT990499.1,601,06-NOV-2016,Harrya atrogrisea,"location: [0:601]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Harrya,atrogrisea
+69_KT990463.1,1914056,KT990463.1,601,06-NOV-2016,Harrya alpina,"location: [0:601]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Harrya,alpina
+70_MG212628.1,1914054,MG212628.1,766,02-MAY-2019,Cyanoboletus brunneoruber,"location: [0:766]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['China'],False,Cyanoboletus,brunneoruber
+71_KT990379.1,1914051,KT990379.1,702,06-NOV-2016,Butyriboletus subsplendidus,"location: [0:702]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Butyriboletus,subsplendidus
+72_KT990380.1,1914049,KT990380.1,696,06-NOV-2016,Butyriboletus pseudospeciosus,"location: [0:696]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Butyriboletus,pseudospeciosus
+73_KT990375.1,1914047,KT990375.1,700,06-NOV-2016,Boletus botryoides,"location: [0:700]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Boletus,botryoides
+74_KT990369.1,1914045,KT990369.1,705,06-NOV-2016,Boletellus indistinctus,"location: [0:705]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Boletellus,indistinctus
+75_KT990362.1,1914042,KT990362.1,704,06-NOV-2016,Aureoboletus zangii,"location: [0:704]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Aureoboletus,zangii
+76_KT990361.1,1914041,KT990361.1,697,06-NOV-2016,Aureoboletus yunnanensis,"location: [0:697]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Aureoboletus,yunnanensis
+77_KT990357.1,1914039,KT990357.1,706,06-NOV-2016,Aureoboletus nephrosporus,"location: [0:706]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Aureoboletus,nephrosporus
+78_KT990352.1,1914038,KT990352.1,705,06-NOV-2016,Aureoboletus tomentosus,"location: [0:705]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Aureoboletus,tomentosus
+79_KT990350.1,1914037,KT990350.1,708,06-NOV-2016,Aureoboletus duplicatoporus,"location: [0:708]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Aureoboletus,duplicatoporus
+80_KT990348.1,1914036,KT990348.1,705,06-NOV-2016,Aureoboletus catenarius,"location: [0:705]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Aureoboletus,catenarius
+81_KT990459.1,1913000,KT990459.1,597,06-NOV-2016,Porphyrellus nigropurpureus,"location: [0:597]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Porphyrellus,nigropurpureus
+82_KU852337.1,1912939,KU852337.1,760,30-NOV-2017,Suillus fuscotomentosus,"location: [0:760]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['USA: 1100 Kings Mountain Rd, Huddart Park, Woodside Co., CA']",False,Suillus,fuscotomentosus
+83_KR094786.1,1816307,KR094786.1,754,16-JUN-2017,Phylloporus attenuatus,"location: [0:754]
+authors: Hosen,M.I. and Li,T.-H.
+title: Two new species of Phylloporus from Bangladesh, with morphological and molecular evidence
+journal: Mycologia 109 (2), 277-286 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Bangladesh: Tangail'],False,Phylloporus,attenuatus
+84_MG212643.1,1775971,MG212643.1,765,02-MAY-2019,Retiboletus kauffmanii,"location: [0:765]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['China'],False,Retiboletus,kauffmanii
+85_KT990464.1,1775115,KT990464.1,702,06-NOV-2016,Retiboletus sinensis,"location: [0:702]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Retiboletus,sinensis
+86_MG212642.1,1775113,MG212642.1,765,02-MAY-2019,Retiboletus fuscus,"location: [0:765]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['China'],False,Retiboletus,fuscus
+87_LC053664.1,1748411,LC053664.1,750,30-AUG-2016,Costatisporus cyanescens,"authors: Smith,M.E., Amses,K.R., Elliott,T.F., Obase,K., Aime,M.C. and Henkel,T.W.
+title: New sequestrate fungi from Guyana: Jimtrappea guyanensis gen. sp. nov., Castellanea pakaraimophila gen. sp. nov., and Costatisporus cyanescens gen. sp. nov. (Boletaceae, Boletales)
+journal: IMA Fungus 6 (2), 297-317 (2015)
+medline id: 
+pubmed id: 26732137
+comment: DOI:10.5598/imafungus.2015.06.02.03
+",['rpb2'],['Guyana'],False,Costatisporus,cyanescens
+88_LC043083.1,1748404,LC043083.1,801,19-JAN-2017,Guyanaporus albipodus,"authors: Henkel,T.W., Obase,K., Husbands,D., Uehling,J.K., Bonito,G., Aime,M.C. and Smith,M.E.
+title: New Boletaceae taxa from Guyana: Binderoboletus segoi gen. and sp. nov., Guyanaporus albipodus gen. and sp. nov., Singerocomus rubriflavus gen. and sp. nov., and a new combination for Xerocomus inundabilis
+journal: Mycologia 108 (1), 157-173 (2016)
+medline id: 
+pubmed id: 26490700
+comment: Erratum:[Mycologia. 2016 Mar;108(2):469. PMID: 27127214]
+",['rpb2'],['Guyana'],False,Guyanaporus,albipodus
+89_KY272134.1,1728933,KY272134.1,772,27-DEC-2017,Rubroboletus legaliae,"location: [0:772]
+authors: Zhao,K. and Shao,H.M.
+title: A new edible bolete, Rubroboletus esculentus, from southwestern China
+journal: Phytotaxa 303 (3), 243-252 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['Germany'],False,Rubroboletus,legaliae
+90_MK766294.1,1708621,MK766294.1,771,18-DEC-2019,Cyanoboletus pulverulentus,"location: [0:771]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['USA: Wisconsin'],False,Cyanoboletus,pulverulentus
+91_KT157067.1,1708620,KT157067.1,746,08-SEP-2015,Cupreoboletus poikilochromus,"location: [0:746]
+authors: Gelardi,M., Simonini,G., Ercole,E., Davoli,P. and Vizzini,A.
+title: Cupreoboletus (Boletaceae, Boletineae), a new monotypic genus segregated from Boletus sect. Luridi to reassign the Mediterranean species B. poikilochromus
+journal: Mycologia (2015) In press
+medline id: 
+pubmed id: 26297785
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['Italy'],False,Cupreoboletus,poikilochromus
+93_KY553131.1,1688478,KY553131.1,660,11-APR-2018,Strobilomyces pteroreticulosporus,"location: [0:660]
+authors: Han,L.H., Buyck,B., Yourou,N.S., Halling,R.E. and Yang,Z.L.
+title: Afroboletus sequestratus (Boletales), the first species with sequestrate basidioma in the genus
+journal: Phytotaxa 305 (1), 11-20 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],,False,Strobilomyces,pteroreticulosporus
+94_KM460933.1,1665470,KM460933.1,609,14-NOV-2017,Strobilomyces sp. NY0075256,"location: [0:609]
+authors: Han,L.
+title: S159s160
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],,False,Strobilomyces,sp. NY0075256
+95_KM460932.1,1665469,KM460932.1,657,14-NOV-2017,Strobilomyces sp. NY0075253,"location: [0:657]
+authors: Han,L.
+title: S159s160
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],,False,Strobilomyces,sp. NY0075253
+96_MK766271.1,1661727,MK766271.1,771,18-DEC-2019,Aureoboletus projectellus,"location: [0:771]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['USA: Michigan'],False,Aureoboletus,projectellus
+97_KF112743.1,1661726,KF112743.1,706,23-APR-2014,Aureoboletus mirabilis,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Aureoboletus,mirabilis
+98_KP055031.1,1611992,KP055031.1,812,17-FEB-2015,Rubroboletus sinicus,"location: [0:812]
+authors: Zhao,K., Wu,G. and Yang,Z.L.
+title: A new genus, Rubroboletus, to accommodate Boletus sinicus and its allies
+journal: Phytotaxa 188 (2), 61-77 (2014)
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],False,Rubroboletus,sinicus
+100_MH614748.1,1611890,MH614748.1,768,02-MAY-2019,Afroboletus luteolus,"location: [0:768]
+authors: Vadthanarat,S., Lumyong,S. and Raspe,O.
+title: Cacaoporus, a new Boletaceae genus, with two new species from Thailand
+journal: MycoKeys (2019) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['Togo'],False,Afroboletus,luteolus
+101_KP136976.1,1611281,KP136976.1,771,05-MAR-2018,Hourangia nigropunctata,"location: [0:771]
+authors: Zhu,X.T., Wu,G., Zhao,K., Halling,R.E. and Yang,Z.L.
+title: Hourangia, a new genus of Boletaceae to accommodate Xerocomus cheoi and its allied species
+journal: Mycol. Prog. 14, 37 (2015)
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],False,Hourangia,nigropunctata
+102_KP136975.1,1611265,KP136975.1,705,05-MAR-2018,Hourangia cheoi,"location: [0:705]
+authors: Zhu,X.T., Wu,G., Zhao,K., Halling,R.E. and Yang,Z.L.
+title: Hourangia, a new genus of Boletaceae to accommodate Xerocomus cheoi and its allied species
+journal: Mycol. Prog. 14, 37 (2015)
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],False,Hourangia,cheoi
+103_MH614777.1,1603062,MH614777.1,765,02-MAY-2019,Lanmaoa asiatica,"location: [0:765]
+authors: Vadthanarat,S., Lumyong,S. and Raspe,O.
+title: Cacaoporus, a new Boletaceae genus, with two new species from Thailand
+journal: MycoKeys (2019) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Lanmaoa,asiatica
+104_KM605177.1,1603061,KM605177.1,759,16-MAR-2015,Lanmaoa angustispora,"location: [0:759]
+authors: Wu,G., Zhao,K., Li,Y.-C., Zeng,N.-K., Feng,B., Halling,R.E. and Yang,Z.-L.
+title: Four new genera of the fungal family Boletaceae
+journal: Fungal Divers. (2015) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Lanmaoa,angustispora
+105_MG212647.1,1603060,MG212647.1,769,02-MAY-2019,Rugiboletus extremiorientalis,"location: [0:769]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['Thailand'],False,Rugiboletus,extremiorientalis
+106_KM605168.1,1603059,KM605168.1,682,16-MAR-2015,Rugiboletus brunneiporus,"location: [0:682]
+authors: Wu,G., Zhao,K., Li,Y.-C., Zeng,N.-K., Feng,B., Halling,R.E. and Yang,Z.-L.
+title: Four new genera of the fungal family Boletaceae
+journal: Fungal Divers. (2015) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Rugiboletus,brunneiporus
+107_MG212639.1,1603058,MG212639.1,768,02-MAY-2019,Parvixerocomus pseudoaokii,"location: [0:768]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['China'],False,Parvixerocomus,pseudoaokii
+108_MG212637.1,1603057,MG212637.1,767,02-MAY-2019,Neoboletus brunneissimus,"location: [0:767]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['China'],False,Neoboletus,brunneissimus
+109_KP242094.1,1581022,KP242094.1,662,31-DEC-2015,Austroboletus sp. 8 GB-2014,"location: [0:662]
+authors: Bonito,G.M., Lebel,T. and Halling,R.
+title: Revisionary systematics of the fungal genus Austroboletus in Australia
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Australia: Queensland'],False,Austroboletus,sp. 8 GB-2014
+110_KP242086.1,1581021,KP242086.1,662,31-DEC-2015,Austroboletus sp. 7 GB-2014,"location: [0:662]
+authors: Bonito,G.M., Lebel,T. and Halling,R.
+title: Revisionary systematics of the fungal genus Austroboletus in Australia
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Australia: Queensland'],False,Austroboletus,sp. 7 GB-2014
+111_KP242091.1,1581020,KP242091.1,662,31-DEC-2015,Austroboletus sp. 6 GB-2014,"location: [0:662]
+authors: Bonito,G.M., Lebel,T. and Halling,R.
+title: Revisionary systematics of the fungal genus Austroboletus in Australia
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Australia: Queensland'],False,Austroboletus,sp. 6 GB-2014
+113_KP242089.1,1581018,KP242089.1,662,31-DEC-2015,Austroboletus sp. 4 GB-2014,"location: [0:662]
+authors: Bonito,G.M., Lebel,T. and Halling,R.
+title: Revisionary systematics of the fungal genus Austroboletus in Australia
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Australia: Queensland'],False,Austroboletus,sp. 4 GB-2014
+114_KP242090.1,1581017,KP242090.1,662,31-DEC-2015,Austroboletus sp. 3 GB-2014,"location: [0:662]
+authors: Bonito,G.M., Lebel,T. and Halling,R.
+title: Revisionary systematics of the fungal genus Austroboletus in Australia
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Australia: Queensland'],False,Austroboletus,sp. 3 GB-2014
+115_KP242088.1,1581016,KP242088.1,662,31-DEC-2015,Austroboletus sp. 2 GB-2014,"location: [0:662]
+authors: Bonito,G.M., Lebel,T. and Halling,R.
+title: Revisionary systematics of the fungal genus Austroboletus in Australia
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Australia: Queensland'],False,Austroboletus,sp. 2 GB-2014
+116_KP242087.1,1581015,KP242087.1,662,31-DEC-2015,Austroboletus sp. 1 GB-2014,"location: [0:662]
+authors: Bonito,G.M., Lebel,T. and Halling,R.
+title: Revisionary systematics of the fungal genus Austroboletus in Australia
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Australia: Queensland'],False,Austroboletus,sp. 1 GB-2014
+117_KP242097.1,1581013,KP242097.1,662,31-DEC-2015,Austroboletus mutabilis,"location: [0:662]
+authors: Bonito,G.M., Lebel,T. and Halling,R.
+title: Revisionary systematics of the fungal genus Austroboletus in Australia
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Australia: Queensland'],False,Austroboletus,mutabilis
+118_AB999785.1,1545766,AB999785.1,630,14-JUL-2015,Boletellus cf. paradoxus BLT-136,"authors: Sato,H. and Hattori,T.
+title: New Species of Boletellus Section Boletellus (Boletaceae, Boletales) from Japan, B. aurocontextus sp. nov. and B. areolatus sp. nov
+journal: PLoS ONE 10 (6), E0128184 (2015)
+medline id: 
+pubmed id: 26083243
+comment: Publication Status: Online-Only
+",['RPB2'],"['Malaysia: Sarawaki, Miri, Lambir Hills National Park']",False,Boletellus,cf. paradoxus BLT-136
+119_AB999757.1,1545765,AB999757.1,630,14-JUL-2015,Boletellus aurocontextus,"authors: Sato,H. and Hattori,T.
+title: New Species of Boletellus Section Boletellus (Boletaceae, Boletales) from Japan, B. aurocontextus sp. nov. and B. areolatus sp. nov
+journal: PLoS ONE 10 (6), E0128184 (2015)
+medline id: 
+pubmed id: 26083243
+comment: Publication Status: Online-Only
+",['RPB2'],"['Japan: Kanagawa, Kawasaki, Tama Ward']",False,Boletellus,aurocontextus
+120_AB999754.1,1545764,AB999754.1,630,14-JUL-2015,Boletellus areolatus,"authors: Sato,H. and Hattori,T.
+title: New Species of Boletellus Section Boletellus (Boletaceae, Boletales) from Japan, B. aurocontextus sp. nov. and B. areolatus sp. nov
+journal: PLoS ONE 10 (6), E0128184 (2015)
+medline id: 
+pubmed id: 26083243
+comment: Publication Status: Online-Only
+",['RPB2'],"['Japan: Osaka, Mino, Mino Park']",False,Boletellus,areolatus
+121_KF112711.1,1522523,KF112711.1,700,23-APR-2014,Crocinoboletus laetissimus,"location: [0:700]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Crocinoboletus,laetissimus
+122_KF112772.1,1487349,KF112772.1,676,23-APR-2014,Xerocomus punctilifer,"location: [0:676]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomus,punctilifer
+123_KT823993.1,1487348,KT823993.1,766,28-APR-2016,Xerocomellus cisalpinus,"location: [0:766]
+authors: Raspe,O., Vadthanarat,S., De Kesel,A., Degreef,J., Hyde,K.D. and Lumyong,S.
+title: Pulveroboletus fragrans, a new Boletaceae species from Northern Thailand, with a remarkable aromatic odor
+journal: Mycol. Prog. 15, 38 (2016)
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],,False,Xerocomellus,cisalpinus
+124_KF112797.1,1487347,KF112797.1,706,23-APR-2014,Tylopilus otsuensis,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Tylopilus,otsuensis
+125_KF112798.1,1487346,KF112798.1,706,23-APR-2014,Tylopilus microsporus,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Tylopilus,microsporus
+126_KT990385.1,1487343,KT990385.1,597,06-NOV-2016,Mucilopilus castaneiceps,"location: [0:597]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Mucilopilus,castaneiceps
+127_MF962424.1,1487341,MF962424.1,743,01-MAY-2019,Heimioporus japonicus,"location: [0:743]
+authors: Zeng,N.-K., Chai,H., Liang,Z.-Q., Tang,L.-P., Xue,R. and Yang,Z.L.
+title: The genus Heimioporus in China
+journal: Mycologia 110 (6), 1110-1126 (2018)
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China: Hainan Province'],False,Heimioporus,japonicus
+128_KF112651.1,1487333,KF112651.1,707,23-APR-2014,Boletus sinensis,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sinensis
+129_KF112709.1,1487332,KF112709.1,707,23-APR-2014,Crocinoboletus rufoaureus,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Crocinoboletus,rufoaureus
+130_KF112805.1,1487329,KF112805.1,707,23-APR-2014,Heimioporus sp. HKAS 53451,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Heimioporus,sp. HKAS 53451
+131_KF112807.1,1487328,KF112807.1,707,23-APR-2014,Heimioporus aff. japonicus HKAS 52236,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Heimioporus,aff. japonicus HKAS 52236
+132_KF112783.1,1487323,KF112783.1,706,23-APR-2014,Xerocomus sp. HKAS 76853,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomus,sp. HKAS 76853
+133_KF112789.1,1487322,KF112789.1,706,23-APR-2014,Xerocomus sp. HKAS 76666,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomus,sp. HKAS 76666
+134_KF112774.1,1487321,KF112774.1,706,23-APR-2014,Xerocomus sp. HKAS 76657,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomus,sp. HKAS 76657
+135_KF112706.1,1487318,KF112706.1,705,23-APR-2014,Xerocomus sp. HKAS 74712,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomus,sp. HKAS 74712
+136_KF112788.1,1487316,KF112788.1,706,23-APR-2014,Xerocomus sp. HKAS 53387,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomus,sp. HKAS 53387
+137_KF112782.1,1487314,KF112782.1,707,23-APR-2014,Xerocomus sp. HKAS 52575,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomus,sp. HKAS 52575
+138_KF112707.1,1487313,KF112707.1,705,23-APR-2014,Xerocomus sp. HKAS 52557,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomus,sp. HKAS 52557
+139_KF112784.1,1487312,KF112784.1,706,23-APR-2014,Xerocomus aff. subtomentosus HKAS 58865,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomus,aff. subtomentosus HKAS 58865
+140_KF112708.1,1487311,KF112708.1,704,23-APR-2014,Xerocomus aff. macrobbii HKAS 56280,"location: [0:704]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomus,aff. macrobbii HKAS 56280
+141_KF112693.1,1487310,KF112693.1,705,23-APR-2014,Xerocomellus sp. HKAS 76673,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomellus,sp. HKAS 76673
+142_KF112696.1,1487309,KF112696.1,705,23-APR-2014,Xerocomellus sp. HKAS 59608,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomellus,sp. HKAS 59608
+143_KF112684.1,1487308,KF112684.1,706,23-APR-2014,Xerocomellus sp. HKAS 56311,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomellus,sp. HKAS 56311
+144_KF112692.1,1487307,KF112692.1,705,23-APR-2014,Xerocomellus sp. HKAS 51292,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomellus,sp. HKAS 51292
+145_KF112694.1,1487305,KF112694.1,705,23-APR-2014,Xerocomellus sp. HKAS 50466,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomellus,sp. HKAS 50466
+146_KF112695.1,1487304,KF112695.1,705,23-APR-2014,Xerocomellus aff. rubellus HKAS 51239,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomellus,aff. rubellus HKAS 51239
+147_KF112733.1,1487303,KF112733.1,694,23-APR-2014,Veloporphyrellus aff. velatus HKAS 57490,"location: [0:694]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Veloporphyrellus,aff. velatus HKAS 57490
+148_KF112794.1,1487302,KF112794.1,693,23-APR-2014,Tylopilus sp. HKAS 74928,"location: [0:693]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Tylopilus,sp. HKAS 74928
+149_KF112739.1,1487301,KF112739.1,698,23-APR-2014,Tylopilus sp. HKAS 74925,"location: [0:698]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Tylopilus,sp. HKAS 74925
+150_KF112734.1,1487299,KF112734.1,706,23-APR-2014,Tylopilus sp. HKAS 53590,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Tylopilus,sp. HKAS 53590
+151_KF112790.1,1487297,KF112790.1,706,23-APR-2014,Tylopilus sp. HKAS 53367,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Tylopilus,sp. HKAS 53367
+152_KF112769.1,1487295,KF112769.1,706,23-APR-2014,Tylopilus sp. HKAS 50229,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Tylopilus,sp. HKAS 50229
+153_KF112795.1,1487294,KF112795.1,710,23-APR-2014,Tylopilus sp. HKAS 46334,"location: [0:710]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Tylopilus,sp. HKAS 46334
+154_KF112740.1,1487292,KF112740.1,706,23-APR-2014,Tylopilus aff. balloui HKAS 59700,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Tylopilus,aff. balloui HKAS 59700
+155_KF112803.1,1487291,KF112803.1,714,23-APR-2014,Sutorius aff. eximius HKAS 56291,"location: [0:714]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Sutorius,aff. eximius HKAS 56291
+156_KF112802.1,1487290,KF112802.1,714,23-APR-2014,Sutorius aff. eximius HKAS 52672,"location: [0:714]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Sutorius,aff. eximius HKAS 52672
+157_KF112824.1,1487289,KF112824.1,703,23-APR-2014,Suillus aff. luteus HKAS 57748,"location: [0:703]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Suillus,aff. luteus HKAS 57748
+158_KF112823.1,1487288,KF112823.1,703,23-APR-2014,Suillus aff. granulatus HKAS 57622,"location: [0:703]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Suillus,aff. granulatus HKAS 57622
+159_KF112809.1,1487287,KF112809.1,705,23-APR-2014,Strobilomyces sp. HKAS 74911,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Strobilomyces,sp. HKAS 74911
+160_KF112812.1,1487286,KF112812.1,705,23-APR-2014,Strobilomyces sp. HKAS 74865,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Strobilomyces,sp. HKAS 74865
+161_KF112808.1,1487285,KF112808.1,705,23-APR-2014,Strobilomyces sp. HKAS 74809,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Strobilomyces,sp. HKAS 74809
+162_KF112810.1,1487282,KF112810.1,705,23-APR-2014,Strobilomyces sp. HKAS 59420,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Strobilomyces,sp. HKAS 59420
+163_KF112811.1,1487281,KF112811.1,705,23-APR-2014,Strobilomyces sp. HKAS 53348,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Strobilomyces,sp. HKAS 53348
+164_KF112813.1,1487280,KF112813.1,705,23-APR-2014,Strobilomyces aff. verruculosus HKAS 55389,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Strobilomyces,aff. verruculosus HKAS 55389
+165_KF112815.1,1487279,KF112815.1,705,23-APR-2014,Strobilomyces aff. seminudus HKAS 59461,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Strobilomyces,aff. seminudus HKAS 59461
+166_KF112689.1,1487277,KF112689.1,706,23-APR-2014,Retiboletus aff. ornatipes HKAS 63548,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Retiboletus,aff. ornatipes HKAS 63548
+167_KF112713.1,1487276,KF112713.1,702,23-APR-2014,Pulveroboletus sp. HKAS 74933,"location: [0:702]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Pulveroboletus,sp. HKAS 74933
+168_KF112714.1,1487275,KF112714.1,704,23-APR-2014,Pulveroboletus sp. HKAS 58860,"location: [0:704]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Pulveroboletus,sp. HKAS 58860
+169_KF112715.1,1487274,KF112715.1,633,23-APR-2014,Pulveroboletus sp. HKAS 57665,"location: [0:633]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Pulveroboletus,sp. HKAS 57665
+170_KF112712.1,1487273,KF112712.1,686,23-APR-2014,Pulveroboletus aff. ravenelii HKAS 53351,"location: [0:686]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Pulveroboletus,aff. ravenelii HKAS 53351
+171_KF112716.1,1487270,KF112716.1,706,23-APR-2014,Porphyrellus sp. HKAS 53366,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Porphyrellus,sp. HKAS 53366
+172_KT990506.1,1487269,KT990506.1,588,06-NOV-2016,Porphyrellus holophaeus,"location: [0:588]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Porphyrellus,holophaeus
+173_KF112787.1,1487268,KF112787.1,707,23-APR-2014,Phylloporus sp. HKAS 63001,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Phylloporus,sp. HKAS 63001
+174_KF112777.1,1487267,KF112777.1,706,23-APR-2014,Phylloporus sp. HKAS 53422,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Phylloporus,sp. HKAS 53422
+175_KF112822.1,1487266,KF112822.1,710,23-APR-2014,Phlebopus aff. portentosus HKAS 52855,"location: [0:710]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Phlebopus,aff. portentosus HKAS 52855
+176_KF112726.1,1487265,KF112726.1,627,23-APR-2014,Leccinum sp. HKAS 57592,"location: [0:627]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Leccinum,sp. HKAS 57592
+177_KF112721.1,1487264,KF112721.1,706,23-APR-2014,Leccinum sp. HKAS 52538,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Leccinum,sp. HKAS 52538
+178_KF112722.1,1487263,KF112722.1,706,23-APR-2014,Leccinum aff. scabrum HKAS 57266,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Leccinum,aff. scabrum HKAS 57266
+179_KF112719.1,1487262,KF112719.1,709,23-APR-2014,Leccinum aff. extremiorientale HKAS 68586,"location: [0:709]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Leccinum,aff. extremiorientale HKAS 68586
+180_KF112727.1,1487260,KF112727.1,706,23-APR-2014,Leccinellum sp. HKAS 53427,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Leccinellum,sp. HKAS 53427
+181_KF112728.1,1487259,KF112728.1,706,23-APR-2014,Leccinellum aff. crocipodium HKAS 76658,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Leccinellum,aff. crocipodium HKAS 76658
+182_KF112826.1,1487258,KF112826.1,715,23-APR-2014,Gyroporus sp. HKAS 63505,"location: [0:715]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Gyroporus,sp. HKAS 63505
+183_KF112818.1,1487256,KF112818.1,708,23-APR-2014,Gyrodon sp. HKAS 59448,"location: [0:708]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Gyrodon,sp. HKAS 59448
+184_KF112817.1,1487255,KF112817.1,708,23-APR-2014,Gyrodon sp. HKAS 57588,"location: [0:708]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Gyrodon,sp. HKAS 57588
+185_KF112655.1,1487254,KF112655.1,707,23-APR-2014,Gastroboletus sp. HKAS 57093,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Gastroboletus,sp. HKAS 57093
+186_KF112697.1,1487251,KF112697.1,689,23-APR-2014,Boletus sp. HKAS 76850,"location: [0:689]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 76850
+187_KF112731.1,1487249,KF112731.1,707,23-APR-2014,Boletus sp. HKAS 76660,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 76660
+188_KF112678.1,1487248,KF112678.1,650,23-APR-2014,Boletus sp. HKAS 75081,"location: [0:650]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 75081
+189_KF112749.1,1487247,KF112749.1,691,23-APR-2014,Boletus sp. HKAS 75054,"location: [0:691]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 75054
+190_KF112679.1,1487246,KF112679.1,692,23-APR-2014,Boletus sp. HKAS 74864,"location: [0:692]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 74864
+191_KF112680.1,1487245,KF112680.1,699,23-APR-2014,Boletus sp. HKAS 74765,"location: [0:699]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 74765
+192_KF112662.1,1487244,KF112662.1,708,23-APR-2014,Boletus sp. HKAS 68679,"location: [0:708]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 68679
+193_KF112657.1,1487243,KF112657.1,707,23-APR-2014,Boletus sp. HKAS 68587,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 68587
+194_KF112750.1,1487242,KF112750.1,705,23-APR-2014,Boletus sp. HKAS 67896,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 67896
+195_KF112677.1,1487241,KF112677.1,704,23-APR-2014,Boletus sp. HKAS 63607,"location: [0:704]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 63607
+196_KF112663.1,1487240,KF112663.1,671,23-APR-2014,Boletus sp. HKAS 63598,"location: [0:671]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 63598
+197_KF112673.1,1487239,KF112673.1,703,23-APR-2014,Boletus sp. HKAS 63528,"location: [0:703]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 63528
+198_KF112702.1,1487238,KF112702.1,706,23-APR-2014,Boletus sp. HKAS 63504,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 63504
+199_KF112699.1,1487235,KF112699.1,706,23-APR-2014,Boletus sp. HKAS 59814,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 59814
+200_KF112664.1,1487233,KF112664.1,706,23-APR-2014,Boletus sp. HKAS 59660,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 59660
+201_KF112700.1,1487232,KF112700.1,705,23-APR-2014,Boletus sp. HKAS 59609,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 59609
+202_KF112698.1,1487231,KF112698.1,706,23-APR-2014,Boletus sp. HKAS 59554,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 59554
+203_KF112669.1,1487230,KF112669.1,707,23-APR-2014,Boletus sp. HKAS 59469,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 59469
+204_KF112670.1,1487229,KF112670.1,706,23-APR-2014,Boletus sp. HKAS 57774,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 57774
+205_KF112656.1,1487228,KF112656.1,707,23-APR-2014,Boletus sp. HKAS 57512,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 57512
+206_KF112666.1,1487225,KF112666.1,706,23-APR-2014,Boletus sp. HKAS 55444,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 55444
+207_KF112674.1,1487224,KF112674.1,648,23-APR-2014,Boletus sp. HKAS 55413,"location: [0:648]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 55413
+209_KF112828.1,1487222,KF112828.1,706,23-APR-2014,Boletus sp. HKAS 53426,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 53426
+210_KF112800.1,1487221,KF112800.1,706,23-APR-2014,Boletus sp. HKAS 53425,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 53425
+211_KF112751.1,1487220,KF112751.1,707,23-APR-2014,Boletus sp. HKAS 53421,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 53421
+212_KF112659.1,1487219,KF112659.1,707,23-APR-2014,Boletus sp. HKAS 53369,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 53369
+213_KF112668.1,1487218,KF112668.1,704,23-APR-2014,Boletus sp. HKAS 53353,"location: [0:704]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 53353
+214_KF112676.1,1487217,KF112676.1,704,23-APR-2014,Boletus sp. HKAS 52661,"location: [0:704]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 52661
+215_KF112701.1,1487216,KF112701.1,706,23-APR-2014,Boletus sp. HKAS 52639,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 52639
+216_KF112732.1,1487215,KF112732.1,705,23-APR-2014,Boletus sp. HKAS 52601,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 52601
+217_KF112671.1,1487214,KF112671.1,706,23-APR-2014,Boletus sp. HKAS 52525,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 52525
+218_KF112683.1,1487213,KF112683.1,703,23-APR-2014,Boletus sp. HKAS 52518,"location: [0:703]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 52518
+219_KF112705.1,1487212,KF112705.1,711,23-APR-2014,Boletus sp. HKAS 52235,"location: [0:711]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 52235
+220_KF112658.1,1487211,KF112658.1,633,23-APR-2014,Boletus sp. HKAS 50351,"location: [0:633]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,sp. HKAS 50351
+221_KF112672.1,1487207,KF112672.1,703,23-APR-2014,Boletus aff. speciosus HKAS 59467,"location: [0:703]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,aff. speciosus HKAS 59467
+222_KF112652.1,1487206,KF112652.1,707,23-APR-2014,Boletus aff. erythropus HKAS 55440,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,aff. erythropus HKAS 55440
+223_KF112682.1,1487205,KF112682.1,706,23-APR-2014,Lanmaoa aff. carminipes HKAS 54094,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Lanmaoa,aff. carminipes HKAS 54094
+224_KF112667.1,1487204,KF112667.1,657,23-APR-2014,Boletus aff. calopus HKAS 74739,"location: [0:657]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,aff. calopus HKAS 74739
+225_KF112736.1,1487203,KF112736.1,708,23-APR-2014,Parvixerocomus aff. aokii HKAS 52633,"location: [0:708]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Parvixerocomus,aff. aokii HKAS 52633
+226_KF112660.1,1487202,KF112660.1,705,23-APR-2014,Suillellus aff. amygdalinus HKAS 57262,"location: [0:705]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Suillellus,aff. amygdalinus HKAS 57262
+227_KF112747.1,1487201,KF112747.1,674,23-APR-2014,Boletellus sp. HKAS 74888,"location: [0:674]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletellus,sp. HKAS 74888
+228_KF112771.1,1487200,KF112771.1,669,23-APR-2014,Boletellus sp. HKAS 74783,"location: [0:669]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletellus,sp. HKAS 74783
+229_KF112758.1,1487199,KF112758.1,706,23-APR-2014,Boletellus sp. HKAS 59536,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletellus,sp. HKAS 59536
+230_KF112759.1,1487198,KF112759.1,706,23-APR-2014,Boletellus sp. HKAS 58713,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletellus,sp. HKAS 58713
+231_KF112744.1,1487197,KF112744.1,706,23-APR-2014,Boletellus sp. HKAS 53376,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletellus,sp. HKAS 53376
+232_KF112748.1,1487196,KF112748.1,707,23-APR-2014,Boletellus sp. HKAS 53375,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletellus,sp. HKAS 53375
+233_KF112757.1,1487194,KF112757.1,706,23-APR-2014,Boletellus aff. emodensis HKAS 52678,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletellus,aff. emodensis HKAS 52678
+234_KF112765.1,1487192,KF112765.1,704,23-APR-2014,Austroboletus sp. HKAS 59624,"location: [0:704]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Austroboletus,sp. HKAS 59624
+235_KF112764.1,1487191,KF112764.1,704,23-APR-2014,Austroboletus sp. HKAS 57756,"location: [0:704]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Austroboletus,sp. HKAS 57756
+236_KF112768.1,1487190,KF112768.1,707,23-APR-2014,Austroboletus aff. mutabilis HKAS 53450,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Austroboletus,aff. mutabilis HKAS 53450
+237_KF112767.1,1487189,KF112767.1,707,23-APR-2014,Austroboletus aff. fusisporus HKAS 53461,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Austroboletus,aff. fusisporus HKAS 53461
+238_KF112766.1,1487188,KF112766.1,707,23-APR-2014,Austroboletus aff. fusisporus HKAS 52683,"location: [0:707]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Austroboletus,aff. fusisporus HKAS 52683
+239_KF112746.1,1487187,KF112746.1,706,23-APR-2014,Aureoboletus sp. HKAS 57581,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Aureoboletus,sp. HKAS 57581
+240_KF112742.1,1487186,KF112742.1,706,23-APR-2014,Aureoboletus sp. HKAS 53458,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Aureoboletus,sp. HKAS 53458
+241_KU852367.1,1485230,KU852367.1,749,30-NOV-2017,Suillus marginielevatus,"location: [0:749]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['China: Nixi, Shangri-la, Diqing, Yunnan province']",False,Suillus,marginielevatus
+242_KC215239.1,1398506,KC215239.1,772,04-DEC-2017,Imleria subalpina,"location: [0:772]
+authors: Zhu,X.-T., Li,Y.-C., Wu,G., Feng,B., Zhao,K., Gelardi,M., Kost,G.W. and Yang,Z.L.
+title: The genus Imleria (Boletaceae) in East Asia
+journal: Phytotaxa 191 (1), 81-98 (2014)
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],False,Imleria,subalpina
+243_MH614776.1,1398505,MH614776.1,764,02-MAY-2019,Imleria obscurebrunnea,"location: [0:764]
+authors: Vadthanarat,S., Lumyong,S. and Raspe,O.
+title: Cacaoporus, a new Boletaceae genus, with two new species from Thailand
+journal: MycoKeys (2019) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Imleria,obscurebrunnea
+244_KC215237.1,1398504,KC215237.1,768,04-DEC-2017,Imleria parva,"location: [0:768]
+authors: Zhu,X.-T., Li,Y.-C., Wu,G., Feng,B., Zhao,K., Gelardi,M., Kost,G.W. and Yang,Z.L.
+title: The genus Imleria (Boletaceae) in East Asia
+journal: Phytotaxa 191 (1), 81-98 (2014)
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],False,Imleria,parva
+245_KT990359.1,1391648,KT990359.1,705,06-NOV-2016,Aureoboletus tenuis,"location: [0:705]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Aureoboletus,tenuis
+246_MK766311.1,1355219,MK766311.1,771,18-DEC-2019,Leccinellum crocipodium,"location: [0:771]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['USA: Illinois'],False,Leccinellum,crocipodium
+247_MK766373.1,1354920,MK766373.1,720,18-DEC-2019,Xerocomellus chrysenteron,"location: [0:720]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['USA: Ohio'],False,Xerocomellus,chrysenteron
+248_MK766310.1,1354916,MK766310.1,769,18-DEC-2019,Leccinellum corsicum,"location: [0:769]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Italy'],False,Leccinellum,corsicum
+249_MG897435.1,1354912,MG897435.1,766,14-JUN-2019,Baorangia rufomaculata,"location: [0:766]
+authors: Vadthanarat,S. and Raspe,O.
+title: Direct Submission
+journal: Submitted (03-FEB-2018) Biology, Chiang Mai University, 239 Hauy Kaew Road, Suthep, Muang, Chiang Mai 50200, Thailand
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['USA'],False,Baorangia,rufomaculata
+250_MK766272.1,1354897,MK766272.1,771,18-DEC-2019,Aureoboletus roxanae,"location: [0:771]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['USA: New York'],False,Aureoboletus,roxanae
+251_MG212615.1,1354896,MG212615.1,766,02-MAY-2019,Aureoboletus moravicus,"location: [0:766]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['Belgium'],False,Aureoboletus,moravicus
+252_KY419036.1,1325616,KY419036.1,770,01-OCT-2017,Butyriboletus roseoflavus,"location: [0:770]
+authors: Zhao,R.-L., Li,G.-J., Sanchez-Ramirez,S., Stata,M., Yang,Z.-L., Wu,G., Dai,Y.-C., He,S.-H., Cui,B.-K., Zhou,J.-L., Wu,F., He,M.-Q., Moncalvo,J.-M. and Hyde,K.D.
+title: A six-gene phylogenetic overview of Basidiomycota and allied phyla with estimated divergence times of higher taxa and a phyloproteomics perspective
+journal: Fungal Divers. 84 (1), 43-74 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],False,Butyriboletus,roseoflavus
+253_MK766296.1,1325514,MK766296.1,775,18-DEC-2019,Harrya chromapes,"location: [0:775]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['USA: Illinois'],False,Harrya,chromapes
+254_MG897438.1,1297042,MG897438.1,763,14-JUN-2019,Boletus roseopurpureus,"location: [0:763]
+authors: Vadthanarat,S. and Raspe,O.
+title: Direct Submission
+journal: Submitted (03-FEB-2018) Biology, Chiang Mai University, 239 Hauy Kaew Road, Suthep, Muang, Chiang Mai 50200, Thailand
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['USA'],False,Boletus,roseopurpureus
+256_KF112785.1,1288704,KF112785.1,691,23-APR-2014,Phylloporus luxiensis,"location: [0:691]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Phylloporus,luxiensis
+257_MK766288.1,1282272,MK766288.1,769,18-DEC-2019,Caloboletus firmus,"location: [0:769]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Belize'],False,Caloboletus,firmus
+258_KY553129.1,1278234,KY553129.1,639,11-APR-2018,Strobilomyces echinocephalus,"location: [0:639]
+authors: Han,L.H., Buyck,B., Yourou,N.S., Halling,R.E. and Yang,Z.L.
+title: Afroboletus sequestratus (Boletales), the first species with sequestrate basidioma in the genus
+journal: Phytotaxa 305 (1), 11-20 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],,False,Strobilomyces,echinocephalus
+259_KT990425.1,1278228,KT990425.1,582,06-NOV-2016,Tylopilus balloui,"location: [0:582]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Tylopilus,balloui
+260_KT990458.1,1269243,KT990458.1,597,06-NOV-2016,Tylopilus griseipurpureus,"location: [0:597]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Tylopilus,griseipurpureus
+261_AB589419.1,1263940,AB589419.1,672,01-DEC-2012,Strobilomyces hongoi,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Shiga Pref., Otsu, Ohmi']",False,Strobilomyces,hongoi
+262_JQ928603.1,1256248,JQ928603.1,769,20-JAN-2013,Retiboletus aff. nigerrimus HKAS 59699,"location: [0:769]
+authors: Hosen,M.I., Feng,B., Wu,G., Zhu,X.T., Li,Y.C. and Yang,Z.L.
+title: Borofutus, a new genus of Boletaceae from tropical Asia: phylogeny, morphology, and taxonomy
+journal: Fungal Divers. 58 (1), 215-226 (2013)
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],False,Retiboletus,aff. nigerrimus HKAS 59699
+263_JQ928601.1,1256247,JQ928601.1,768,20-JAN-2013,Retiboletus aff. griseus HKAS 59460,"location: [0:768]
+authors: Hosen,M.I., Feng,B., Wu,G., Zhu,X.T., Li,Y.C. and Yang,Z.L.
+title: Borofutus, a new genus of Boletaceae from tropical Asia: phylogeny, morphology, and taxonomy
+journal: Fungal Divers. 58 (1), 215-226 (2013)
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],False,Retiboletus,aff. griseus HKAS 59460
+264_JQ928602.1,1256246,JQ928602.1,608,20-JAN-2013,Leccinum aff. aurantiacum HKAS 57390,"location: [0:608]
+authors: Hosen,M.I., Feng,B., Wu,G., Zhu,X.T., Li,Y.C. and Yang,Z.L.
+title: Borofutus, a new genus of Boletaceae from tropical Asia: phylogeny, morphology, and taxonomy
+journal: Fungal Divers. 58 (1), 215-226 (2013)
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],False,Leccinum,aff. aurantiacum HKAS 57390
+265_MH614755.1,1256133,MH614755.1,764,02-MAY-2019,Borofutus dhakanus,"location: [0:764]
+authors: Vadthanarat,S., Lumyong,S. and Raspe,O.
+title: Cacaoporus, a new Boletaceae genus, with two new species from Thailand
+journal: MycoKeys (2019) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['Thailand'],False,Borofutus,dhakanus
+266_KU852376.1,1217839,KU852376.1,780,30-NOV-2017,Suillus ponderosus,"location: [0:780]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['USA: Huddart Park, Woodside Co., CA']",False,Suillus,ponderosus
+267_KF112781.1,1195726,KF112781.1,706,23-APR-2014,Xerocomus magniporus,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Xerocomus,magniporus
+268_MG897439.1,1173595,MG897439.1,766,14-JUN-2019,Lanmaoa carminipes,"location: [0:766]
+authors: Vadthanarat,S. and Raspe,O.
+title: Direct Submission
+journal: Submitted (03-FEB-2018) Biology, Chiang Mai University, 239 Hauy Kaew Road, Suthep, Muang, Chiang Mai 50200, Thailand
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['USA'],False,Lanmaoa,carminipes
+269_JQ928604.1,1089193,JQ928604.1,732,20-JAN-2013,Zangia roseola,"location: [0:732]
+authors: Hosen,M.I., Feng,B., Wu,G., Zhu,X.T., Li,Y.C. and Yang,Z.L.
+title: Borofutus, a new genus of Boletaceae from tropical Asia: phylogeny, morphology, and taxonomy
+journal: Fungal Divers. 58 (1), 215-226 (2013)
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],False,Zangia,roseola
+270_KF112791.1,1089190,KF112791.1,697,23-APR-2014,Zangia erythrocephala,"location: [0:697]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Zangia,erythrocephala
+271_KF112799.1,1089185,KF112799.1,709,23-APR-2014,Tylopilus violatinctus,"location: [0:709]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Tylopilus,violatinctus
+272_MK766372.1,925758,MK766372.1,771,18-DEC-2019,Xanthoconium purpureum,"location: [0:771]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['USA: Illinois'],False,Xanthoconium,purpureum
+273_MK766360.1,925644,MK766360.1,770,18-DEC-2019,Retiboletus griseus,"location: [0:770]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['USA: Illinois'],False,Retiboletus,griseus
+274_MG897437.1,925643,MG897437.1,766,14-JUN-2019,Lanmaoa pallidorosea,"location: [0:766]
+authors: Vadthanarat,S. and Raspe,O.
+title: Direct Submission
+journal: Submitted (03-FEB-2018) Biology, Chiang Mai University, 239 Hauy Kaew Road, Suthep, Muang, Chiang Mai 50200, Thailand
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['USA'],False,Lanmaoa,pallidorosea
+275_KT990462.1,889443,KT990462.1,597,06-NOV-2016,Retiboletus nigerrimus,"location: [0:597]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Retiboletus,nigerrimus
+276_AB589448.1,889441,AB589448.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST10-1,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Taiwan: Nantoh, Shan-lin-xi']",False,Strobilomyces,aff. strobilaceus ST10-1
+277_AB589438.1,889440,AB589438.1,672,01-DEC-2012,Strobilomyces aff. confusus SC1-5,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Shiga Pref., Otsu, Nagara']",False,Strobilomyces,aff. confusus SC1-5
+278_AB589437.1,889439,AB589437.1,672,01-DEC-2012,Strobilomyces aff. confusus SC2-5,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Shiga Pref., Otsu, Nagara']",False,Strobilomyces,aff. confusus SC2-5
+279_AB589436.1,889438,AB589436.1,672,01-DEC-2012,Strobilomyces aff. confusus SC2-4,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Shiga Pref., Otsu, Nagara']",False,Strobilomyces,aff. confusus SC2-4
+280_AB589435.1,889437,AB589435.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST9-1,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Shiga Pref., Mt.Tanakami']",False,Strobilomyces,aff. strobilaceus ST9-1
+281_AB589434.1,889436,AB589434.1,672,01-DEC-2012,Strobilomyces aff. confusus SC1-4,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Kyoto Pref., Kyoto, Yoshida Hill']",False,Strobilomyces,aff. confusus SC1-4
+282_AB589433.1,889435,AB589433.1,672,01-DEC-2012,Strobilomyces aff. confusus SC2-3,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Kyoto Pref., Kyoto, Yoshida Hill']",False,Strobilomyces,aff. confusus SC2-3
+283_AB589432.1,889434,AB589432.1,672,01-DEC-2012,Strobilomyces aff. confusus SC2-2,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Kyoto Pref., Kyoto, Yoshida Hill']",False,Strobilomyces,aff. confusus SC2-2
+284_AB589430.1,889433,AB589430.1,672,01-DEC-2012,Strobilomyces aff. confusus SC2-1,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Kyoto Pref., Kyoto, Yoshida Hill']",False,Strobilomyces,aff. confusus SC2-1
+285_AB589429.1,889432,AB589429.1,672,01-DEC-2012,Strobilomyces aff. confusus SC1-3,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Kyoto Pref., Kyoto, Yoshida Hill']",False,Strobilomyces,aff. confusus SC1-3
+286_AB589428.1,889431,AB589428.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST5-4,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Kyoto Pref., Kyoto, Yoshida Hill']",False,Strobilomyces,aff. strobilaceus ST5-4
+287_AB589426.1,889430,AB589426.1,672,01-DEC-2012,Strobilomyces aff. confusus SC1-2,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Osaka Pref., Mino']",False,Strobilomyces,aff. confusus SC1-2
+288_AB589423.1,889429,AB589423.1,672,01-DEC-2012,Strobilomyces sp. SU-1,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Taiwan: Taipei, Fushan Botanical Garden']",False,Strobilomyces,sp. SU-1
+289_AB589422.1,889428,AB589422.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST8-1,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Taiwan: Nantoh, Shan-lin-xi']",False,Strobilomyces,aff. strobilaceus ST8-1
+290_AB589420.1,889427,AB589420.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST7-1,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Shiga Pref., Otsu, Ohmi']",False,Strobilomyces,aff. strobilaceus ST7-1
+291_AB589416.1,889425,AB589416.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST5-3,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],['United Kingdom'],False,Strobilomyces,aff. strobilaceus ST5-3
+292_AB589415.1,889424,AB589415.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST5-2,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],['Denmark: Falster'],False,Strobilomyces,aff. strobilaceus ST5-2
+293_AB589414.1,889423,AB589414.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST6-3,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],['USA: Michigan'],False,Strobilomyces,aff. strobilaceus ST6-3
+294_AB589413.1,889422,AB589413.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST6-2,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],['USA: New Jersey'],False,Strobilomyces,aff. strobilaceus ST6-2
+295_AB589412.1,889421,AB589412.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST6-1,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],['USA: New Jersey'],False,Strobilomyces,aff. strobilaceus ST6-1
+296_AB589411.1,889420,AB589411.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST5-1,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],['United Kingdom'],False,Strobilomyces,aff. strobilaceus ST5-1
+297_AB589410.1,889419,AB589410.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST4-1,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Nagano Pref., Susaka']",False,Strobilomyces,aff. strobilaceus ST4-1
+298_AB589409.1,889418,AB589409.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST3-1,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Osaka Pref., Mino']",False,Strobilomyces,aff. strobilaceus ST3-1
+299_AB589408.1,889417,AB589408.1,672,01-DEC-2012,Strobilomyces aff. confusus SC1-1,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Kyoto Pref., Kyoto, Takaragaike']",False,Strobilomyces,aff. confusus SC1-1
+300_AB589407.1,889416,AB589407.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST2-1,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Miyazaki Pref., Tohshoken-gun, Takaoka-cho']",False,Strobilomyces,aff. strobilaceus ST2-1
+301_KX869402.1,889415,KX869402.1,665,14-NOV-2017,Strobilomyces foveatus,"location: [0:665]
+authors: Han,L.H., Feng,B., Wu,G., Roy,E.H., Bart,B., Nourou,S.Y., Sydney,T.N.E. and Zhu,L.Y.
+title: African origin and global distribution patterns: Evidence inferred from phylogenetic and biogeographical analyses of ectomycorrhizal fungal genus Strobilomyces
+journal: J. Biogeogr. (2018) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print DOI: 10.1111/jbi.13094
+",['rpb2'],,False,Strobilomyces,foveatus
+302_AB589400.1,889414,AB589400.1,672,01-DEC-2012,Strobilomyces annulatus,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Malaysia: Johor, Endau-Rompin, Pulau Bertam']",False,Strobilomyces,annulatus
+303_AB589399.1,889413,AB589399.1,672,01-DEC-2012,Strobilomyces aff. strobilaceus ST1-1,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Malaysia: Pasoh, Negeri Sembilan']",False,Strobilomyces,aff. strobilaceus ST1-1
+308_MH614756.1,676142,MH614756.1,767,02-MAY-2019,Buchwaldoboletus lignicola,"location: [0:767]
+authors: Vadthanarat,S., Lumyong,S. and Raspe,O.
+title: Cacaoporus, a new Boletaceae genus, with two new species from Thailand
+journal: MycoKeys (2019) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['Belgium'],False,Buchwaldoboletus,lignicola
+309_KT990356.1,654445,KT990356.1,647,06-NOV-2016,Aureoboletus longicollis,"location: [0:647]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Aureoboletus,longicollis
+311_KU852288.1,627136,KU852288.1,760,30-NOV-2017,Suillus quiescens,"location: [0:760]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['USA: 1100 Kings Mountain Rd, Huddart Park, Woodside Co., CA']",False,Suillus,quiescens
+313_FJ536643.1,595539,FJ536643.1,975,23-MAY-2012,Gyroporus sp. Arora 00-429,"location: [0:975]
+authors: Wilson,A.W., Binder,M. and Hibbett,D.S.
+title: Diversity and evolution of ectomycorrhizal host associations in the Sclerodermatineae (Boletales, Basidiomycota)
+journal: New Phytol. 194 (4), 1079-1095 (2012)
+medline id: 
+pubmed id: 22471405
+comment: 
+",['RPB2'],,False,Gyroporus,sp. Arora 00-429
+315_FJ536660.1,555543,FJ536660.1,961,23-MAY-2012,Scleroderma sp. AWW260,"location: [0:961]
+authors: Wilson,A.W., Binder,M. and Hibbett,D.S.
+title: Diversity and evolution of ectomycorrhizal host associations in the Sclerodermatineae (Boletales, Basidiomycota)
+journal: New Phytol. 194 (4), 1079-1095 (2012)
+medline id: 
+pubmed id: 22471405
+comment: 
+",['RPB2'],,False,Scleroderma,sp. AWW260
+317_FJ536649.1,555539,FJ536649.1,788,23-MAY-2012,Pisolithus sp. ECV3205,"location: [0:788]
+authors: Wilson,A.W., Binder,M. and Hibbett,D.S.
+title: Diversity and evolution of ectomycorrhizal host associations in the Sclerodermatineae (Boletales, Basidiomycota)
+journal: New Phytol. 194 (4), 1079-1095 (2012)
+medline id: 
+pubmed id: 22471405
+comment: 
+",['RPB2'],,False,Pisolithus,sp. ECV3205
+320_MF818223.1,555536,MF818223.1,708,06-DEC-2018,Gyroporus subalbellus,"location: [0:708]
+authors: Davoodian,N., Bergemann,S.E., Hosaka,K., Raspe,O., Bougher,N.L., Fechner,N.A., Henkel,T.W., Gelardi,M., Soytong,K., Naseer,A., Ortiz-Santana,B., Baroni,T.J., Nagasawa,E., Smith,M.E. and Halling,R.E.
+title: A global view of Gyroporus: molecular phylogenetics, diversity patterns, and new species
+journal: Mycologia 110 (5), 985-995 (2018)
+medline id: 
+pubmed id: 30303458
+comment: 
+",['rpb2'],,False,Gyroporus,subalbellus
+323_FJ536634.1,555524,FJ536634.1,946,23-MAY-2012,Calostoma sp. HKAS38139,"location: [0:946]
+authors: Wilson,A.W., Binder,M. and Hibbett,D.S.
+title: Diversity and evolution of ectomycorrhizal host associations in the Sclerodermatineae (Boletales, Basidiomycota)
+journal: New Phytol. 194 (4), 1079-1095 (2012)
+medline id: 
+pubmed id: 22471405
+comment: 
+",['RPB2'],,False,Calostoma,sp. HKAS38139
+326_FJ536626.1,555518,FJ536626.1,948,23-MAY-2012,Calostoma berkeleyi,"location: [0:948]
+authors: Wilson,A.W., Binder,M. and Hibbett,D.S.
+title: Diversity and evolution of ectomycorrhizal host associations in the Sclerodermatineae (Boletales, Basidiomycota)
+journal: New Phytol. 194 (4), 1079-1095 (2012)
+medline id: 
+pubmed id: 22471405
+comment: 
+",['RPB2'],,False,Calostoma,berkeleyi
+327_MG212648.1,554319,MG212648.1,670,02-MAY-2019,Spongiforma thailandica,"location: [0:670]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['Thailand'],False,Spongiforma,thailandica
+329_KF112675.1,537024,KF112675.1,703,23-APR-2014,Exsudoporus frostii,"location: [0:703]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['Costa Rica'],False,Exsudoporus,frostii
+330_MF818221.1,526941,MF818221.1,717,06-DEC-2018,Gyroporus purpurinus,"location: [0:717]
+authors: Davoodian,N., Bergemann,S.E., Hosaka,K., Raspe,O., Bougher,N.L., Fechner,N.A., Henkel,T.W., Gelardi,M., Soytong,K., Naseer,A., Ortiz-Santana,B., Baroni,T.J., Nagasawa,E., Smith,M.E. and Halling,R.E.
+title: A global view of Gyroporus: molecular phylogenetics, diversity patterns, and new species
+journal: Mycologia 110 (5), 985-995 (2018)
+medline id: 
+pubmed id: 30303458
+comment: 
+",['rpb2'],,False,Gyroporus,purpurinus
+331_KT990382.1,519976,KT990382.1,597,06-NOV-2016,Tylopilus porphyrosporus,"location: [0:597]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Tylopilus,porphyrosporus
+332_AB999753.1,509538,AB999753.1,630,14-JUL-2015,Boletellus emodensis,"authors: Sato,H. and Hattori,T.
+title: New Species of Boletellus Section Boletellus (Boletaceae, Boletales) from Japan, B. aurocontextus sp. nov. and B. areolatus sp. nov
+journal: PLoS ONE 10 (6), E0128184 (2015)
+medline id: 
+pubmed id: 26083243
+comment: Publication Status: Online-Only
+",['RPB2'],"['Japan: Chiba, Kashiwa, Masuojoshi Park']",False,Boletellus,emodensis
+334_KM605179.1,509536,KM605179.1,765,16-MAR-2015,Baorangia pseudocalopus,"location: [0:765]
+authors: Wu,G., Zhao,K., Li,Y.-C., Zeng,N.-K., Feng,B., Halling,R.E. and Yang,Z.-L.
+title: Four new genera of the fungal family Boletaceae
+journal: Fungal Divers. (2015) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Baorangia,pseudocalopus
+335_KX869454.1,509535,KX869454.1,639,14-NOV-2017,Strobilomyces verruculosus,"location: [0:639]
+authors: Han,L.H., Feng,B., Wu,G., Roy,E.H., Bart,B., Nourou,S.Y., Sydney,T.N.E. and Zhu,L.Y.
+title: African origin and global distribution patterns: Evidence inferred from phylogenetic and biogeographical analyses of ectomycorrhizal fungal genus Strobilomyces
+journal: J. Biogeogr. (2018) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print DOI: 10.1111/jbi.13094
+",['rpb2'],,False,Strobilomyces,verruculosus
+336_KX869508.1,495285,KX869508.1,621,14-NOV-2017,Boletus reticuloceps,"location: [0:621]
+authors: Han,L.H., Feng,B., Wu,G., Roy,E.H., Bart,B., Nourou,S.Y., Sydney,T.N.E. and Zhu,L.Y.
+title: African origin and global distribution patterns: Evidence inferred from phylogenetic and biogeographical analyses of ectomycorrhizal fungal genus Strobilomyces
+journal: J. Biogeogr. (2018) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print DOI: 10.1111/jbi.13094
+",['rpb2'],,False,Boletus,reticuloceps
+337_KX869440.1,459207,KX869440.1,627,14-NOV-2017,Strobilomyces strobilaceus,"location: [0:627]
+authors: Han,L.H., Feng,B., Wu,G., Roy,E.H., Bart,B., Nourou,S.Y., Sydney,T.N.E. and Zhu,L.Y.
+title: African origin and global distribution patterns: Evidence inferred from phylogenetic and biogeographical analyses of ectomycorrhizal fungal genus Strobilomyces
+journal: J. Biogeogr. (2018) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print DOI: 10.1111/jbi.13094
+",['rpb2'],,False,Strobilomyces,strobilaceus
+338_KY553130.1,418297,KY553130.1,660,11-APR-2018,Strobilomyces mirandus,"location: [0:660]
+authors: Han,L.H., Buyck,B., Yourou,N.S., Halling,R.E. and Yang,Z.L.
+title: Afroboletus sequestratus (Boletales), the first species with sequestrate basidioma in the genus
+journal: Phytotaxa 305 (1), 11-20 (2017)
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],,False,Strobilomyces,mirandus
+343_FJ536662.1,388870,FJ536662.1,895,23-MAY-2012,Tremellogaster surinamensis,"location: [0:895]
+authors: Wilson,A.W., Binder,M. and Hibbett,D.S.
+title: Diversity and evolution of ectomycorrhizal host associations in the Sclerodermatineae (Boletales, Basidiomycota)
+journal: New Phytol. 194 (4), 1079-1095 (2012)
+medline id: 
+pubmed id: 22471405
+comment: 
+",['RPB2'],,False,Tremellogaster,surinamensis
+345_KT823994.1,388837,KT823994.1,766,28-APR-2016,Aureoboletus gentilis,"location: [0:766]
+authors: Raspe,O., Vadthanarat,S., De Kesel,A., Degreef,J., Hyde,K.D. and Lumyong,S.
+title: Pulveroboletus fragrans, a new Boletaceae species from Northern Thailand, with a remarkable aromatic odor
+journal: Mycol. Prog. 15, 38 (2016)
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],,False,Aureoboletus,gentilis
+346_KF112738.1,374766,KF112738.1,706,23-APR-2014,Tylopilus plumbeoviolaceoides,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Tylopilus,plumbeoviolaceoides
+347_KX869434.1,374763,KX869434.1,644,14-NOV-2017,Strobilomyces seminudus,"location: [0:644]
+authors: Han,L.H., Feng,B., Wu,G., Roy,E.H., Bart,B., Nourou,S.Y., Sydney,T.N.E. and Zhu,L.Y.
+title: African origin and global distribution patterns: Evidence inferred from phylogenetic and biogeographical analyses of ectomycorrhizal fungal genus Strobilomyces
+journal: J. Biogeogr. (2018) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print DOI: 10.1111/jbi.13094
+",['rpb2'],,False,Strobilomyces,seminudus
+348_MK766365.1,374762,MK766365.1,770,18-DEC-2019,Strobilomyces confusus,"location: [0:770]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Dominican Republic'],False,Strobilomyces,confusus
+349_KF112653.1,374759,KF112653.1,694,23-APR-2014,Neoboletus magnificus,"location: [0:694]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Neoboletus,magnificus
+350_MG212625.1,287845,MG212625.1,769,02-MAY-2019,Butyriboletus pseudoregius,"location: [0:769]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['Belgium'],False,Butyriboletus,pseudoregius
+351_KT990365.1,285024,KT990365.1,705,06-NOV-2016,Aureoboletus thibetanus,"location: [0:705]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Aureoboletus,thibetanus
+352_KF112756.1,283656,KF112756.1,708,23-APR-2014,Boletellus shichianus,"location: [0:708]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletellus,shichianus
+353_MK766325.1,273862,MK766325.1,771,18-DEC-2019,Leccinum monticola,"location: [0:771]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Costa Rica'],False,Leccinum,monticola
+358_KF112724.1,196695,KF112724.1,706,23-APR-2014,Leccinum quercinum,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Leccinum,quercinum
+360_KF112762.1,182792,KF112762.1,706,23-APR-2014,Boletus violaceofuscus,"location: [0:706]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Boletus,violaceofuscus
+361_MK766285.1,182790,MK766285.1,771,18-DEC-2019,Boletus separans,"location: [0:771]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['USA: Illinois'],False,Boletus,separans
+362_MH580821.1,182636,MH580821.1,765,25-MAR-2019,Phylloporus pelletieri,"location: [0:765]
+authors: Chuankid,B., Vadthanarat,S., Hyde,K.D., Thongklang,N., Zhao,R., Lumyong,S. and Raspe,O.
+title: Three new Phylloporus species from China and Thailand
+journal: Mycol. Prog. (2019) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['Austria'],False,Phylloporus,pelletieri
+363_AB589453.1,182632,AB589453.1,672,01-DEC-2012,Boletus reticulatus,"authors: Sato,H., Hattori,T., Lee,S.S. and Murakami,N.
+title: Two species of Strobilomyces (Boletaceae, Boletales), S. seminudus and S. hongoi sp. nov. from Japan
+journal: Mycologia 103 (3), 598-609 (2011)
+medline id: 
+pubmed id: 21177488
+comment: DOI:10.3852/10-182
+",['RPB2'],"['Japan: Kagoshima Pref., Yakushima Island']",False,Boletus,reticulatus
+364_MG212624.1,182627,MG212624.1,763,02-MAY-2019,Butyriboletus appendiculatus,"location: [0:763]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['Belgium'],False,Butyriboletus,appendiculatus
+365_MG212617.1,182626,MG212617.1,771,02-MAY-2019,Boletus aereus,"location: [0:771]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['Belgium'],False,Boletus,aereus
+366_KF112720.1,178529,KF112720.1,709,23-APR-2014,Leccinum extremiorientale,"location: [0:709]
+authors: Wu,G., Feng,B., Xu,J., Zhu,X.-T., Li,Y.-C., Zeng,N.-K., Hosen,M.I. and Yang,Z.-L.
+title: Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae
+journal: Fungal Divers. (2014) In press
+medline id: 
+pubmed id: 
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['China'],False,Leccinum,extremiorientale
+368_KT990468.1,178457,KT990468.1,706,06-NOV-2016,Rubroboletus rhodoxanthus,"location: [0:706]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['Germany'],False,Rubroboletus,rhodoxanthus
+371_MF818216.1,150864,MF818216.1,653,06-DEC-2018,Gyroporus castaneus,"location: [0:653]
+authors: Davoodian,N., Bergemann,S.E., Hosaka,K., Raspe,O., Bougher,N.L., Fechner,N.A., Henkel,T.W., Gelardi,M., Soytong,K., Naseer,A., Ortiz-Santana,B., Baroni,T.J., Nagasawa,E., Smith,M.E. and Halling,R.E.
+title: A global view of Gyroporus: molecular phylogenetics, diversity patterns, and new species
+journal: Mycologia 110 (5), 985-995 (2018)
+medline id: 
+pubmed id: 30303458
+comment: 
+",['rpb2'],,False,Gyroporus,castaneus
+372_FJ536659.1,150802,FJ536659.1,972,23-MAY-2012,Scleroderma sinnamariense,"location: [0:972]
+authors: Wilson,A.W., Binder,M. and Hibbett,D.S.
+title: Diversity and evolution of ectomycorrhizal host associations in the Sclerodermatineae (Boletales, Basidiomycota)
+journal: New Phytol. 194 (4), 1079-1095 (2012)
+medline id: 
+pubmed id: 22471405
+comment: 
+",['RPB2'],,False,Scleroderma,sinnamariense
+373_FJ536653.1,150797,FJ536653.1,946,23-MAY-2012,Scleroderma bovista,"location: [0:946]
+authors: Wilson,A.W., Binder,M. and Hibbett,D.S.
+title: Diversity and evolution of ectomycorrhizal host associations in the Sclerodermatineae (Boletales, Basidiomycota)
+journal: New Phytol. 194 (4), 1079-1095 (2012)
+medline id: 
+pubmed id: 22471405
+comment: 
+",['RPB2'],,False,Scleroderma,bovista
+376_MH614759.1,145387,MH614759.1,767,02-MAY-2019,Chalciporus piperatus,"location: [0:767]
+authors: Vadthanarat,S., Lumyong,S. and Raspe,O.
+title: Cacaoporus, a new Boletaceae genus, with two new species from Thailand
+journal: MycoKeys (2019) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['Belgium'],False,Chalciporus,piperatus
+378_MG212636.1,121052,MG212636.1,766,02-MAY-2019,Leccinum variicolor,"location: [0:766]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['Belgium'],False,Leccinum,variicolor
+379_KT990422.1,121051,KT990422.1,617,06-NOV-2016,Leccinum scabrum,"location: [0:617]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['China'],False,Leccinum,scabrum
+380_MG212634.1,121045,MG212634.1,766,02-MAY-2019,Xerocomus impolitus,"location: [0:766]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['Belgium'],False,Xerocomus,impolitus
+381_MK766369.1,121037,MK766369.1,779,18-DEC-2019,Sutorius eximius,"location: [0:779]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['USA: Massachusetts'],False,Sutorius,eximius
+382_KU852291.1,116602,KU852291.1,796,30-NOV-2017,Suillus fluryi,"location: [0:796]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['United Kingdom: Yarmouth, Bouldnor, Bouldnor Copse, Isle of Wight, England']",False,Suillus,fluryi
+384_MK766370.1,98230,MK766370.1,771,18-DEC-2019,Tylopilus felleus,"location: [0:771]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['USA: New York'],False,Tylopilus,felleus
+385_MH890583.1,90004,MH890583.1,714,23-MAR-2019,Rhizopogon roseolus,"location: [0:714]
+authors: Mujic,A.B., Zheng,N., Kim,K., Spatafora,J.W., Castellano,M.A. and Smith,M.E.
+title: The Cedrus-associated truffle Trappeindia himalayensis is a morphologically unique and phylogenetically divergent species of Rhizopogon
+journal: Mycologia, 1-10 (2019) In press
+medline id: 
+pubmed id: 30753119
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['USA'],False,Rhizopogon,roseolus
+386_KU852330.1,85998,KU852330.1,808,30-NOV-2017,Suillus viscidus,"location: [0:808]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['Canada: Holyrood, Newfoundland & Labrador']",False,Suillus,viscidus
+389_GU187795.1,85980,GU187795.1,950,14-JUL-2010,Leucogyrophana mollusca,"location: [0:950]
+authors: Binder,M., Larsson,K.H., Matheny,P.B. and Hibbett,D.S.
+title: Amylocorticiales ord. nov. and Jaapiales ord. nov.: early diverging clades of agaricomycetidae dominated by corticioid forms
+journal: Mycologia 102 (4), 865-880 (2010)
+medline id: 
+pubmed id: 20648753
+comment: 
+",['rpb2'],"['USA: Idaho, Granite Creek, Kaniksu National Forest']",False,Leucogyrophana,mollusca
+394_KT824011.1,80670,KT824011.1,764,28-APR-2016,Strobilomyces floccopus,"location: [0:764]
+authors: Raspe,O., Vadthanarat,S., De Kesel,A., Degreef,J., Hyde,K.D. and Lumyong,S.
+title: Pulveroboletus fragrans, a new Boletaceae species from Northern Thailand, with a remarkable aromatic odor
+journal: Mycol. Prog. 15, 38 (2016)
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],,False,Strobilomyces,floccopus
+398_MF818205.1,80648,MF818205.1,678,06-DEC-2018,Gyroporus cyanescens,"location: [0:678]
+authors: Davoodian,N., Bergemann,S.E., Hosaka,K., Raspe,O., Bougher,N.L., Fechner,N.A., Henkel,T.W., Gelardi,M., Soytong,K., Naseer,A., Ortiz-Santana,B., Baroni,T.J., Nagasawa,E., Smith,M.E. and Halling,R.E.
+title: A global view of Gyroporus: molecular phylogenetics, diversity patterns, and new species
+journal: Mycologia 110 (5), 985-995 (2018)
+medline id: 
+pubmed id: 30303458
+comment: 
+",['rpb2'],,False,Gyroporus,cyanescens
+402_MG212657.1,80609,MG212657.1,766,02-MAY-2019,Xerocomus subtomentosus,"location: [0:766]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['Belgium'],False,Xerocomus,subtomentosus
+403_KT006708.1,80602,KT006708.1,689,09-SEP-2015,Serpula himantioides,"location: [0:689]
+authors: Balasundaram,S.V., Engh,I.B., Skrede,I. and Kauserud,H.
+title: How many DNA markers are needed to reveal cryptic fungal species?
+journal: Fungal Biol 119 (10), 940-945 (2015)
+medline id: 
+pubmed id: 26399188
+comment: 
+",['rpb2'],,False,Serpula,himantioides
+404_KT990486.1,80580,KT990486.1,705,06-NOV-2016,Xanthoconium affine,"location: [0:705]
+authors: Wu,G., Li,Y.-C., Zhu,X.-T., Zhao,K., Han,L.-H., Cui,Y.-Y., Li,F., Xu,J.-P. and Yang,Z.-L.
+title: One hundred noteworthy boletes from China
+journal: Fungal Divers. (2016) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['USA'],False,Xanthoconium,affine
+405_MK766279.1,80578,MK766279.1,770,18-DEC-2019,Boletellus ananas,"location: [0:770]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['Belize'],False,Boletellus,ananas
+406_LN714660.1,72124,LN714660.1,727,18-MAY-2017,Hygrophoropsis aurantiaca,"authors: Vetrovsky,T., Kolarik,M., Zifcakova,L., Zelenka,T. and Baldrian,P.
+title: The rpb2 gene represents a viable alternative molecular marker for the analysis of environmental fungal communities
+journal: Mol Ecol Resour 16 (2), 388-401 (2016)
+medline id: 
+pubmed id: 26287723
+comment: 
+",['RPB2'],['Czech Republic'],False,Hygrophoropsis,aurantiaca
+409_KU852325.1,48590,KU852325.1,760,30-NOV-2017,Suillus tridentinus,"location: [0:760]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['Germany: West Germany'],False,Suillus,tridentinus
+410_KU852344.1,48589,KU852344.1,719,30-NOV-2017,Suillus tomentosus,"location: [0:719]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['Canada: Yellowhead Co., Alberta']",False,Suillus,tomentosus
+411_KU852356.1,48587,KU852356.1,760,30-NOV-2017,Suillus subaureus,"location: [0:760]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['USA'],False,Suillus,subaureus
+412_KU852313.1,48585,KU852313.1,764,30-NOV-2017,Suillus spectabilis,"location: [0:764]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['USA: Southern Michigan'],False,Suillus,spectabilis
+413_KU852348.1,48584,KU852348.1,749,30-NOV-2017,Suillus sibiricus,"location: [0:749]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['China: Heilongjiang, Harbin, Mulan Co., Dagui Zhen']",False,Suillus,sibiricus
+414_KU852299.1,48582,KU852299.1,761,30-NOV-2017,Suillus pungens,"location: [0:761]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['USA: Strawberry Canyon, Alameda Co., CA']",False,Suillus,pungens
+415_KU852303.1,48580,KU852303.1,715,30-NOV-2017,Suillus pseudobrevipes,"location: [0:715]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['USA: Near top of Mt. Vision, Marin co., CA']",False,Suillus,pseudobrevipes
+416_KU852364.1,48579,KU852364.1,784,30-NOV-2017,Suillus placidus,"location: [0:784]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['USA: 4.5 miles north of ashburnham, Worcester, Massachusetts']",False,Suillus,placidus
+417_KU852371.1,48578,KU852371.1,753,30-NOV-2017,Suillus paluster,"location: [0:753]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"[""China: Dabai Mt., Daxing'anling, Heilongjiang province""]",False,Suillus,paluster
+418_KU852372.1,48577,KU852372.1,793,30-NOV-2017,Suillus ochraceoroseus,"location: [0:793]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['USA: Washington'],False,Suillus,ochraceoroseus
+419_MH890577.1,48574,MH890577.1,721,23-MAR-2019,Suillus lakei,"location: [0:721]
+authors: Mujic,A.B., Zheng,N., Kim,K., Spatafora,J.W., Castellano,M.A. and Smith,M.E.
+title: The Cedrus-associated truffle Trappeindia himalayensis is a morphologically unique and phylogenetically divergent species of Rhizopogon
+journal: Mycologia, 1-10 (2019) In press
+medline id: 
+pubmed id: 30753119
+comment: Publication Status: Available-Online prior to print
+",['RPB2'],['Argentina'],False,Suillus,lakei
+420_KU852347.1,48573,KU852347.1,721,30-NOV-2017,Suillus intermedius,"location: [0:721]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['USA: cherokke national forest, Bald River Falls, Monroe Co., TENN']",False,Suillus,intermedius
+421_KU852329.1,48572,KU852329.1,787,30-NOV-2017,Suillus grisellus,"location: [0:787]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['USA: Michigan'],False,Suillus,grisellus
+422_KU852301.1,48570,KU852301.1,779,30-NOV-2017,Suillus glandulosipes,"location: [0:779]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"[""USA: Bean's orchard, Mendocino Co., CA""]",False,Suillus,glandulosipes
+423_KU852375.1,48566,KU852375.1,777,30-NOV-2017,Suillus caerulescens,"location: [0:777]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['USA: Knowland Park, CA']",False,Suillus,caerulescens
+424_KU852302.1,48565,KU852302.1,786,30-NOV-2017,Suillus brevipes,"location: [0:786]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['Canada: Miette Hot Springs, Jasper Park County, Alberta']",False,Suillus,brevipes
+426_KU852336.1,48563,KU852336.1,784,30-NOV-2017,Suillus bovinus,"location: [0:784]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['United Kingdom: Esher, Oxshott Heath, urrey, England']",False,Suillus,bovinus
+427_KU852369.1,48562,KU852369.1,763,30-NOV-2017,Suillus asiaticus,"location: [0:763]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['China: Tang Wang He National Park, Yichun City, Heilongjiang province']",False,Suillus,asiaticus
+429_FJ536650.1,37468,FJ536650.1,788,23-MAY-2012,Pisolithus tinctorius,"location: [0:788]
+authors: Wilson,A.W., Binder,M. and Hibbett,D.S.
+title: Diversity and evolution of ectomycorrhizal host associations in the Sclerodermatineae (Boletales, Basidiomycota)
+journal: New Phytol. 194 (4), 1079-1095 (2012)
+medline id: 
+pubmed id: 22471405
+comment: 
+",['RPB2'],,False,Pisolithus,tinctorius
+430_MK766304.1,36058,MK766304.1,770,18-DEC-2019,Xerocomus badius,"location: [0:770]
+authors: Kuo,M. and Ortiz-Santana,B.
+title: Revision of leccinoid fungi, with emphasis on North American taxa, based on molecular and morphological data
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['USA: New York'],False,Xerocomus,badius
+431_MG212618.1,36056,MG212618.1,767,02-MAY-2019,Boletus edulis,"location: [0:767]
+authors: Vadthanarat,S., Raspe,O. and Lumyong,S.
+title: Phylogenetic affinities of the sequestrate genus Rhodactina (Boletaceae), with a new species, R. rostratispora from Thailand
+journal: MycoKeys (29), 63-80 (2018)
+medline id: 
+pubmed id: 29559826
+comment: Publication Status: Online-Only
+",['rpb2'],['Belgium'],False,Boletus,edulis
+432_KU852308.1,5384,KU852308.1,652,30-NOV-2017,Suillus luteus,"location: [0:652]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['USA'],False,Suillus,luteus
+433_KU852357.1,5383,KU852357.1,791,30-NOV-2017,Suillus spraguei,"location: [0:791]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['USA: Tennessee, Sevier County']",False,Suillus,spraguei
+434_KU852319.1,5382,KU852319.1,602,30-NOV-2017,Suillus grevillei,"location: [0:602]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],"['United Kingdom: Gwydyr Forest, Snowdonia Nat. Park, Mountainous scenery, villages & trails']",False,Suillus,grevillei
+435_KU852317.1,5381,KU852317.1,747,30-NOV-2017,Suillus sinuspaulianus,"location: [0:747]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['Canada: Quebec'],False,Suillus,sinuspaulianus
+436_KU852368.1,5380,KU852368.1,795,30-NOV-2017,Suillus cavipes,"location: [0:795]
+authors: Zhang,R., Shi,X.-F., Mueller,G.M. and Liu,P.-G.
+title: Dilemmatic Calibration of Evolutionary History in the Genus Suillus (Boletales, Basidiomycota) Revealed by Host Association Analysis
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['USA: Southern Michigan'],False,Suillus,cavipes
+437_MH580824.1,5374,MH580824.1,765,25-MAR-2019,Phylloporus rhodoxanthus,"location: [0:765]
+authors: Chuankid,B., Vadthanarat,S., Hyde,K.D., Thongklang,N., Zhao,R., Lumyong,S. and Raspe,O.
+title: Three new Phylloporus species from China and Thailand
+journal: Mycol. Prog. (2019) In press
+medline id: 
+pubmed id: 
+comment: 
+",['rpb2'],['Austria'],False,Phylloporus,rhodoxanthus
+438_MH911624.1,1745197,MH911624.1,566,31-OCT-2019,Russula sp.,"location: [0:566]
+authors: Song,J.
+title: Morphological and molecular evidences for two new species within Russula Subgenus Compactae from China
+journal: Unpublished
+medline id: 
+pubmed id: 
+comment: 
+",['RPB2'],['China'],True,Russula,sp.
+439_LN714623.1,5341,LN714623.1,710,18-MAY-2017,Agaricus bisporus,"authors: Vetrovsky,T., Kolarik,M., Zifcakova,L., Zelenka,T. and Baldrian,P.
+title: The rpb2 gene represents a viable alternative molecular marker for the analysis of environmental fungal communities
+journal: Mol Ecol Resour 16 (2), 388-401 (2016)
+medline id: 
+pubmed id: 26287723
+comment: 
+",['RPB2'],['Slovakia'],True,Agaricus,bisporus
+440_FJ534945.1,5217,FJ534945.1,755,10-MAR-2009,Tremella mesenterica,"location: [0:755]
+authors: Findley,K., Rodriguez-Carres,M., Metin,B., Kroiss,J., Fonseca,A., Vilgalys,R. and Heitman,J.
+title: Phylogeny and phenotypic characterization of pathogenic Cryptococcus species and closely related saprobic taxa in the Tremellales
+journal: Eukaryotic Cell 8 (3), 353-361 (2009)
+medline id: 
+pubmed id: 19151324
+comment: 
+",['RPB2'],,True,Tremella,mesenterica

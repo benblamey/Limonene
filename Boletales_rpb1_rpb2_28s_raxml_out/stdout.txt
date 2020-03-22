@@ -1,0 +1,6 @@
+CIPRES_THREADSPP=12
+CIPRES_NP=1
+running:
+raxmlHPC-PTHREADS -T 12 -n result -s infile.txt -c 25 -m GTRCAT -p 12345 -q part.txt
+ERROR trying to assign model 0 to position 1104 
+while already model 0 has been assigned to this position

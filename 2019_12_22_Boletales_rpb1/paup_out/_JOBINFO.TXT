@@ -1,0 +1,14 @@
+Task\ label=REST v1_26
+Task\ ID=69856
+Tool=PAUP_XSEDE
+created\ on=2020-01-06 04:18:36.0
+JobHandle=NGBW-JOB-PAUP_XSEDE-C8815E274DF1433790B1B51D2A63991D
+resource=comet
+User\ ID=1714
+User\ Name=biotomme
+email=thomas.huber@evobio.eu
+
+Output=(result_files,* ,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=1
+JOBID=30702796

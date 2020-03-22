@@ -1,0 +1,86 @@
+
+P A U P *
+Version 4.0a (build 166) for Unix/Linux (built on Sep  1 2019 at 21:20:26)
+Mon Jan  6 04:18:52 2020
+
+        -----------------------------NOTICE-----------------------------
+          This is a test version that is still changing rapidly.
+          Please report bugs to dave@phylosolutions.com
+        ----------------------------------------------------------------
+
+Running on Intel(R) 64 architecture
+SSE vectorization enabled
+SSSE3 instructions supported
+Multithreading enabled for likelihood using Pthreads
+Compiled using GNU C compiler (gcc) 4.4.7
+
+paup>execute paup_block.nex;lset nthreads=1;
+
+Error(#102): Cannot find file "paup_block.nex"
+                 Make sure the filename has been specified correctly (including upper- vs. lower-
+                 case on operating systems where case is important in filenames).
+
+paup>
+
+paup>set autoclose=yes;
+
+paup>
+
+paup>execute infile.nex;
+
+Processing of file "/projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-PAUP_XSEDE-
+C8815E274DF1433790B1B51D2A63991D/infile.nex" begins...
+
+Data read in DNA format
+
+Data matrix has 383 taxa, 1382 characters
+Valid character-state symbols: ACGT
+Missing data identified by '?'
+Gaps identified by '-'
+"Equate" macros in effect:
+   R,r ==> {AG}
+   Y,y ==> {CT}
+   M,m ==> {AC}
+   K,k ==> {GT}
+   S,s ==> {CG}
+   W,w ==> {AT}
+   H,h ==> {ACT}
+   B,b ==> {CGT}
+   V,v ==> {ACG}
+   D,d ==> {AGT}
+   N,n ==> {ACGT}
+
+        -----------------------------NOTICE-----------------------------
+          This is a test version that is still changing rapidly.
+          Please report bugs to dave@phylosolutions.com
+        ----------------------------------------------------------------
+
+Logging output to file "/projects/ps-ngbt/backend/comet_workspace/NGBW-JOB-PAUP_XSEDE-
+C8815E274DF1433790B1B51D2A63991D/pauprun.log".
+
+Bootstrap method with heuristic search:
+  Number of bootstrap replicates = 1000
+  Starting seed = generated automatically
+  Number of characters resampled in each replicate = 1382
+  Optimality criterion = parsimony
+    Character-status summary:
+      Of 1382 total characters:
+        All characters are of type 'unord'
+        All characters have equal weight
+        374 characters are constant (proportion = 0.270622)
+        232 variable characters are parsimony-uninformative
+        Number of parsimony-informative characters = 776
+    Gaps are treated as "missing"
+    Multistate taxa interpreted as uncertainty
+  Starting tree(s) obtained via stepwise addition
+    Addition sequence: random
+    Number of replicates = 10
+    Starting seed = generated automatically
+    Number of trees held at each step = 1
+  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
+    Steepest descent option not in effect
+  Initial 'Maxtrees' setting = 100 (will be auto-increased by 100)
+  Branches collapsed (creating polytomies) if maximum branch length is zero
+  'MulTrees' option in effect
+  No topological constraints in effect
+  Trees are unrooted
