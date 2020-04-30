@@ -968,17 +968,17 @@ def cipres_lyrics(job,
                                        additional_information,
                                        file_name],
                                  index=HEADER)
+    csv_filepath = f'{working_dir}/CIPRES_memory.csv'
     try:
-        cipres_csv = pd.read_csv(f'{working_dir}/CIPRES_memory.csv',
+        cipres_csv = pd.read_csv(csv_filepath,
                                  sep=',',
                                  header='infer')
-    except FileNotFoundError:
-        cipres_memory.to_csv(f'{working_dir}/CIPRES_memory.csv')
-        print(f'CIPRES run was documented in {working_dir}/CIPRES_memory.csv.')
-    else:
         cipres_memory = pd.concat([cipres_csv, cipres_memory])
-        cipres_memory.to_csv(f'{working_dir}/CIPRES_memory.csv')
-        print(f'CIPRES run was documented in {working_dir}/CIPRES_memory.csv.')
+    except FileNotFoundError:
+        pass
+
+    cipres_memory.to_csv(csv_filepath)
+    print(f'CIPRES run was documented in {csv_filepath}.')
     return
 
 
